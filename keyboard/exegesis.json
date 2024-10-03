@@ -1,0 +1,87 @@
+{
+    "version": "1.0",
+    "name": "exegesis",
+    "author": "Floriane Goy <floriane.goy@unige.ch>",
+    "characters": [
+        {
+            
+            "character": "q;",
+            "legend" : "Latin small letter et with the shapped semi-colon",
+            "keyboard_code": null,
+            "column": 0,
+            "row": 0           
+        },
+        {
+            
+            "character": "ſ",
+            "keyboard_code": null,
+            "column": 1,
+            "row": 0
+        },
+        {
+            "character": "¬",
+            "keyboard_code": 67,
+            "column": 2,
+            "row": 0
+        },
+        {
+                        
+            "character": "æ",
+            "legend": "ligature ae",
+            "keyboard_code": 68,
+            "column": 3,
+            "row": 0
+        },
+        {
+            "character": "❧",
+            "legend": "fleuron",
+            "keyboard_code": "U+2767",
+            "column": 4,
+            "row": 0
+        },
+         {
+            "character": "ę",
+            "legend": "e with ogonek",
+            "keyboard_code": null,
+            "column": 5,
+            "row": 0,
+        }
+        {
+            
+            
+            "character": ";",
+            "legend": "shapped semi-colon",
+            "keyboard_code": null,
+            "column": 0,
+            "row": 1
+        },
+        {       
+           "character": "ꝙ",
+            "legend": "Q with diagonal stroke",
+            "keyboard_code": null,
+            "column": 1,
+            "row": 1   
+        },
+        {        
+            "character": "q́;",
+            "legend": "acute accent on q with shapped semi-colon",
+            "keyboard_code": null,
+            "column": 2, 
+            "row": 1
+        },
+        { 
+            "character": "·",
+            "legend": "middle dot",
+            "keyboard_code": null,
+            "column": 3,  
+            "row": 1 
+        },
+        {    
+            "character": "đ",
+            "legend": "d with a stroke",
+            "keyboard_code": null, 
+            "column": 4,
+            "row": 1
+        }
+    ]
+}
