@@ -4,3 +4,4 @@
 
 doctrina veritatis
 Doctrina humilitatis 
+sine charitate veritas non est
