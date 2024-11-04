@@ -153,7 +153,7 @@ url: https://github.com/16thExegesisDH/HTR_Paul_corpus
 volume:
 - count: 34586
   metric: characters
-- count: 21
+- count: 22
   metric: files
 - count: 913
   metric: lines
