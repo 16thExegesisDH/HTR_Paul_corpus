@@ -59,13 +59,13 @@
                     WC="0.9861512656481761"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="76"
+        <TextBlock HPOS="67"
                    VPOS="360"
-                   WIDTH="1658"
+                   WIDTH="1667"
                    HEIGHT="2550"
                    ID="block_4"
                    TAGREFS="BT12">
-          <Shape><Polygon POINTS="1734 360 1734 2910 84 2910 76 376"/></Shape>
+          <Shape><Polygon POINTS="1734 360 1734 2910 84 2910 67 363"/></Shape>
           <TextLine ID="line_3"
                     TAGREFS="LT8"
                     BASELINE="847 383 1720 379" 
@@ -802,12 +802,13 @@
                     WC="0.9953013902687164"></String>
           </TextLine>
           <TextLine ID="line_52"
+                    TAGREFS="LT8"
                     BASELINE="134 2569 1724 2553" 
                     HPOS="132"
                     VPOS="2525"
                     WIDTH="1592"
                     HEIGHT="69">
-            <Shape><Polygon POINTS="134 2569 134 2594 1724 2572 1724 2553 1718 2525 132 2533 134 2569"/></Shape>
+            <Shape><Polygon POINTS="134 2594 1724 2572 1724 2553 1718 2525 132 2533 134 2569"/></Shape>
 	    <String CONTENT="magis. Et malem eſſel &amp; vere dici poſſe Chriſti ſeruus: q̃ reuera eſſel dici ſummus re¬"
                     HPOS="132"
                     VPOS="2525"
@@ -952,7 +953,7 @@
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="1586 177 1586 239 1692 239 1692 177"/></Shape>
           <TextLine ID="eSc_line_d4efc998"
-                    TAGREFS="LT10"
+                    TAGREFS="LT8"
                     BASELINE="1622 230 1666 232" 
                     HPOS="1618"
                     VPOS="179"
@@ -998,6 +999,7 @@
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="1769 1485 1769 1549 1822 1549 1822 1485"/></Shape>
           <TextLine ID="eSc_line_d187ffce"
+                    TAGREFS="LT8"
                     BASELINE="1778 1535 1810 1537" 
                     HPOS="1776"
                     VPOS="1485"
@@ -1020,6 +1022,7 @@
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="1778 1890 1778 1938 1822 1938 1822 1890"/></Shape>
           <TextLine ID="eSc_line_7a615e3a"
+                    TAGREFS="LT8"
                     BASELINE="1786 1924 1795 1924 1810 1929" 
                     HPOS="1776"
                     VPOS="1890"
@@ -1040,8 +1043,9 @@
                    HEIGHT="76"
                    ID="block_5"
                    TAGREFS="BT17">
-          <Shape><Polygon POINTS="1649 2885 1649 2961 1518 2961 1518 2885"/></Shape>
+          <Shape><Polygon POINTS="1649 2885 1649 2961 1518 2961 1518 2896"/></Shape>
           <TextLine ID="line_60"
+                    TAGREFS="LT8"
                     BASELINE="1523 2927 1641 2921" 
                     HPOS="1520"
                     VPOS="2886"
@@ -1079,6 +1083,7 @@
                     WC="0.8774275779724121"></String>
           </TextLine>
           <TextLine ID="eSc_line_44bf7f51"
+                    TAGREFS="LT8"
                     BASELINE="1777 2861 1791 2861 1819 2861" 
                     HPOS="1776"
                     VPOS="2859"
