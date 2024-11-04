@@ -64,8 +64,8 @@
                    WIDTH="1658"
                    HEIGHT="2550"
                    ID="block_4"
-                   >
-          <Shape><Polygon POINTS="1734 360 1734 2910 84 2910 76 386"/></Shape>
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="1734 360 1734 2910 84 2910 76 376"/></Shape>
           <TextLine ID="line_3"
                     TAGREFS="LT8"
                     BASELINE="847 383 1720 379" 
