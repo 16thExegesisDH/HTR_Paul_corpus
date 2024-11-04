@@ -26,7 +26,7 @@
                    WIDTH="863"
                    HEIGHT="852"
                    ID="block_5"
-                   >
+                   TAGREFS="BT988">
           <Shape><Polygon POINTS="892 193 902 1015 39 1041 39 189"/></Shape>
           <TextLine ID="line_1"
                     TAGREFS="LT8"
@@ -396,7 +396,7 @@
                     VPOS="781"
                     WIDTH="163"
                     HEIGHT="50">
-            <Shape><Polygon POINTS="896 820 896 831 1057 828 1057 817 1052 781 894 781 896 820"/></Shape>
+            <Shape><Polygon POINTS="896 831 1057 828 1057 817 1052 781 894 781 896 820"/></Shape>
 	    <String CONTENT="noſtrũ ua"
                     HPOS="894"
                     VPOS="781"
@@ -426,7 +426,7 @@
                     VPOS="873"
                     WIDTH="160"
                     HEIGHT="63">
-            <Shape><Polygon POINTS="896 920 896 936 1054 930 1054 916 1046 873 1032 883 1007 875 1005 875 1004 875 1002 875 968 884 955 877 954 877 952 877 951 877 949 877 948 877 932 886 894 877 896 920"/></Shape>
+            <Shape><Polygon POINTS="896 936 1054 930 1054 916 1046 873 1032 883 1007 875 1005 875 1004 875 1002 875 968 884 955 877 954 877 952 877 951 877 949 877 948 877 932 886 894 877 896 920"/></Shape>
 	    <String CONTENT="bus oppu¬"
                     HPOS="894"
                     VPOS="873"
