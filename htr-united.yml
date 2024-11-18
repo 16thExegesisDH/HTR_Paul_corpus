@@ -12,9 +12,9 @@ characters:
   - u
   - t
   - a
-  - o
   - n
   - r
+  - o
   - m
   - ſ
   - c
@@ -24,92 +24,94 @@ characters:
   - p
   - ','
   - b
-  - ̃
-  - .
   - q
   - h
+  - ̃
   - g
+  - .
   - f
   - ¬
-  - '&'
   - æ
-  - v
+  - '&'
   - I
-  - ':'
+  - v
   - x
   - E
-  - S
-  - A
-  - P
+  - ':'
   - C
+  - S
+  - P
+  - A
+  - D
   - T
   - ̀
-  - D
-  - M
   - R
-  - N
+  - M
   - V
+  - N
   - O
-  - 
-  - '!'
-  - H
   - ́
+  - 
   - j
+  - H
+  - '!'
   - Q
   - α
+  - ;
   - L
   - ο
   - ν
   - '?'
+  - ·
+  - ß
   - ι
-  - '1'
-  - '2'
-  - '4'
-  - τ
-  - œ
-  - ̨
-  - B
-  - ρ
-  - σ
   - y
+  - B
+  - '1'
+  - '4'
+  - œ
+  - '2'
+  - τ
+  - ̨
+  - ρ
+  - G
+  - σ
   - π
   - ε
-  - κ
-  - G
-  - ̓
-  - (
   - '3'
-  - ̂
+  - κ
+  - ̓
   - υ
-  - ·
-  - ;
+  - (
+  - ̂
   - μ
+  - '-'
+  - z
   - ꝙ
   - '9'
-  - z
+  - λ
   - )
   - ¶
   - »
-  - λ
-  - γ
-  - ß
-  - '8'
   - ς
+  - γ
+  - '8'
+  - £
   - '0'
+  - F
   - δ
   - ̔
+  - X
   - '|'
   - '7'
-  - F
   - ͂
   - η
-  - '6'
-  - £
-  - '-'
   - φ
-  - ̈
+  - '6'
   - '5'
-  - X
+  - ̈
+  - '*'
+  - ꝓ
   - 
   - ꝗ
   - Κ
@@ -123,8 +125,6 @@ characters:
   - Y
   - ω
   - ̧
-  - ꝓ
-  - '*'
   - J
   mode: NFD
 description: Data for data for Paul’s exegesis.
@@ -151,11 +151,11 @@ title: Lambertus
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/16thExegesisDH/HTR_Paul_corpus
 volume:
-- count: 34586
+- count: 45070
   metric: characters
-- count: 22
+- count: 31
   metric: files
-- count: 916
+- count: 1212
   metric: lines
-- count: 127
+- count: 182
   metric: regions
