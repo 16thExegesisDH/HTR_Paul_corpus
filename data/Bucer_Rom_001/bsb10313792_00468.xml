@@ -21,6 +21,29 @@
                   VPOS="0"
                   WIDTH="2096"
                   HEIGHT="3182">
+        <TextBlock HPOS="671"
+                   VPOS="91"
+                   WIDTH="922"
+                   HEIGHT="69"
+                   ID="block_14"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="1593 91 1593 160 671 160 671 91"/></Shape>
+          <TextLine ID="line_1"
+                    TAGREFS="LT10"
+                    BASELINE="677 141 1591 130" 
+                    HPOS="675"
+                    VPOS="65"
+                    WIDTH="916"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="677 152 767 162 769 162 826 153 1109 159 1110 159 1112 159 1135 148 1142 148 1252 157 1254 157 1255 157 1285 146 1296 155 1298 155 1300 155 1301 155 1482 144 1496 144 1499 144 1535 153 1537 153 1538 153 1591 143 1591 130 1586 68 1436 79 1383 70 1349 65 1347 65 1346 65 1344 65 1344 67 1338 70 1330 81 1271 81 1264 72 1259 68 1259 67 1257 67 1255 67 1254 67 1206 72 1170 77 1156 74 1135 67 1133 67 1132 67 1130 67 1128 67 1119 74 1109 81 1089 74 1070 68 1068 68 1002 68 1001 68 999 68 997 68 986 76 972 86 940 86 925 77 916 70 914 70 912 70 910 70 909 70 889 77 868 84 815 77 764 72 762 72 760 72 758 72 758 74 751 79 744 86 730 79 718 74 716 74 714 74 675 79 677 141"/></Shape>
+	    <String CONTENT="METAPHRASIS EPISTOLAE"
+                    HPOS="675"
+                    VPOS="65"
+                    WIDTH="916"
+                    HEIGHT="97"
+                    WC="0.9906701814560663"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="376"
                    VPOS="109"
                    WIDTH="101"
@@ -427,27 +450,64 @@
                     WC="0.9996948058788593"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="671"
-                   VPOS="91"
-                   WIDTH="922"
-                   HEIGHT="69"
-                   ID="block_14"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="1593 91 1593 160 671 160 671 91"/></Shape>
-          <TextLine ID="line_1"
-                    TAGREFS="LT10"
-                    BASELINE="677 141 1591 130" 
-                    HPOS="675"
-                    VPOS="65"
-                    WIDTH="916"
-                    HEIGHT="97">
-            <Shape><Polygon POINTS="677 152 767 162 769 162 826 153 1109 159 1110 159 1112 159 1135 148 1142 148 1252 157 1254 157 1255 157 1285 146 1296 155 1298 155 1300 155 1301 155 1482 144 1496 144 1499 144 1535 153 1537 153 1538 153 1591 143 1591 130 1586 68 1436 79 1383 70 1349 65 1347 65 1346 65 1344 65 1344 67 1338 70 1330 81 1271 81 1264 72 1259 68 1259 67 1257 67 1255 67 1254 67 1206 72 1170 77 1156 74 1135 67 1133 67 1132 67 1130 67 1128 67 1119 74 1109 81 1089 74 1070 68 1068 68 1002 68 1001 68 999 68 997 68 986 76 972 86 940 86 925 77 916 70 914 70 912 70 910 70 909 70 889 77 868 84 815 77 764 72 762 72 760 72 758 72 758 74 751 79 744 86 730 79 718 74 716 74 714 74 675 79 677 141"/></Shape>
-	    <String CONTENT="METAPHRASIS EPISTOLAE"
-                    HPOS="675"
-                    VPOS="65"
-                    WIDTH="916"
-                    HEIGHT="97"
-                    WC="0.9906701814560663"></String>
+        <TextBlock HPOS="288"
+                   VPOS="1827"
+                   WIDTH="99"
+                   HEIGHT="80"
+                   ID="eSc_textblock_0631f246"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="288 1907 288 1827 387 1827 387 1907"/></Shape>
+          <TextLine ID="line_29"
+                    TAGREFS="LT8"
+                    BASELINE="341 1870 394 1866" 
+                    HPOS="331"
+                    VPOS="1797"
+                    WIDTH="61"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="339 1869 339 1890 392 1880 392 1864 382 1797 331 1803 339 1869"/></Shape>
+	    <String CONTENT="11"
+                    HPOS="331"
+                    VPOS="1797"
+                    WIDTH="61"
+                    HEIGHT="93"
+                    WC="0.9999914765357971"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="390"
+                   VPOS="1813"
+                   WIDTH="768"
+                   HEIGHT="137"
+                   ID="block_5"
+                   TAGREFS="BT979">
+          <Shape><Polygon POINTS="1158 1813 1158 1950 390 1950 390 1813"/></Shape>
+          <TextLine ID="eSc_line_6010b9b9"
+                    TAGREFS="LT8"
+                    BASELINE="439 1877 1152 1873" 
+                    HPOS="435"
+                    VPOS="1813"
+                    WIDTH="716"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1098 1813 1071 1813 1045 1813 1018 1813 992 1813 965 1813 939 1813 912 1813 886 1813 859 1813 833 1813 806 1813 780 1813 753 1813 726 1813 700 1813 673 1813 647 1813 620 1813 594 1813 567 1813 541 1813 514 1813 488 1813 461 1813 435 1813 437 1874 437 1885 1148 1885 1151 1872 1143 1813 1124 1813"/></Shape>
+	    <String CONTENT="Nullius rei cui debitores ma"
+                    HPOS="435"
+                    VPOS="1813"
+                    WIDTH="716"
+                    HEIGHT="72"></String>
+          </TextLine>
+          <TextLine ID="line_30"
+                    TAGREFS="LT8"
+                    BASELINE="367 1925 1159 1925" 
+                    HPOS="366"
+                    VPOS="1874"
+                    WIDTH="790"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="366 1922 366 1964 1156 1964 1156 1922 1156 1874 366 1874 366 1922"/></Shape>
+	    <String CONTENT="nete, quàm ut diligatis inuicem ali"
+                    HPOS="366"
+                    VPOS="1874"
+                    WIDTH="790"
+                    HEIGHT="90"
+                    WC="0.9962353689803017"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1180"
@@ -871,66 +931,6 @@
                     WC="0.9994535909758674"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="288"
-                   VPOS="1827"
-                   WIDTH="99"
-                   HEIGHT="80"
-                   ID="eSc_textblock_0631f246"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="288 1907 288 1827 387 1827 387 1907"/></Shape>
-          <TextLine ID="line_29"
-                    TAGREFS="LT8"
-                    BASELINE="341 1870 394 1866" 
-                    HPOS="331"
-                    VPOS="1797"
-                    WIDTH="61"
-                    HEIGHT="93">
-            <Shape><Polygon POINTS="339 1869 339 1890 392 1880 392 1864 382 1797 331 1803 339 1869"/></Shape>
-	    <String CONTENT="11"
-                    HPOS="331"
-                    VPOS="1797"
-                    WIDTH="61"
-                    HEIGHT="93"
-                    WC="0.9999914765357971"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="390"
-                   VPOS="1813"
-                   WIDTH="768"
-                   HEIGHT="137"
-                   ID="block_5"
-                   TAGREFS="BT979">
-          <Shape><Polygon POINTS="1158 1813 1158 1950 390 1950 390 1813"/></Shape>
-          <TextLine ID="eSc_line_6010b9b9"
-                    TAGREFS="LT8"
-                    BASELINE="439 1877 1152 1873" 
-                    HPOS="435"
-                    VPOS="1813"
-                    WIDTH="716"
-                    HEIGHT="72">
-            <Shape><Polygon POINTS="1098 1813 1071 1813 1045 1813 1018 1813 992 1813 965 1813 939 1813 912 1813 886 1813 859 1813 833 1813 806 1813 780 1813 753 1813 726 1813 700 1813 673 1813 647 1813 620 1813 594 1813 567 1813 541 1813 514 1813 488 1813 461 1813 435 1813 437 1874 437 1885 1148 1885 1151 1872 1143 1813 1124 1813"/></Shape>
-	    <String CONTENT="Nullius rei cui debitores ma"
-                    HPOS="435"
-                    VPOS="1813"
-                    WIDTH="716"
-                    HEIGHT="72"></String>
-          </TextLine>
-          <TextLine ID="line_30"
-                    TAGREFS="LT8"
-                    BASELINE="367 1925 1159 1925" 
-                    HPOS="366"
-                    VPOS="1874"
-                    WIDTH="790"
-                    HEIGHT="90">
-            <Shape><Polygon POINTS="366 1922 366 1964 1156 1964 1156 1922 1156 1874 366 1874 366 1922"/></Shape>
-	    <String CONTENT="nete, quàm ut diligatis inuicem ali"
-                    HPOS="366"
-                    VPOS="1874"
-                    WIDTH="790"
-                    HEIGHT="90"
-                    WC="0.9962353689803017"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="691"
                    VPOS="1969"
                    WIDTH="934"
@@ -967,28 +967,6 @@
                     WIDTH="453.0"
                     HEIGHT="70.0"
                     WC="0.9956225675085316"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="336"
-                   VPOS="2064"
-                   WIDTH="163"
-                   HEIGHT="191"
-                   ID="eSc_textblock_2a733b96"
-                   TAGREFS="BT10">
-          <Shape><Polygon POINTS="336 2064 336 2255 499 2255 499 2064"/></Shape>
-          <TextLine ID="line_49"
-                    TAGREFS="LT8"
-                    BASELINE="412 2239 420 2241" 
-                    HPOS="406"
-                    VPOS="2156"
-                    WIDTH="27"
-                    HEIGHT="106">
-            <Shape><Polygon POINTS="412 2239 406 2260 415 2262 420 2241 433 2158 428 2156 412 2239"/></Shape>
-	    <String CONTENT=""
-                    HPOS="406"
-                    VPOS="2156"
-                    WIDTH="27"
-                    HEIGHT="106"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="382"
@@ -1664,6 +1642,14 @@
                     HEIGHT="74"
                     WC="0.9998709201812744"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="336"
+                   VPOS="2064"
+                   WIDTH="163"
+                   HEIGHT="191"
+                   ID="eSc_textblock_2a733b96"
+                   TAGREFS="BT10">
+          <Shape><Polygon POINTS="336 2064 336 2255 499 2255 499 2064"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
