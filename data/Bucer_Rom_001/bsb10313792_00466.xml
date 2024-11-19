@@ -196,17 +196,18 @@
                     WC="0.9890218416326925"></String>
           </TextLine>
           <TextLine ID="line_9"
+                    TAGREFS="LT8"
                     BASELINE="397 695 1972 684" 
-                    HPOS="393.0"
-                    VPOS="639.0"
-                    WIDTH="1578.0"
-                    HEIGHT="83.0">
-            <Shape><Polygon POINTS="395 692 395 722 1971 708 1971 682 1963 639 393 653 395 692"/></Shape>
+                    HPOS="393"
+                    VPOS="639"
+                    WIDTH="1578"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="395 722 1971 708 1971 682 1963 639 393 653 395 692"/></Shape>
 	    <String CONTENT="tas contra iactet, animũ noſtrũ nulla re prorſus exatiari alia, aut quietũ reddi"
-                    HPOS="393.0"
-                    VPOS="639.0"
-                    WIDTH="1578.0"
-                    HEIGHT="83.0"
+                    HPOS="393"
+                    VPOS="639"
+                    WIDTH="1578"
+                    HEIGHT="83"
                     WC="0.9912328203040434"></String>
           </TextLine>
           <TextLine ID="line_10"
