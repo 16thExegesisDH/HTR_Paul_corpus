@@ -540,21 +540,6 @@
                     HEIGHT="90"
                     WC="0.9726756630521832"></String>
           </TextLine>
-          <TextLine ID="line_19"
-                    TAGREFS="LT8"
-                    BASELINE="1199 408 1945 401" 
-                    HPOS="1193"
-                    VPOS="339"
-                    WIDTH="751"
-                    HEIGHT="93">
-            <Shape><Polygon POINTS="1196 405 1196 432 1942 432 1944 400 1939 352 1589 339 1586 339 1193 352 1196 405"/></Shape>
-	    <String CONTENT="tum feceris, ne falſum dixeris te¬"
-                    HPOS="1193"
-                    VPOS="339"
-                    WIDTH="751"
-                    HEIGHT="93"
-                    WC="0.9968333857900956"></String>
-          </TextLine>
           <TextLine ID="eSc_line_0ddc8812"
                     TAGREFS="LT8"
                     BASELINE="1199 475 1949 468" 
@@ -569,6 +554,21 @@
                     WIDTH="754"
                     HEIGHT="90"
                     WC="0.9974501632875011"></String>
+          </TextLine>
+          <TextLine ID="line_19"
+                    TAGREFS="LT8"
+                    BASELINE="1199 408 1945 401" 
+                    HPOS="1193"
+                    VPOS="339"
+                    WIDTH="751"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="1196 405 1196 432 1942 432 1944 400 1939 352 1589 339 1586 339 1193 352 1196 405"/></Shape>
+	    <String CONTENT="tum feceris, ne falſum dixeris te¬"
+                    HPOS="1193"
+                    VPOS="339"
+                    WIDTH="751"
+                    HEIGHT="93"
+                    WC="0.9968333857900956"></String>
           </TextLine>
           <TextLine ID="eSc_line_4da4f54c"
                     TAGREFS="LT8"
@@ -1300,7 +1300,7 @@
                     VPOS="2116"
                     WIDTH="756"
                     HEIGHT="71">
-            <Shape><Polygon POINTS="1199 2161 1199 2187 1950 2187 1952 2158 1944 2116 1196 2121 1199 2161"/></Shape>
+            <Shape><Polygon POINTS="1199 2187 1950 2187 1952 2158 1944 2116 1196 2121 1199 2161"/></Shape>
 	    <String CONTENT="me comprobauit, hanc certitudinem grauæ"
                     HPOS="1196"
                     VPOS="2116"
@@ -1496,6 +1496,51 @@
                    ID="block_3"
                    TAGREFS="BT854">
           <Shape><Polygon POINTS="1977 2723 1977 2913 1186 2913 1186 2723"/></Shape>
+          <TextLine ID="line_80"
+                    TAGREFS="LT8"
+                    BASELINE="1225 2754 1887 2754 1960 2758" 
+                    HPOS="1220"
+                    VPOS="2723"
+                    WIDTH="738"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="1936 2723 1910 2723 1886 2723 1859 2723 1833 2723 1806 2723 1780 2723 1753 2723 1727 2723 1700 2723 1674 2723 1647 2723 1621 2723 1594 2723 1568 2723 1541 2723 1514 2723 1488 2723 1461 2723 1435 2723 1408 2723 1382 2723 1355 2723 1329 2723 1302 2723 1276 2723 1249 2723 1223 2723 1223 2752 1220 2768 1952 2778 1958 2757 1958 2723 1936 2723"/></Shape>
+	    <String CONTENT="Et ſupra quidem, quinto, ſexto, &amp; octauc"
+                    HPOS="1220"
+                    VPOS="2723"
+                    WIDTH="738"
+                    HEIGHT="55"
+                    WC="0.9986364975571632"></String>
+          </TextLine>
+          <TextLine ID="line_81"
+                    TAGREFS="LT8"
+                    BASELINE="1183 2796 1960 2800" 
+                    HPOS="1178"
+                    VPOS="2757"
+                    WIDTH="780"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="1180 2794 1178 2824 1952 2826 1958 2797 1955 2760 1180 2757 1180 2794"/></Shape>
+	    <String CONTENT="Apoſtolus expoſuit, quæ ſint ſtudia Chriſti"
+                    HPOS="1178"
+                    VPOS="2757"
+                    WIDTH="780"
+                    HEIGHT="69"
+                    WC="0.9906048372734425"></String>
+          </TextLine>
+          <TextLine ID="line_82"
+                    TAGREFS="LT8"
+                    BASELINE="1183 2844 1960 2844" 
+                    HPOS="1180"
+                    VPOS="2808"
+                    WIDTH="778"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="1180 2842 1180 2863 1955 2871 1958 2842 1958 2810 1180 2808 1180 2842"/></Shape>
+	    <String CONTENT="anorum, nempe, quæcun Deus immiſerir"
+                    HPOS="1180"
+                    VPOS="2808"
+                    WIDTH="778"
+                    HEIGHT="63"
+                    WC="0.9869275479703337"></String>
+          </TextLine>
           <TextLine ID="eSc_line_bd8a178c"
                     TAGREFS="LT8"
                     BASELINE="1192 2889 1476 2892 1960 2885" 
@@ -1610,53 +1655,6 @@
                    ID="eSc_textblock_8e8b924a"
                    TAGREFS="BT10">
           <Shape><Polygon POINTS="403 2102 403 2283 494 2275 498 2106"/></Shape>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="line_80"
-                    TAGREFS="LT8"
-                    BASELINE="1225 2754 1887 2754 1960 2758" 
-                    HPOS="1220"
-                    VPOS="2723"
-                    WIDTH="738"
-                    HEIGHT="55">
-            <Shape><Polygon POINTS="1936 2723 1910 2723 1886 2723 1859 2723 1833 2723 1806 2723 1780 2723 1753 2723 1727 2723 1700 2723 1674 2723 1647 2723 1621 2723 1594 2723 1568 2723 1541 2723 1514 2723 1488 2723 1461 2723 1435 2723 1408 2723 1382 2723 1355 2723 1329 2723 1302 2723 1276 2723 1249 2723 1223 2723 1223 2752 1220 2768 1952 2778 1958 2757 1958 2723 1936 2723"/></Shape>
-	    <String CONTENT="Et ſupra quidem, quinto, ſexto, &amp; octauc"
-                    HPOS="1220"
-                    VPOS="2723"
-                    WIDTH="738"
-                    HEIGHT="55"
-                    WC="0.9986364975571632"></String>
-          </TextLine>
-          <TextLine ID="line_81"
-                    TAGREFS="LT8"
-                    BASELINE="1183 2796 1960 2800" 
-                    HPOS="1178"
-                    VPOS="2757"
-                    WIDTH="780"
-                    HEIGHT="69">
-            <Shape><Polygon POINTS="1180 2794 1178 2824 1952 2826 1958 2797 1955 2760 1180 2757 1180 2794"/></Shape>
-	    <String CONTENT="Apoſtolus expoſuit, quæ ſint ſtudia Chriſti"
-                    HPOS="1178"
-                    VPOS="2757"
-                    WIDTH="780"
-                    HEIGHT="69"
-                    WC="0.9906048372734425"></String>
-          </TextLine>
-          <TextLine ID="line_82"
-                    TAGREFS="LT8"
-                    BASELINE="1183 2844 1960 2844" 
-                    HPOS="1180"
-                    VPOS="2808"
-                    WIDTH="778"
-                    HEIGHT="63">
-            <Shape><Polygon POINTS="1180 2842 1180 2863 1955 2871 1958 2842 1958 2810 1180 2808 1180 2842"/></Shape>
-	    <String CONTENT="anorum, nempe, quæcun Deus immiſerir"
-                    HPOS="1180"
-                    VPOS="2808"
-                    WIDTH="778"
-                    HEIGHT="63"
-                    WC="0.9869275479703337"></String>
-          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>
