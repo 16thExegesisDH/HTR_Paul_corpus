@@ -2,7 +2,7 @@ import pandas as pd
 import plotly.express as px
 
 # Path to the CSV file
-file_path = "updated_files_control.csv"
+file_path = "../corpus/updated_files_control.csv"
 
 # Load the CSV file
 data = pd.read_csv(file_path)
