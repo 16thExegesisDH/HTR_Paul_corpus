@@ -3,7 +3,7 @@ name: Update Plot
 on:
   push:
     paths:
-      - corpus/updated_files_control.csv
+      - ../corpus/updated_files_control.csv
 
 jobs:
   update_plot:
@@ -23,7 +23,7 @@ jobs:
 
       - name: Run the Python Script
         run: |
-          python corpus/Resultat_graph.py  # This runs the script that generates the HTML plot
+          python ../script/Resultat_graph.py  # This runs the script that generates the HTML plot
 
       - name: Commit the changes
         run: |
