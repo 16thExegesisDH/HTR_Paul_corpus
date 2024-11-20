@@ -3,7 +3,7 @@ name: Update Plot
 on:
   push:
     paths:
-      - ../corpus/updated_files_control.csv
+      - corpus/updated_files_control.csv  # Ensure the correct relative path is used
 
 jobs:
   update_plot:
@@ -21,9 +21,14 @@ jobs:
         run: |
           pip install pandas plotly
 
+      - name: Debug CSV File
+        run: |
+          ls -l ../corpus/
+          cat ../corpus/updated_files_control.csv
+
       - name: Run the Python Script
         run: |
-          python ../script/Resultat_graph.py  # This runs the script that generates the HTML plot
+          python ../script/Resultat_graph.py  # Adjusted to correct relative path
 
       - name: Commit the changes
         run: |
