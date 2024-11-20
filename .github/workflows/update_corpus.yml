@@ -23,12 +23,12 @@ jobs:
 
       - name: Debug CSV File
         run: |
-          ls -l ../corpus/
-          cat ../corpus/updated_files_control.csv
+          ls -l corpus/
+          cat corpus/updated_files_control.csv
 
       - name: Run the Python Script
         run: |
-          python ../script/Resultat_graph.py  # Adjusted to correct relative path
+          python script/Resultat_graph.py  # Adjusted to correct relative path
 
       - name: Commit the changes
         run: |
