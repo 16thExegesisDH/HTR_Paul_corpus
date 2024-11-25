@@ -277,9 +277,9 @@ Bucer_Rm_001,bsb10313792_00516.xml,Y,N,N,N,N, -, -, -
 Bucer_Rm_001,bsb10313792_00517.xml,Y,N,N,N,N, -, -, -
 Bucer_Rm_001,bsb10313792_00518.xml,Y,N,N,N,N, -, -, -
 Bucer_Rm_001,bsb10313792_00519.xml,Y,N,N,N,N, -, -, -
-lefevre_Rm_001,bsb11059254_00203.xml,Y,N,N,N,N, -, -, -
-lefevre_Rm_001,bsb11059254_00204.xml,Y,N,N,N,N, -, -, -
-lefevre_Rm_001,bsb11059254_00205.xml,Y,N,N,N,N, -, -, -
+lefevre_Rm_001,bsb11059254_00203.xml,Y,Y,Y,N,N, eSc_textblock_c2d1b52b, -, -
+lefevre_Rm_001,bsb11059254_00204.xml,Y,Y,Y,N,N, -, -, -
+lefevre_Rm_001,bsb11059254_00205.xml,Y,Y,Y,N,N, -, -, -
 lefevre_Rm_001,bsb11059254_00206.xml,Y,N,N,N,N, -, -, -
 lefevre_Rm_001,bsb11059254_00207.xml,Y,N,N,N,N, -, -, -
 lefevre_Rm_001,bsb11059254_00208.xml,Y,N,N,N,N, -, -, -
@@ -298,9 +298,9 @@ lefevre_Rm_001,bsb11059254_00220.xml,Y,N,N,N,N, -, -, -
 lefevre_Rm_001,bsb11059254_00221.xml,Y,N,N,N,N, -, -, -
 lefevre_Rm_001,bsb11059254_00222.xml,Y,N,N,N,N, -, -, -
 lefevre_Rm_001,bsb11059254_00223.xml,Y,N,N,N,N, -, -, -
-lefevre_Rm_001,bsb11059254_00224.xml,Y,Y,Y,N,N, eSc_textblock_c2d1b52b, -, -
-lefevre_Rm_001,bsb11059254_00225.xml,Y,Y,Y,N,N, -, -, -
-lefevre_Rm_001,bsb11059254_00226.xml,Y,Y,Y,N,N, -, -, -
+lefevre_Rm_001,bsb11059254_00224.xml,Y,N,N,N,N, -, -, -
+lefevre_Rm_001,bsb11059254_00225.xml,Y,N,N,N,N, -, -, -
+lefevre_Rm_001,bsb11059254_00226.xml,Y,N,N,N,N, -, -, -
 lefevre_Rm_001,bsb11059254_00227.xml,Y,N,N,N,N, -, -, -
 lefevre_Rm_001,bsb11059254_00228.xml,Y,N,N,N,N, -, -, -
 lefevre_Rm_001,bsb11059254_00229.xml,Y,N,N,N,N, -, -, -
