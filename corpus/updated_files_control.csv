@@ -223,11 +223,11 @@ Bucer_Eph_001,bsb00035303_00221.xml,Y,N,N,N,N, -, -, -
 Bucer_Eph_001,bsb00035303_00222.xml,Y,N,N,N,N, -, -, -
 Bucer_Eph_001,bsb00035303_00223.xml,Y,N,N,N,N, -, -, -
 Bucer_Eph_001,bsb00035303_00224.xml,Y,N,N,N,N, -, -, -
-Bucer_Rm_001,bsb10313792_00466.xml,Y,N,N,N,N,1, -, -
-Bucer_Rm_001,bsb10313792_00467.xml,Y,N,N,N,N,2, -, -
-Bucer_Rm_001,bsb10313792_00468.xml,Y,Y,Y,Y,N,1, -, -
-Bucer_Rm_001,bsb10313792_00469.xml,Y,Y,Y,Y,N, -, -, -
-Bucer_Rm_001,bsb10313792_00470.xml,Y,Y,Y,Y,N, -, -, -
+Bucer_Rm_001,bsb10313792_00466.xml,Y,Y,Y,N,N,eSc_textblock_f719a09d, -, -
+Bucer_Rm_001,bsb10313792_00467.xml,Y,Y,Y,N,N,eSc_textblock_2e8ff9bf;eSc_textblock_da6a4d27, -, -
+Bucer_Rm_001,bsb10313792_00468.xml,Y,Y,Y,N,N,eSc_textblock_8e8b924a, -, -
+Bucer_Rm_001,bsb10313792_00469.xml,N,N,N,N,N, -, -, -
+Bucer_Rm_001,bsb10313792_00470.xml,N,N,N,N,N, -, -, -
 Bucer_Rm_001,bsb10313792_00471.xml,Y,N,N,N,N, -, -, -
 Bucer_Rm_001,bsb10313792_00472.xml,Y,N,N,N,N, -, -, -
 Bucer_Rm_001,bsb10313792_00473.xml,Y,N,N,N,N, -, -, -
