@@ -27,4 +27,9 @@ The main documentation  is here: [Annotation Guide on GitHub](https://github.com
 | **RunningTitleZone**: pink for "COM" <br/> **DropCapitalZone**: dark viola <br/> **MainZone:Head**: yellow <br/> **MainZone:P**: dark green <br/> **MainZone:P#Continued**: light blue <br/> **NumberingZone**: rosa for "1", "C4", "D4", "5", "6" | <img src="/pictures/Lefevre_2.png" width="300"/> |
 
 
-# Guideline for Segmentation
+# Guideline for Transcription
+
+
+| **Sign** | **Example** | **Source** | **Transcription** | **Unicode** |
+|Pilcrow       |<img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/piedDeMouche_1.jpg" alt="Pillcrow" width="85" height="47">| [e-rara, p.11](https://doi.org/10.3931/e-rara-6338)| ¶ | |
+|Semicolon (shaped) |  <img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/semi-colon%20shapped.png" alt="semi-colon" width="27" height="48"> | ? | q́;  | |
