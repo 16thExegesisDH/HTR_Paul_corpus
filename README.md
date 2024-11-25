@@ -4,7 +4,7 @@
 
 # Guideline for Segmentation
 
-The main documentation can be found here: [Annotation Guide on GitHub](https://github.com/DEFI-COLaF/LADaS/blob/main/AnnotationGuide.md).
+The main documentation  is here: [Annotation Guide on GitHub](https://github.com/DEFI-COLaF/LADaS/blob/main/AnnotationGuide.md).
 
 ## Examples of Specific Cases in Our Corpus
 
