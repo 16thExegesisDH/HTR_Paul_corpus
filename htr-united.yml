@@ -74,15 +74,16 @@ characters:
   - ¶
   - »
   - α
-  - '3'
   - '1'
   - ν
   - £
-  - '2'
   - X
   - ο
   - G
   - ι
+  - '2'
+  - '3'
+  - '8'
   - '|'
   - F
   - ρ
@@ -90,7 +91,7 @@ characters:
   - υ
   - '5'
   - ꝗ
-  - '8'
+  - '9'
   - ̓
   - δ
   - ̈
@@ -102,7 +103,6 @@ characters:
   - γ
   - π
   - σ
-  - '9'
   - '6'
   - '7'
   - U
@@ -142,11 +142,11 @@ title: Lambertus
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/16thExegesisDH/HTR_Paul_corpus
 volume:
-- count: 35407
+- count: 35405
   metric: characters
 - count: 21
   metric: files
-- count: 873
+- count: 870
   metric: lines
-- count: 137
+- count: 136
   metric: regions
