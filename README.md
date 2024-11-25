@@ -31,6 +31,6 @@ The main documentation  is here: [Annotation Guide on GitHub](https://github.com
 
 | **Sign**             | **Example**                                                                                          | **Source**                                  | **Transcription** | **Unicode** |
 |----------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------|-------------------|-------------|
-| Pilcrow              | <img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/piedDeMouche_1.jpg" alt="Pillcrow" width="85" height="47"> | [e-rara, p.11](https://doi.org/10.3931/e-rara-6338) | ¶                 |     U+00B6        |
-| Semicolon (shaped)   | <img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/semi-colon%20shapped.png" alt="semi-colon" width="27" height="48"> | ?                                            | q́;                | q: U+0071 + acute U+0301;<br>;:semicolon U+003B             |
+| Pilcrow              | <img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/piedDeMouche_1.jpg" alt="Pillcrow" width="85" height="47"> | [e-rara, p.11](https://doi.org/10.3931/e-rara-6338) | ¶                 |     `U+00B6`        |
+| Semicolon (shaped)   | <img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/semi-colon%20shapped.png" alt="semi-colon" width="27" height="48"> | ?                                            | q́;                | q `U+0071` + acute `U+0301` <br> ; `U+003B`             |
 
