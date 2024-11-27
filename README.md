@@ -36,7 +36,7 @@ The main documentation  is here: [Annotation Guide on GitHub](https://github.com
 
 # Encoding Problem
 
-### Reading Hidden Characters in Junicode
+### Reading Hidden Characters in Junicode on eScriptorium
 
 
 | Complexe Character | Encoding Failure | Encoding Success |
