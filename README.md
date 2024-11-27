@@ -37,9 +37,9 @@ The main documentation  is here: [Annotation Guide on GitHub](https://github.com
 # Encoding problem
 
 * reading the hidden caractere junicode
-  <img src="/pictures/qligature.png" width="300"/>
-  <img src="/pictures/encodingfail.png" width="300"/>
-  <img src="/pictures/encoding_working.png" width="300"/>
+  <img src="/pictures/stylus/qligature.png" width="300"/>
+  <img src="/pictures/stylus/encodingfail.png" width="300"/>
+  <img src="/pictures/stylus/encoding_working.png" width="300"/>
 
 1. use chrome as web navigator, you need it for using the plugin stylus
 2. download stylus extension [link](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) 
