@@ -38,11 +38,10 @@ The main documentation  is here: [Annotation Guide on GitHub](https://github.com
 
 ### Reading Hidden Characters in Junicode
 
-<div style="display: flex; gap: 10px;">
-  <img src="/pictures/stylus/qligature.png" width="300" alt="Q Ligature Example"/>
-  <img src="/pictures/stylus/encodingfail.png" width="300" alt="Encoding Failure"/>
-  <img src="/pictures/stylus/encoding_working.png" width="300" alt="Encoding Success"/>
-</div>
+
+| Complexe Character | Encoding Failure | Encoding Success |
+|:----------------:|:-----------------:|:----------------:|
+| ![Q Ligature](./pictures/stylus/qligature.png){width=200} | ![Encoding Fail](./pictures/stylus/encodingfail.png){width=200} | ![Encoding Success](./pictures/stylus/encoding_working.png){width=200} |
 
 ---
 
