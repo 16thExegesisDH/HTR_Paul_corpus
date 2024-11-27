@@ -6,9 +6,9 @@
         {
             "row": 0,
             "column": 0,
-            "character": "q;",
+            "character": "q",
             "legend": "Latin small letter et with the shapped semi-colon",
-            "keyboard_code": "U+0071 + U+003B"
+            "keyboard_code": "U+0071 + junicode"
         },
         {
             "row": 0,
@@ -40,9 +40,9 @@
         {
             "row": 1,
             "column": 2,
-            "character": ";",
+            "character": "",
             "legend": "shapped semi-colon",
-            "keyboard_code": "U+003B"
+            "keyboard_code": "Junicode"
         },
         {
             "row": 1,
@@ -54,9 +54,9 @@
         {
             "row": 2,
             "column": 1,
-            "character": "q́;",
+            "character": "q́",
             "legend": "acute accent on q with shapped semi-colon",
-            "keyboard_code": "U+0071 + U+0301 + U+003B"
+            "keyboard_code": "U+0071 + U+0301 + Junicode"
         },
         {
             "row": 2,
@@ -70,7 +70,14 @@
             "column": 3,
             "character": "đ",
             "legend": "d with a stroke",
-            "keyboard_code": "U+0111"
+            "keyboard_code": "U+0111"            
+        },
+        {
+            "row": 2,
+            "column": 4,
+            "character": "ꝗ̃",
+            "legend": "q with a stroke",
+            "keyboard_code": "Junicode"  
         }
     ]
 }
