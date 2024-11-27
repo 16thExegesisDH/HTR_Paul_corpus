@@ -35,11 +35,11 @@ The main documentation  is here: [Annotation Guide on GitHub](https://github.com
 | Semicolon (shaped)   | <img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/semi-colon%20shapped.png" alt="semi-colon" width="27" height="48"> | ?                                            | q́;                | q `U+0071` + acute `U+0301` <br> ; `U+003B`             |
 
 # Encoding Problem
+Some characters in eScriptorium use the Junicode font, and a suitable interface is needed for reading them.
 
 ### Reading Hidden Characters in Junicode on eScriptorium
 
-
-| Complexe Character | Encoding Failure | Encoding Success |
+| Original state | Encoding Failure | Encoding Success |
 |:----------------:|:-----------------:|:----------------:|
 | <img src="./pictures/stylus/qligature.png" width="80"> |  <img src="./pictures/stylus/encodingfail.png" width="80"> | <img src="./pictures/stylus/encoding_working.png" width="80">|
 
