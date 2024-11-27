@@ -64,7 +64,7 @@ Some characters in eScriptorium use the Junicode font, and a suitable interface 
    - Apply the style to the **e-Scriptorium** domain
 ---
 
-<img src="./pictures/stylus/change_stylecss.png" width="120"> <br/>
+<img src="./pictures/stylus/change_stylecss.png" > <br/>
 <img src="./pictures/stylus/plugin_stylus.png" width="120"> <br/>
      
 
