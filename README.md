@@ -34,14 +34,36 @@ The main documentation  is here: [Annotation Guide on GitHub](https://github.com
 | Pilcrow              | <img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/piedDeMouche_1.jpg" alt="Pillcrow" width="85" height="47"> | [e-rara, p.11](https://doi.org/10.3931/e-rara-6338) | ¶                 |     `U+00B6`        |
 | Semicolon (shaped)   | <img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/semi-colon%20shapped.png" alt="semi-colon" width="27" height="48"> | ?                                            | q́;                | q `U+0071` + acute `U+0301` <br> ; `U+003B`             |
 
-# Encoding problem
+# Encoding Problem
 
-* reading the hidden caractere junicode
-  <img src="/pictures/stylus/qligature.png" width="300"/>
-  <img src="/pictures/stylus/encodingfail.png" width="300"/>
-  <img src="/pictures/stylus/encoding_working.png" width="300"/>
+### Reading Hidden Characters in Junicode
 
-1. use chrome as web navigator, you need it for using the plugin stylus
-2. download stylus extension [link](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) 
-3. uplaod the style MUFI for eScriptorium on stylus [link](https://userstyles.world/style/3915/mufi-for-escriptorium)
-4. implement MUFI style in stylus and apply it at the e-Scriptorium-fondu domain 
+<div style="display: flex; gap: 10px;">
+  <img src="/pictures/stylus/qligature.png" width="300" alt="Q Ligature Example"/>
+  <img src="/pictures/stylus/encodingfail.png" width="300" alt="Encoding Failure"/>
+  <img src="/pictures/stylus/encoding_working.png" width="300" alt="Encoding Success"/>
+</div>
+
+---
+
+### Steps to Resolve Encoding Issues with Stylus:
+
+1. **Use Google Chrome:**  
+   Ensure you are using Chrome as your web browser. The following steps require the Stylus extension.
+
+2. **Download the Stylus Extension:**  
+   Install Stylus from the Chrome Web Store:  
+   [Stylus Extension](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
+
+3. **Upload the MUFI Style for eScriptorium:**  
+   Download the MUFI style from this link:  
+   [MUFI for eScriptorium](https://userstyles.world/style/3915/mufi-for-escriptorium)
+
+4. **Implement and Apply the Style:**  
+   - Open the Stylus extension in Chrome.  
+   - Upload the downloaded MUFI style.  
+   - Apply the style to the **e-Scriptorium** domain for better visualization of Junicode characters.
+
+---
+
+
