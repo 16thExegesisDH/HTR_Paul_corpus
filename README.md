@@ -61,7 +61,10 @@ Some characters in eScriptorium use the Junicode font, and a suitable interface 
 4. **Implement and Apply the Style:**  
    - Open the Stylus extension in Chrome.  
    - Upload the downloaded MUFI style.  
-   - Apply the style to the **e-Scriptorium** domain for better visualization of Junicode characters.
+   - Apply the style to the **e-Scriptorium** domain
+    <img src="./pictures/stylus/change_stylecss" width="120">
+    <img src="./pictures/stylus/change_stylecss" width="120">
+     
 
 ---
 
