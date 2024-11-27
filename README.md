@@ -41,7 +41,7 @@ The main documentation  is here: [Annotation Guide on GitHub](https://github.com
 
 | Complexe Character | Encoding Failure | Encoding Success |
 |:----------------:|:-----------------:|:----------------:|
-| ![Q Ligature](./pictures/stylus/qligature.png){width=200} | ![Encoding Fail](./pictures/stylus/encodingfail.png){width=200} | ![Encoding Success](./pictures/stylus/encoding_working.png){width=200} |
+| <img src="./pictures/stylus/qligature.png" width="200"> | ![Encoding Fail](./pictures/stylus/encodingfail.png){width=200} | ![Encoding Success](./pictures/stylus/encoding_working.png){width=200} |
 
 ---
 
