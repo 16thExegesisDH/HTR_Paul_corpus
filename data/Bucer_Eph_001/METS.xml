@@ -4,35 +4,7 @@
     <fileGrp USE="export">
       
         <file ID="export1">
-          <FLocat xlink:href="bsb00035303_00013.xml"/>
-        </file>
-      
-        <file ID="export2">
-          <FLocat xlink:href="bsb00035303_00014.xml"/>
-        </file>
-      
-        <file ID="export3">
-          <FLocat xlink:href="bsb00035303_00015.xml"/>
-        </file>
-      
-        <file ID="export4">
-          <FLocat xlink:href="bsb00035303_00016.xml"/>
-        </file>
-      
-        <file ID="export5">
-          <FLocat xlink:href="bsb00035303_00017.xml"/>
-        </file>
-      
-        <file ID="export6">
-          <FLocat xlink:href="bsb00035303_00018.xml"/>
-        </file>
-      
-        <file ID="export7">
-          <FLocat xlink:href="bsb00035303_00019.xml"/>
-        </file>
-      
-        <file ID="export8">
-          <FLocat xlink:href="bsb00035303_00020.xml"/>
+          <FLocat xlink:href="bsb00035303_00002.xml"/>
         </file>
       
     </fileGrp>
@@ -43,41 +15,6 @@
       <div TYPE="page">
         
         <fptr FILEID="export1"/>
-      </div>
-      
-      <div TYPE="page">
-        
-        <fptr FILEID="export2"/>
-      </div>
-      
-      <div TYPE="page">
-        
-        <fptr FILEID="export3"/>
-      </div>
-      
-      <div TYPE="page">
-        
-        <fptr FILEID="export4"/>
-      </div>
-      
-      <div TYPE="page">
-        
-        <fptr FILEID="export5"/>
-      </div>
-      
-      <div TYPE="page">
-        
-        <fptr FILEID="export6"/>
-      </div>
-      
-      <div TYPE="page">
-        
-        <fptr FILEID="export7"/>
-      </div>
-      
-      <div TYPE="page">
-        
-        <fptr FILEID="export8"/>
       </div>
       
     </div>
