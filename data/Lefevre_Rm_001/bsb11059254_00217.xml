@@ -181,16 +181,16 @@
           <TextLine ID="line_12"
                     TAGREFS="LT8"
                     BASELINE="128 755 1724 755" 
-                    HPOS="128.0"
-                    VPOS="724.0"
-                    WIDTH="1596.0"
-                    HEIGHT="57.0">
-            <Shape><Polygon POINTS="128 755 128 775 1722 781 1724 755 1724 724 128 724 128 755"/></Shape>
+                    HPOS="128"
+                    VPOS="724"
+                    WIDTH="1596"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="128 775 1722 781 1724 755 1724 724 128 724 128 755"/></Shape>
 	    <String CONTENT="clarant!malignos &amp; ingratos ſuſcipiendo: immo multum malignos! multum ingra¬"
-                    HPOS="128.0"
-                    VPOS="724.0"
-                    WIDTH="1596.0"
-                    HEIGHT="57.0"
+                    HPOS="128"
+                    VPOS="724"
+                    WIDTH="1596"
+                    HEIGHT="57"
                     WC="0.9858834193898486"></String>
           </TextLine>
           <TextLine ID="line_13"
@@ -907,18 +907,18 @@
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="1030 199 1030 275 977 275 977 199"/></Shape>
           <TextLine ID="line_1"
-                    TAGREFS="LT8"
+                    TAGREFS="LT10"
                     BASELINE="983 255 1019 251" 
-                    HPOS="973.0"
-                    VPOS="169.0"
-                    WIDTH="46.0"
-                    HEIGHT="112.0">
-            <Shape><Polygon POINTS="983 255 983 275 1019 281 1019 251 1007 169 973 173 983 255"/></Shape>
+                    HPOS="973"
+                    VPOS="169"
+                    WIDTH="46"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="983 275 1019 281 1019 251 1007 169 973 173 983 255"/></Shape>
 	    <String CONTENT="1"
-                    HPOS="973.0"
-                    VPOS="169.0"
-                    WIDTH="46.0"
-                    HEIGHT="112.0"
+                    HPOS="973"
+                    VPOS="169"
+                    WIDTH="46"
+                    HEIGHT="112"
                     WC="0.999946117401123"></String>
           </TextLine>
         </TextBlock>
@@ -930,6 +930,7 @@
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="61 1207 61 1279 133 1279 133 1207"/></Shape>
           <TextLine ID="eSc_line_ba99c511"
+                    TAGREFS="LT8"
                     BASELINE="80 1270 95 1270 121 1270" 
                     HPOS="78"
                     VPOS="1211"
@@ -951,6 +952,7 @@
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="57 1598 57 1666 129 1666 129 1598"/></Shape>
           <TextLine ID="eSc_line_f020ff04"
+                    TAGREFS="LT8"
                     BASELINE="67 1660 70 1660 82 1660 117 1660" 
                     HPOS="66"
                     VPOS="1600"

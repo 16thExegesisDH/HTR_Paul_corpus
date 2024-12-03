@@ -29,18 +29,18 @@
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="880 156 880 225 829 225 829 156"/></Shape>
           <TextLine ID="line_0"
-                    TAGREFS="LT8"
+                    TAGREFS="LT10"
                     BASELINE="839 208 875 204" 
-                    HPOS="830.0"
-                    VPOS="145.0"
-                    WIDTH="45.0"
-                    HEIGHT="79.0">
-            <Shape><Polygon POINTS="839 208 839 224 875 222 875 204 867 145 830 145 839 208"/></Shape>
+                    HPOS="830"
+                    VPOS="145"
+                    WIDTH="45"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="839 224 875 222 875 204 867 145 830 145 839 208"/></Shape>
 	    <String CONTENT="I"
-                    HPOS="830.0"
-                    VPOS="145.0"
-                    WIDTH="45.0"
-                    HEIGHT="79.0"
+                    HPOS="830"
+                    VPOS="145"
+                    WIDTH="45"
+                    HEIGHT="79"
                     WC="0.9999741315841675"></String>
           </TextLine>
         </TextBlock>
@@ -52,6 +52,7 @@
                    TAGREFS="BT993">
           <Shape><Polygon POINTS="17 1281 25 2920 1649 2867 1636 1270"/></Shape>
           <TextLine ID="eSc_line_2feef45d"
+                    TAGREFS="LT8"
                     BASELINE="29 1528 59 1528" 
                     HPOS="27"
                     VPOS="1467"
@@ -65,6 +66,7 @@
                     HEIGHT="76"></String>
           </TextLine>
           <TextLine ID="eSc_line_a2a89e70"
+                    TAGREFS="LT8"
                     BASELINE="20 1815 33 1815 49 1818" 
                     HPOS="12"
                     VPOS="1734"
@@ -109,6 +111,7 @@
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="8 2182 8 2240 64 2240 64 2182"/></Shape>
           <TextLine ID="eSc_line_bfe14ebf"
+                    TAGREFS="LT8"
                     BASELINE="21 2219 45 2219" 
                     HPOS="18"
                     VPOS="2214"
@@ -217,6 +220,7 @@
         </TextBlock>
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_b4853108"
+                    TAGREFS="LT8"
                     BASELINE="1502 219 1515 219 1555 217" 
                     HPOS="1495"
                     VPOS="154"
@@ -397,16 +401,16 @@
           <TextLine ID="line_12"
                     TAGREFS="LT8"
                     BASELINE="50 755 1627 759" 
-                    HPOS="48.0"
-                    VPOS="714.0"
-                    WIDTH="1579.0"
-                    HEIGHT="69.0">
-            <Shape><Polygon POINTS="50 755 48 779 1623 783 1627 759 1625 726 50 714 50 755"/></Shape>
+                    HPOS="48"
+                    VPOS="714"
+                    WIDTH="1579"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="48 779 1623 783 1627 759 1625 726 50 714 50 755"/></Shape>
 	    <String CONTENT="te: non ſolum hæc faciunt ſed &amp; conſentiunt agentibus. videre igitur promptũ eſt hãc"
-                    HPOS="48.0"
-                    VPOS="714.0"
-                    WIDTH="1579.0"
-                    HEIGHT="69.0"
+                    HPOS="48"
+                    VPOS="714"
+                    WIDTH="1579"
+                    HEIGHT="69"
                     WC="0.990746806527293"></String>
           </TextLine>
           <TextLine ID="line_13"
@@ -770,6 +774,7 @@
                     WC="0.9944023846126184"></String>
           </TextLine>
           <TextLine ID="line_37"
+                    TAGREFS="LT8"
                     BASELINE="38 1863 1619 1863" 
                     HPOS="36"
                     VPOS="1822"

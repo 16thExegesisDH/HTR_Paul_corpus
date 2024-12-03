@@ -46,16 +46,16 @@
           <TextLine ID="line_2"
                     TAGREFS="LT8"
                     BASELINE="99 334 1720 334" 
-                    HPOS="99.0"
-                    VPOS="298.0"
-                    WIDTH="1621.0"
-                    HEIGHT="63.0">
-            <Shape><Polygon POINTS="99 334 99 353 1718 361 1720 334 1720 300 99 298 99 334"/></Shape>
+                    HPOS="99"
+                    VPOS="298"
+                    WIDTH="1621"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="99 353 1718 361 1720 334 1720 300 99 298 99 334"/></Shape>
 	    <String CONTENT="LIBER PRIMVS QVI EST IN EPISTOLAM AD RHOMANOS. CAP. I"
-                    HPOS="99.0"
-                    VPOS="298.0"
-                    WIDTH="1621.0"
-                    HEIGHT="63.0"
+                    HPOS="99"
+                    VPOS="298"
+                    WIDTH="1621"
+                    HEIGHT="63"
                     WC="0.9861512656481761"></String>
           </TextLine>
         </TextBlock>
@@ -219,16 +219,16 @@
           <TextLine ID="line_13"
                     TAGREFS="LT8"
                     BASELINE="853 828 1718 820" 
-                    HPOS="851.0"
-                    VPOS="789.0"
-                    WIDTH="867.0"
-                    HEIGHT="67.0">
-            <Shape><Polygon POINTS="853 828 853 856 1716 840 1718 820 1712 789 851 799 853 828"/></Shape>
+                    HPOS="851"
+                    VPOS="789"
+                    WIDTH="867"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="853 856 1716 840 1718 820 1712 789 851 799 853 828"/></Shape>
 	    <String CONTENT="&amp; ex reſurrectione a mortuis. ſe gratiam acce¬"
-                    HPOS="851.0"
-                    VPOS="789.0"
-                    WIDTH="867.0"
-                    HEIGHT="67.0"
+                    HPOS="851"
+                    VPOS="789"
+                    WIDTH="867"
+                    HEIGHT="67"
                     WC="0.9876949139263319"></String>
           </TextLine>
           <TextLine ID="line_14"
@@ -277,6 +277,7 @@
                     WC="0.995713859796524"></String>
           </TextLine>
           <TextLine ID="eSc_line_a7ee0c93"
+                    TAGREFS="LT8"
                     BASELINE="78 1010 81 1010" 
                     HPOS="76"
                     VPOS="995"
@@ -291,6 +292,7 @@
                     WC="0.9258896112442017"></String>
           </TextLine>
           <TextLine ID="eSc_line_e28ad578"
+                    TAGREFS="LT8"
                     BASELINE="94 1012 94 1012" 
                     HPOS="70"
                     VPOS="965"
@@ -319,12 +321,13 @@
                     WC="0.9923493968115913"></String>
           </TextLine>
           <TextLine ID="eSc_line_6e531efb"
+                    TAGREFS="LT8"
                     BASELINE="856 1052 1720 1043" 
                     HPOS="850"
                     VPOS="1038"
                     WIDTH="868"
                     HEIGHT="42">
-            <Shape><Polygon POINTS="1703 1038 1672 1038 1642 1038 1612 1038 1581 1038 1551 1038 1520 1038 1490 1038 1459 1038 1429 1038 1398 1038 1368 1038 1337 1038 1307 1038 1276 1038 1246 1041 1215 1041 1185 1041 1154 1041 1124 1041 1093 1041 1063 1041 1033 1041 1002 1041 972 1041 941 1041 911 1041 880 1047 850 1047 853 1050 853 1080 1715 1065 1718 1041 1715 1038 1703 1038"/></Shape>
+            <Shape><Polygon POINTS="1672 1038 1642 1038 1612 1038 1581 1038 1551 1038 1520 1038 1490 1038 1459 1038 1429 1038 1398 1038 1368 1038 1337 1038 1307 1038 1276 1038 1246 1041 1215 1041 1185 1041 1154 1041 1124 1041 1093 1041 1063 1041 1033 1041 1002 1041 972 1041 941 1041 911 1041 880 1047 850 1047 853 1050 853 1080 1715 1065 1718 1041 1715 1038 1703 1038"/></Shape>
 	    <String CONTENT="lus ſeruus IHESVCHRISTII vocatus apo¬"
                     HPOS="850"
                     VPOS="1038"
@@ -950,18 +953,18 @@
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="874 173 874 249 813 249 813 173"/></Shape>
           <TextLine ID="line_0"
-                    TAGREFS="LT8"
+                    TAGREFS="LT10"
                     BASELINE="830 229 863 229" 
-                    HPOS="830.0"
-                    VPOS="158.0"
-                    WIDTH="33.0"
-                    HEIGHT="97.0">
-            <Shape><Polygon POINTS="830 229 830 247 861 255 863 229 863 160 830 158 830 229"/></Shape>
+                    HPOS="830"
+                    VPOS="158"
+                    WIDTH="33"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="830 247 861 255 863 229 863 160 830 158 830 229"/></Shape>
 	    <String CONTENT="1"
-                    HPOS="830.0"
-                    VPOS="158.0"
-                    WIDTH="33.0"
-                    HEIGHT="97.0"
+                    HPOS="830"
+                    VPOS="158"
+                    WIDTH="33"
+                    HEIGHT="97"
                     WC="0.999927282333374"></String>
           </TextLine>
         </TextBlock>
@@ -1025,7 +1028,7 @@
                     VPOS="1485"
                     WIDTH="31"
                     HEIGHT="80">
-            <Shape><Polygon POINTS="1776 1485 1776 1534 1776 1565 1807 1565 1807 1534 1807 1485 1776 1485"/></Shape>
+            <Shape><Polygon POINTS="1776 1534 1776 1565 1807 1565 1807 1534 1807 1485 1776 1485"/></Shape>
 	    <String CONTENT="1"
                     HPOS="1776"
                     VPOS="1485"
@@ -1042,6 +1045,7 @@
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="1778 1890 1778 1938 1822 1938 1822 1890"/></Shape>
           <TextLine ID="eSc_line_2d4f8fe5"
+                    TAGREFS="LT8"
                     BASELINE="1784 1923 1793 1923 1808 1925" 
                     HPOS="1776"
                     VPOS="1890"

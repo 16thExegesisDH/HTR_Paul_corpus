@@ -52,18 +52,18 @@
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="1444 168 1444 239 1250 239 1250 168"/></Shape>
           <TextLine ID="line_1"
-                    TAGREFS="LT8"
+                    TAGREFS="LT10"
                     BASELINE="1245 214 1446 220" 
-                    HPOS="1243.0"
-                    VPOS="134.0"
-                    WIDTH="203.0"
-                    HEIGHT="102.0">
-            <Shape><Polygon POINTS="1243 230 1442 236 1446 220 1446 156 1363 154 1345 144 1331 138 1329 138 1327 138 1325 138 1315 140 1291 148 1247 134 1245 214 1243 230"/></Shape>
+                    HPOS="1243"
+                    VPOS="134"
+                    WIDTH="203"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="1442 236 1446 220 1446 156 1363 154 1345 144 1331 138 1329 138 1327 138 1325 138 1315 140 1291 148 1247 134 1245 214 1243 230"/></Shape>
 	    <String CONTENT="COM."
-                    HPOS="1243.0"
-                    VPOS="134.0"
-                    WIDTH="203.0"
-                    HEIGHT="102.0"
+                    HPOS="1243"
+                    VPOS="134"
+                    WIDTH="203"
+                    HEIGHT="102"
                     WC="0.9999836385250092"></String>
           </TextLine>
         </TextBlock>
@@ -197,16 +197,16 @@
           <TextLine ID="line_10"
                     TAGREFS="LT8"
                     BASELINE="568 624 2094 652" 
-                    HPOS="566.0"
-                    VPOS="581.0"
-                    WIDTH="1528.0"
-                    HEIGHT="91.0">
-            <Shape><Polygon POINTS="568 624 566 638 2090 672 2094 652 2092 618 568 581 568 624"/></Shape>
+                    HPOS="566"
+                    VPOS="581"
+                    WIDTH="1528"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="566 638 2090 672 2094 652 2092 618 568 581 568 624"/></Shape>
 	    <String CONTENT="bitum eſſet &amp; non eſſet dei donũ &amp; gratia. Nam aliud eſt debitũ: aliud eſt gratia. Nam"
-                    HPOS="566.0"
-                    VPOS="581.0"
-                    WIDTH="1528.0"
-                    HEIGHT="91.0"
+                    HPOS="566"
+                    VPOS="581"
+                    WIDTH="1528"
+                    HEIGHT="91"
                     WC="0.9963314418088306"></String>
           </TextLine>
           <TextLine ID="line_11"

@@ -46,16 +46,16 @@
           <TextLine ID="line_3"
                     TAGREFS="LT8"
                     BASELINE="568 292 2159 286" 
-                    HPOS="566.0"
-                    VPOS="254.0"
-                    WIDTH="1593.0"
-                    HEIGHT="56.0">
-            <Shape><Polygon POINTS="1429 282 1409 286 1389 286 1368 286 1348 286 1328 286 1308 286 1288 286 1272 256 566 256 568 292 568 310 2159 306 2159 286 2153 254 1443 254 1429 282"/></Shape>
+                    HPOS="566"
+                    VPOS="254"
+                    WIDTH="1593"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="1409 286 1389 286 1368 286 1348 286 1328 286 1308 286 1288 286 1272 256 566 256 568 292 568 310 2159 306 2159 286 2153 254 1443 254 1429 282"/></Shape>
 	    <String CONTENT="Et quæ reddit vnicui ſiue bono ſiue malo. expreſſit Paulus. Nam boni erit gloria ho¬"
-                    HPOS="566.0"
-                    VPOS="254.0"
-                    WIDTH="1593.0"
-                    HEIGHT="56.0"
+                    HPOS="566"
+                    VPOS="254"
+                    WIDTH="1593"
+                    HEIGHT="56"
                     WC="0.9895988913143382"></String>
           </TextLine>
           <TextLine ID="line_4"
@@ -76,16 +76,16 @@
           <TextLine ID="line_5"
                     TAGREFS="LT8"
                     BASELINE="566 383 2155 377" 
-                    HPOS="564.0"
-                    VPOS="344.0"
-                    WIDTH="1591.0"
-                    HEIGHT="59.0">
-            <Shape><Polygon POINTS="566 383 566 403 2155 403 2155 377 2151 346 564 344 566 383"/></Shape>
+                    HPOS="564"
+                    VPOS="344"
+                    WIDTH="1591"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="566 403 2155 403 2155 377 2151 346 564 344 566 383"/></Shape>
 	    <String CONTENT="ignominia mors æterna &amp; indeficiens flagellum. Et magna boni operandil &amp; mali fu¬"
-                    HPOS="564.0"
-                    VPOS="344.0"
-                    WIDTH="1591.0"
-                    HEIGHT="59.0"
+                    HPOS="564"
+                    VPOS="344"
+                    WIDTH="1591"
+                    HEIGHT="59"
                     WC="0.993102209067639"></String>
           </TextLine>
           <TextLine ID="line_6"
@@ -121,16 +121,16 @@
           <TextLine ID="line_8"
                     TAGREFS="LT8"
                     BASELINE="543 513 2149 517" 
-                    HPOS="541.0"
-                    VPOS="479.0"
-                    WIDTH="1608.0"
-                    HEIGHT="60.0">
-            <Shape><Polygon POINTS="543 513 541 533 2145 539 2149 517 2147 481 543 479 543 513"/></Shape>
+                    HPOS="541"
+                    VPOS="479"
+                    WIDTH="1608"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="541 533 2145 539 2149 517 2147 481 543 479 543 513"/></Shape>
 	    <String CONTENT=" exitium inueniant interitum fempiternũ. Quod ſubdit Paulus dicens. ¶Quicun"
-                    HPOS="541.0"
-                    VPOS="479.0"
-                    WIDTH="1608.0"
-                    HEIGHT="60.0"
+                    HPOS="541"
+                    VPOS="479"
+                    WIDTH="1608"
+                    HEIGHT="60"
                     WC="0.9978460875841287"></String>
           </TextLine>
           <TextLine ID="line_9"
@@ -922,18 +922,18 @@
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="1293 138 1293 208 1105 208 1105 138"/></Shape>
           <TextLine ID="line_1"
-                    TAGREFS="LT8"
+                    TAGREFS="LT10"
                     BASELINE="1099 186 1300 182" 
-                    HPOS="1097.0"
-                    VPOS="128.0"
-                    WIDTH="203.0"
-                    HEIGHT="84.0">
-            <Shape><Polygon POINTS="1099 186 1099 200 1274 212 1276 212 1278 212 1280 212 1300 198 1300 182 1296 128 1097 128 1099 186"/></Shape>
+                    HPOS="1097"
+                    VPOS="128"
+                    WIDTH="203"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1099 200 1274 212 1276 212 1278 212 1280 212 1300 198 1300 182 1296 128 1097 128 1099 186"/></Shape>
 	    <String CONTENT="COM."
-                    HPOS="1097.0"
-                    VPOS="128.0"
-                    WIDTH="203.0"
-                    HEIGHT="84.0"
+                    HPOS="1097"
+                    VPOS="128"
+                    WIDTH="203"
+                    HEIGHT="84"
                     WC="0.9999608993530273"></String>
           </TextLine>
         </TextBlock>
@@ -978,6 +978,7 @@
                     WC="0.9999340772628784"></String>
           </TextLine>
           <TextLine ID="eSc_line_27e624c3"
+                    TAGREFS="LT8"
                     BASELINE="512 1824 517 1824 526 1824 557 1824" 
                     HPOS="509"
                     VPOS="1741"

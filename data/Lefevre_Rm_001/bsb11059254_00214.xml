@@ -174,16 +174,16 @@
           <TextLine ID="line_10"
                     TAGREFS="LT8"
                     BASELINE="574 646 2124 642" 
-                    HPOS="572.0"
-                    VPOS="604.0"
-                    WIDTH="1552.0"
-                    HEIGHT="60.0">
-            <Shape><Polygon POINTS="574 646 574 664 2122 660 2124 642 2120 608 656 604 654 604 572 614 574 646"/></Shape>
+                    HPOS="572"
+                    VPOS="604"
+                    WIDTH="1552"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="574 664 2122 660 2124 642 2120 608 656 604 654 604 572 614 574 646"/></Shape>
 	    <String CONTENT="cundum carnem deſyderatus cunctis gentibus deſcẽdiſſet Chriſtus dominus. Et Chri¬"
-                    HPOS="572.0"
-                    VPOS="604.0"
-                    WIDTH="1552.0"
-                    HEIGHT="60.0"
+                    HPOS="572"
+                    VPOS="604"
+                    WIDTH="1552"
+                    HEIGHT="60"
                     WC="0.9915895694639625"></String>
           </TextLine>
           <TextLine ID="line_11"
@@ -945,18 +945,18 @@
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="1316 178 1316 247 1125 247 1125 178"/></Shape>
           <TextLine ID="line_1"
-                    TAGREFS="LT8"
+                    TAGREFS="LT10"
                     BASELINE="1119 224 1321 228" 
-                    HPOS="1117.0"
-                    VPOS="148.0"
-                    WIDTH="204.0"
-                    HEIGHT="104.0">
-            <Shape><Polygon POINTS="1119 224 1117 240 1135 252 1137 252 1139 252 1141 252 1319 240 1321 228 1317 148 1269 162 1215 154 1179 148 1177 148 1119 158 1119 224"/></Shape>
+                    HPOS="1117"
+                    VPOS="148"
+                    WIDTH="204"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="1117 240 1135 252 1137 252 1139 252 1141 252 1319 240 1321 228 1317 148 1269 162 1215 154 1179 148 1177 148 1119 158 1119 224"/></Shape>
 	    <String CONTENT="COM."
-                    HPOS="1117.0"
-                    VPOS="148.0"
-                    WIDTH="204.0"
-                    HEIGHT="104.0"
+                    HPOS="1117"
+                    VPOS="148"
+                    WIDTH="204"
+                    HEIGHT="104"
                     WC="0.9999406635761261"></String>
           </TextLine>
         </TextBlock>
@@ -968,6 +968,7 @@
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="514 1483 516 1560 574 1554 574 1483"/></Shape>
           <TextLine ID="eSc_line_c32df2c3"
+                    TAGREFS="LT8"
                     BASELINE="530 1541 534 1541 567 1541" 
                     HPOS="528"
                     VPOS="1485"
@@ -989,6 +990,7 @@
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="505 2077 505 2139 569 2139 569 2077"/></Shape>
           <TextLine ID="eSc_line_b317aebc"
+                    TAGREFS="LT8"
                     BASELINE="518 2131 532 2131 562 2131" 
                     HPOS="516"
                     VPOS="2077"

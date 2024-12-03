@@ -286,16 +286,16 @@
           <TextLine ID="line_19"
                     TAGREFS="LT8"
                     BASELINE="52 1075 1632 1083" 
-                    HPOS="50.0"
-                    VPOS="1037.0"
-                    WIDTH="1582.0"
-                    HEIGHT="62.0">
-            <Shape><Polygon POINTS="52 1075 50 1091 1628 1099 1632 1083 1630 1049 52 1037 52 1075"/></Shape>
+                    HPOS="50"
+                    VPOS="1037"
+                    WIDTH="1582"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="50 1091 1628 1099 1632 1083 1630 1049 52 1037 52 1075"/></Shape>
 	    <String CONTENT="bus legis aut ſcriptæ dico aut naturæ iuſtificatus eſt? Si etiam innumeros dixero:non"
-                    HPOS="50.0"
-                    VPOS="1037.0"
-                    WIDTH="1582.0"
-                    HEIGHT="62.0"
+                    HPOS="50"
+                    VPOS="1037"
+                    WIDTH="1582"
+                    HEIGHT="62"
                     WC="0.9988828161183525"></String>
           </TextLine>
           <TextLine ID="line_20"
@@ -922,18 +922,18 @@
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="956 215 956 286 900 286 900 215"/></Shape>
           <TextLine ID="line_1"
-                    TAGREFS="LT8"
+                    TAGREFS="LT10"
                     BASELINE="910 267 963 267" 
-                    HPOS="910.0"
-                    VPOS="206.0"
-                    WIDTH="53.0"
-                    HEIGHT="87.0">
-            <Shape><Polygon POINTS="910 267 910 287 960 293 963 267 960 206 910 208 910 267"/></Shape>
+                    HPOS="910"
+                    VPOS="206"
+                    WIDTH="53"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="910 287 960 293 963 267 960 206 910 208 910 267"/></Shape>
 	    <String CONTENT="I"
-                    HPOS="910.0"
-                    VPOS="206.0"
-                    WIDTH="53.0"
-                    HEIGHT="87.0"
+                    HPOS="910"
+                    VPOS="206"
+                    WIDTH="53"
+                    HEIGHT="87"
                     WC="0.9999920129776001"></String>
           </TextLine>
         </TextBlock>
@@ -991,6 +991,7 @@
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="7 2705 7 2818 70 2818 70 2705"/></Shape>
           <TextLine ID="eSc_line_6ffe8c2f"
+                    TAGREFS="LT8"
                     BASELINE="27 2766 28 2766 53 2767" 
                     HPOS="24"
                     VPOS="2707"
@@ -1004,6 +1005,7 @@
                     HEIGHT="124"></String>
           </TextLine>
           <TextLine ID="eSc_line_6b86e56a"
+                    TAGREFS="LT8"
                     BASELINE="20 2809 54 2809" 
                     HPOS="18"
                     VPOS="2752"
@@ -1058,6 +1060,7 @@
         </TextBlock>
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_67f16700"
+                    TAGREFS="LT8"
                     BASELINE="1 384 32 384" 
                     HPOS="1"
                     VPOS="384"

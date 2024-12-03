@@ -234,16 +234,16 @@
           <TextLine ID="line_15"
                     TAGREFS="LT8"
                     BASELINE="384 841 1658 835" 
-                    HPOS="382.0"
-                    VPOS="807.0"
-                    WIDTH="1276.0"
-                    HEIGHT="61.0">
-            <Shape><Polygon POINTS="384 841 384 868 1656 856 1658 835 1652 807 382 811 384 841"/></Shape>
+                    HPOS="382"
+                    VPOS="807"
+                    WIDTH="1276"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="384 868 1656 856 1658 835 1652 807 382 811 384 841"/></Shape>
 	    <String CONTENT="cent. Non ita eſt. ſed iuſtificationis gloria: deo danda eſt qui iuſtificat!"
-                    HPOS="382.0"
-                    VPOS="807.0"
-                    WIDTH="1276.0"
-                    HEIGHT="61.0"
+                    HPOS="382"
+                    VPOS="807"
+                    WIDTH="1276"
+                    HEIGHT="61"
                     WC="0.9925562339393716"></String>
           </TextLine>
           <TextLine ID="line_16"
@@ -960,18 +960,18 @@
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="917 199 917 270 863 270 863 199"/></Shape>
           <TextLine ID="line_0"
-                    TAGREFS="LT8"
+                    TAGREFS="LT10"
                     BASELINE="884 248 903 248" 
-                    HPOS="884.0"
-                    VPOS="186.0"
-                    WIDTH="19.0"
-                    HEIGHT="95.0">
-            <Shape><Polygon POINTS="884 248 884 273 899 281 903 248 901 186 884 188 884 248"/></Shape>
+                    HPOS="884"
+                    VPOS="186"
+                    WIDTH="19"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="884 273 899 281 903 248 901 186 884 188 884 248"/></Shape>
 	    <String CONTENT="1"
-                    HPOS="884.0"
-                    VPOS="186.0"
-                    WIDTH="19.0"
-                    HEIGHT="95.0"
+                    HPOS="884"
+                    VPOS="186"
+                    WIDTH="19"
+                    HEIGHT="95"
                     WC="0.9999133348464966"></String>
           </TextLine>
         </TextBlock>
@@ -1047,6 +1047,7 @@
         </TextBlock>
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_baf7ee96"
+                    TAGREFS="LT8"
                     BASELINE="30 1124 36 1124 44 1124 68 1121" 
                     HPOS="21"
                     VPOS="1056"

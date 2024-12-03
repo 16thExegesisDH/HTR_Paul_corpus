@@ -61,16 +61,16 @@
           <TextLine ID="line_4"
                     TAGREFS="LT8"
                     BASELINE="76 396 1706 408" 
-                    HPOS="74.0"
-                    VPOS="366.0"
-                    WIDTH="1632.0"
-                    HEIGHT="60.0">
-            <Shape><Polygon POINTS="76 396 74 422 1702 426 1706 408 1704 378 76 366 76 396"/></Shape>
+                    HPOS="74"
+                    VPOS="366"
+                    WIDTH="1632"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="74 422 1702 426 1706 408 1704 378 76 366 76 396"/></Shape>
 	    <String CONTENT="pirent ad eum quem parentem orbis &amp; tanti ornatus &amp; prouidentiæ credunt autho¬"
-                    HPOS="74.0"
-                    VPOS="366.0"
-                    WIDTH="1632.0"
-                    HEIGHT="60.0"
+                    HPOS="74"
+                    VPOS="366"
+                    WIDTH="1632"
+                    HEIGHT="60"
                     WC="0.9962353540372245"></String>
           </TextLine>
           <TextLine ID="line_5"
@@ -922,18 +922,18 @@
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="958 200 958 274 906 274 906 200"/></Shape>
           <TextLine ID="line_1"
-                    TAGREFS="LT8"
+                    TAGREFS="LT10"
                     BASELINE="915 252 951 248" 
-                    HPOS="905.0"
-                    VPOS="171.0"
-                    WIDTH="46.0"
-                    HEIGHT="102.0">
-            <Shape><Polygon POINTS="915 252 917 273 951 269 951 248 941 171 905 178 915 252"/></Shape>
+                    HPOS="905"
+                    VPOS="171"
+                    WIDTH="46"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="917 273 951 269 951 248 941 171 905 178 915 252"/></Shape>
 	    <String CONTENT="I"
-                    HPOS="905.0"
-                    VPOS="171.0"
-                    WIDTH="46.0"
-                    HEIGHT="102.0"
+                    HPOS="905"
+                    VPOS="171"
+                    WIDTH="46"
+                    HEIGHT="102"
                     WC="0.9998677968978882"></String>
           </TextLine>
         </TextBlock>
@@ -968,6 +968,7 @@
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="38 1790 38 1838 94 1838 94 1790"/></Shape>
           <TextLine ID="eSc_line_5c46fec7"
+                    TAGREFS="LT8"
                     BASELINE="45 1832 50 1832 88 1832" 
                     HPOS="42"
                     VPOS="1790"
@@ -1012,6 +1013,7 @@
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="23 2501 23 2562 81 2562 81 2501"/></Shape>
           <TextLine ID="eSc_line_de2ef960"
+                    TAGREFS="LT8"
                     BASELINE="33 2547 38 2547 53 2552 78 2544" 
                     HPOS="27"
                     VPOS="2503"
