@@ -8,7 +8,7 @@
             "column": 0,
             "character": "q",
             "legend": "Latin small letter et with the shapped semi-colon",
-            "keyboard_code": "U+0071 + junicode"
+            "keyboard_code": "U+0071 + Junicode"
         },
         {
             "row": 0,
@@ -42,7 +42,7 @@
             "column": 2,
             "character": "",
             "legend": "shapped semi-colon",
-            "keyboard_code": "Junicode"
+            "keyboard_code": "Junicode (F1AC)"
         },
         {
             "row": 1,
@@ -78,35 +78,34 @@
             "character": "ꝗ̃",
             "legend": "q with a stroke",
             "keyboard_code": "Junicode"  
-        }
+        },
         {
             "row": 3,
             "column": 1,
             "character": "̃",
-            "legend": " cumque abreviation",
+            "legend": "cumque abbreviation",
             "keyboard_code": "Junicode (00E8BF)"  
-        }
+        },
         {
             "row": 3,
             "column": 2,
             "character": "",
-            "legend": "latin small letter Q ligited with final et",
+            "legend": "latin small letter Q ligated with final et",
             "keyboard_code": "Junicode (00E8BF)"  
-        }
+        },
         {
             "row": 3,
             "column": 3,
             "character": "̃",
-            "legend": "tilde horizontale",
+            "legend": "tilde horizontal",
             "keyboard_code": "Junicode"    
         },
         {
-        "row": 3,
-            "column": 3,
+            "row": 3,
+            "column": 4,
             "character": "t̃",
-            "legend": "tilde horizontale combining with t",
-            "keyboard_code": "Junicode(000303)  + t unicode"
+            "legend": "tilde horizontal combining with t",
+            "keyboard_code": "Junicode (000303) + t Unicode"
         }
-           
     ]
 }
