@@ -84,14 +84,14 @@
             "column": 1,
             "character": "̃",
             "legend": " cumque abreviation",
-            "keyboard_code": "Junicode"  
+            "keyboard_code": "Junicode (00E8BF)"  
         }
         {
             "row": 3,
             "column": 2,
             "character": "",
-            "legend": " que abreviation",
-            "keyboard_code": "Junicode"  
+            "legend": "latin small letter Q ligited with final et",
+            "keyboard_code": "Junicode (00E8BF)"  
         }
         {
             "row": 3,
@@ -104,7 +104,7 @@
         "row": 3,
             "column": 3,
             "character": "t̃",
-            "legend": "tilde horizontale",
+            "legend": "tilde horizontale combining with t",
             "keyboard_code": "Junicode",
         }
            
