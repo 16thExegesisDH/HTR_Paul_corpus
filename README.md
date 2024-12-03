@@ -33,7 +33,7 @@ The main documentation  is here: [Annotation Guide on GitHub](https://github.com
 |----------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------|-------------------|-------------|
 | Pilcrow              | <img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/piedDeMouche_1.jpg" alt="Pillcrow" width="85" height="47"> | [e-rara, p.11](https://doi.org/10.3931/e-rara-6338) | ¶                 |     `U+00B6`        |
 | Semicolon (shaped)   | <img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/semi-colon%20shapped.png" alt="semi-colon" width="27" height="48"> | ?                                            | q́;                | q `U+0071` + acute `U+0301` <br> ; `U+003B`             |
-|quam abreviation | <img src="https://github.com/FourbeFlo/Lambertus/16thExegesisDH/HTR_Paul_corpus/pictures/mysteria_litterae/cumque_abreviation.png" alt="semi-colon" width="27" height="48"> | | |
+|quam abreviation | <img src="pictures/mysteria_litterae/cumque_abreviation.png" alt="semi-colon" width="27" height="48"> | | |
 |tur abreviation  | <img src="https://github.com/FourbeFlo/Lambertus/16thExegesisDH/HTR_Paul_corpus/pictures/mysteria_litterae/tur_abreviation.png)" alt="semi-colon" width="27" height="48"> | | |
 
 # Encoding Problem
