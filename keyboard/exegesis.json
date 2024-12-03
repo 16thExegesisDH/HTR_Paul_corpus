@@ -79,5 +79,34 @@
             "legend": "q with a stroke",
             "keyboard_code": "Junicode"  
         }
+        {
+            "row": 3,
+            "column": 1,
+            "character": "̃",
+            "legend": " cumque abreviation",
+            "keyboard_code": "Junicode"  
+        }
+        {
+            "row": 3,
+            "column": 2,
+            "character": "",
+            "legend": " que abreviation",
+            "keyboard_code": "Junicode"  
+        }
+        {
+            "row": 3,
+            "column": 3,
+            "character": "̃",
+            "legend": "tilde horizontale",
+            "keyboard_code": "Junicode",        
+        },
+        {
+        "row": 3,
+            "column": 3,
+            "character": "t̃",
+            "legend": "tilde horizontale",
+            "keyboard_code": "Junicode",
+        }
+           
     ]
 }
