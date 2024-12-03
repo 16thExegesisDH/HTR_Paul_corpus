@@ -34,7 +34,7 @@ The main documentation  is here: [Annotation Guide on GitHub](https://github.com
 | Pilcrow              | <img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/piedDeMouche_1.jpg" alt="Pillcrow" width="85" height="47"> | [e-rara, p.11](https://doi.org/10.3931/e-rara-6338) | ¶                 |     `U+00B6`        |
 | Semicolon (shaped)   | <img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/semi-colon%20shapped.png" alt="semi-colon" width="27" height="48"> | ?                                            | q́               | q `U+0071` + acute `U+0301` <br> ; `U+003B`             |
 |cumque abreviation | <img src="pictures/mysteria_litterae/cumque_abreviation.png" alt="cumque" width="27" height="48"> | <img src="pictures/mysteria_litterae/que_ligature.png" alt="cumque" width="76" height="45"> | Junicode (00E8BF)+tilde (000303)|
-|tur abreviation  | <img src="pictures/mysteria_litterae/tur_abreviation.png" alt="tur" width="27" height="48"> | | Junicode(000303)  + t unicode|
+|tur abreviation  | <img src="pictures/mysteria_litterae/tur_abreviation.png" alt="tur" width="27" height="48"> | <img src="pictures/mysteria_litterae/tur_online" alt="cumque" width="76" height="45">| Junicode(000303)  + t unicode|
 
 # Encoding Problem
 Some characters in eScriptorium use the Junicode font, and a suitable interface is needed for reading them.
