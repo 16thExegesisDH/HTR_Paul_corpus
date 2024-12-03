@@ -51,38 +51,6 @@
           <FLocat xlink:href="bsb00035303_00012.xml"/>
         </file>
       
-        <file ID="export13">
-          <FLocat xlink:href="bsb00035303_00013.xml"/>
-        </file>
-      
-        <file ID="export14">
-          <FLocat xlink:href="bsb00035303_00014.xml"/>
-        </file>
-      
-        <file ID="export15">
-          <FLocat xlink:href="bsb00035303_00015.xml"/>
-        </file>
-      
-        <file ID="export16">
-          <FLocat xlink:href="bsb00035303_00016.xml"/>
-        </file>
-      
-        <file ID="export17">
-          <FLocat xlink:href="bsb00035303_00017.xml"/>
-        </file>
-      
-        <file ID="export18">
-          <FLocat xlink:href="bsb00035303_00018.xml"/>
-        </file>
-      
-        <file ID="export19">
-          <FLocat xlink:href="bsb00035303_00019.xml"/>
-        </file>
-      
-        <file ID="export20">
-          <FLocat xlink:href="bsb00035303_00020.xml"/>
-        </file>
-      
     </fileGrp>
   </fileSec>
   <structMap TYPE="physical">
@@ -146,46 +114,6 @@
       <div TYPE="page">
         
         <fptr FILEID="export12"/>
-      </div>
-      
-      <div TYPE="page">
-        
-        <fptr FILEID="export13"/>
-      </div>
-      
-      <div TYPE="page">
-        
-        <fptr FILEID="export14"/>
-      </div>
-      
-      <div TYPE="page">
-        
-        <fptr FILEID="export15"/>
-      </div>
-      
-      <div TYPE="page">
-        
-        <fptr FILEID="export16"/>
-      </div>
-      
-      <div TYPE="page">
-        
-        <fptr FILEID="export17"/>
-      </div>
-      
-      <div TYPE="page">
-        
-        <fptr FILEID="export18"/>
-      </div>
-      
-      <div TYPE="page">
-        
-        <fptr FILEID="export19"/>
-      </div>
-      
-      <div TYPE="page">
-        
-        <fptr FILEID="export20"/>
       </div>
       
     </div>
