@@ -953,6 +953,14 @@
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="494 412 494 506 570 506 572 412"/></Shape>
         </TextBlock>
+        <TextBlock HPOS="341"
+                   VPOS="89"
+                   WIDTH="89"
+                   HEIGHT="79"
+                   ID="eSc_textblock_f05c8679"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="341 89 341 168 430 168 430 89"/></Shape>
+        </TextBlock>
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="line_0"
                     TAGREFS="LT8"

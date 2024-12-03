@@ -26,7 +26,7 @@
                    WIDTH="51"
                    HEIGHT="69"
                    ID="block_5"
-                   >
+                   TAGREFS="BT18">
           <Shape><Polygon POINTS="880 156 880 225 829 225 829 156"/></Shape>
           <TextLine ID="line_0"
                     TAGREFS="LT8"
@@ -83,7 +83,7 @@
                    WIDTH="91"
                    HEIGHT="61"
                    ID="block_4"
-                   >
+                   TAGREFS="BT15">
           <Shape><Polygon POINTS="1845 128 1845 189 1754 189 1754 128"/></Shape>
           <TextLine ID="line_60"
                     TAGREFS="LT8"
@@ -106,7 +106,7 @@
                    WIDTH="56"
                    HEIGHT="58"
                    ID="eSc_textblock_c535aa96"
-                   TAGREFS="BT14">
+                   TAGREFS="BT15">
           <Shape><Polygon POINTS="8 2182 8 2240 64 2240 64 2182"/></Shape>
           <TextLine ID="eSc_line_bfe14ebf"
                     BASELINE="21 2219 45 2219" 
