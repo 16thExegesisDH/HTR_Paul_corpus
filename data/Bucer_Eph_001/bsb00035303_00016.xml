@@ -110,12 +110,11 @@
                     WIDTH="140"
                     HEIGHT="80">
             <Shape><Polygon POINTS="87 628 86 644 223 659 226 636 226 579 89 584 87 628"/></Shape>
-	    <String CONTENT="Cap· ſex"
+	    <String CONTENT="Cap· ſex·"
                     HPOS="86"
                     VPOS="579"
                     WIDTH="140"
-                    HEIGHT="80"
-                    WC="0.9837510958313942"></String>
+                    HEIGHT="80"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="250"
@@ -253,12 +252,11 @@
                     WIDTH="831"
                     HEIGHT="73">
             <Shape><Polygon POINTS="242 637 240 651 309 662 433 656 449 665 474 658 524 665 617 659 639 669 705 661 724 670 851 664 894 673 1070 665 1071 653 1068 619 998 620 957 609 927 617 883 608 879 608 868 619 821 619 807 606 710 605 689 614 603 614 591 605 558 612 541 601 464 611 431 600 392 609 278 609 264 600 258 600 242 606 242 637"/></Shape>
-	    <String CONTENT="rent. Per reliquam partem quinti, &amp; bonam ſexti, de pe¬"
+	    <String CONTENT="rent · Per reliquam partem quinti, &amp; bonam ſexti, de pe¬"
                     HPOS="240"
                     VPOS="600"
                     WIDTH="831"
-                    HEIGHT="73"
-                    WC="0.9981454090638594"></String>
+                    HEIGHT="73"></String>
           </TextLine>
           <TextLine ID="line_13"
                     TAGREFS="LT8"
@@ -342,12 +340,11 @@
                     WIDTH="823"
                     HEIGHT="70">
             <Shape><Polygon POINTS="247 942 246 960 313 963 314 963 315 963 320 961 336 956 350 961 354 964 355 964 425 965 426 965 427 965 432 963 440 958 474 963 498 966 499 966 500 966 501 966 505 963 513 958 545 958 561 964 572 967 573 967 626 968 627 968 653 964 678 960 700 965 723 969 724 969 744 965 759 961 771 965 779 968 780 968 781 968 782 968 789 965 795 963 899 963 905 966 919 972 920 972 921 972 948 967 958 965 967 967 995 973 996 973 1068 967 1069 953 1069 922 1050 914 1049 914 1048 914 1016 921 1014 921 1012 921 959 912 958 912 854 919 846 919 839 919 758 909 757 909 724 917 723 917 722 917 697 908 696 908 695 908 694 908 676 916 618 907 617 907 616 907 615 907 603 915 603 916 585 916 585 915 576 907 575 907 574 907 573 907 481 914 472 914 470 914 446 905 445 905 396 904 361 904 360 904 359 904 358 904 349 911 348 911 346 911 279 903 278 903 247 909 247 942"/></Shape>
-	    <String CONTENT="&amp; pro ſe ipſo, quo digne Euangelico munere fungatur."
+	    <String CONTENT="&amp; pro ſe ipſo, quo digne Euangelico munere fungatur·"
                     HPOS="246"
                     VPOS="903"
                     WIDTH="823"
-                    HEIGHT="70"
-                    WC="0.9933378501580312"></String>
+                    HEIGHT="70"></String>
           </TextLine>
           <TextLine ID="line_19"
                     TAGREFS="LT8"
@@ -475,12 +472,11 @@
                     WIDTH="90"
                     HEIGHT="62">
             <Shape><Polygon POINTS="656 1412 646 1412 639 1412 632 1414 630 1412 625 1412 615 1412 611 1412 594 1419 596 1449 596 1474 683 1458 684 1446 681 1417 669 1417 668 1417 660 1412 656 1412"/></Shape>
-	    <String CONTENT="finis."
+	    <String CONTENT="finis·"
                     HPOS="594"
                     VPOS="1412"
                     WIDTH="90"
-                    HEIGHT="62"
-                    WC="0.999837855497996"></String>
+                    HEIGHT="62"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
