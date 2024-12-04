@@ -46,11 +46,11 @@
         </TextBlock>
         <TextBlock HPOS="406"
                    VPOS="112"
-                   WIDTH="102"
+                   WIDTH="139"
                    HEIGHT="56"
                    ID="block_10"
                    TAGREFS="BT15">
-          <Shape><Polygon POINTS="508 112 508 168 406 168 406 112"/></Shape>
+          <Shape><Polygon POINTS="538 115 545 168 406 168 406 112"/></Shape>
           <TextLine ID="line_1"
                     TAGREFS="LT8"
                     BASELINE="411 147 523 142" 
