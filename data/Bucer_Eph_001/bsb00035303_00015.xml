@@ -295,11 +295,11 @@
         </TextBlock>
         <TextBlock HPOS="892"
                    VPOS="1181"
-                   WIDTH="142"
+                   WIDTH="162"
                    HEIGHT="138"
                    ID="eSc_textblock_67adee63"
                    TAGREFS="BT990">
-          <Shape><Polygon POINTS="1034 1181 1034 1319 893 1319 893 1184 892 1184 892 1181"/></Shape>
+          <Shape><Polygon POINTS="1054 1184 1054 1312 893 1319 893 1184 892 1184 892 1181"/></Shape>
           <TextLine ID="eSc_line_32b380a9"
                     TAGREFS="LT8"
                     BASELINE="900 1240 1021 1240" 
