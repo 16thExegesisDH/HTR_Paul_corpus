@@ -36,7 +36,7 @@
                     WIDTH="349.0"
                     HEIGHT="54.0">
             <Shape><Polygon POINTS="821 107 818 107 811 109 800 107 790 107 779 107 769 107 758 107 751 107 739 109 720 107 717 107 706 107 696 107 685 107 675 107 669 107 663 109 656 107 654 107 644 107 633 107 623 107 612 107 602 107 592 107 581 107 571 107 560 107 550 107 548 107 530 108 524 107 519 107 508 105 507 104 488 101 488 141 487 155 835 155 836 143 834 107 831 107"/></Shape>
-	    <String CONTENT="M. BV CERI"
+	    <String CONTENT="M. BVCERI"
                     HPOS="487.0"
                     VPOS="101.0"
                     WIDTH="349.0"
@@ -477,6 +477,29 @@
                     WC="0.9956896686553955"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="949.0"
+                   VPOS="1571.0"
+                   WIDTH="143.0"
+                   HEIGHT="59.0"
+                   ID="block_3"
+                   TAGREFS="BT17">
+          <Shape><Polygon POINTS="1092 1571 1092 1630 949 1630 949 1571"/></Shape>
+          <TextLine ID="line_37"
+                    TAGREFS="LT8"
+                    BASELINE="949 1610 1088 1608" 
+                    HPOS="948.0"
+                    VPOS="1567.0"
+                    WIDTH="140.0"
+                    HEIGHT="63.0">
+            <Shape><Polygon POINTS="949 1610 949 1621 973 1630 974 1630 975 1630 976 1630 997 1622 999 1622 1001 1622 1027 1628 1028 1628 1088 1623 1088 1608 1086 1572 1043 1567 1042 1567 1041 1567 1040 1567 1028 1576 1024 1578 1008 1577 969 1575 968 1575 967 1575 948 1582 949 1610"/></Shape>
+	    <String CONTENT="cremfa¬"
+                    HPOS="948.0"
+                    VPOS="1567.0"
+                    WIDTH="140.0"
+                    HEIGHT="63.0"
+                    WC="0.9994378771100726"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="79.0"
                    VPOS="254.0"
                    WIDTH="157.0"
@@ -492,12 +515,11 @@
                     WIDTH="139.0"
                     HEIGHT="49.0">
             <Shape><Polygon POINTS="186 264 176 264 165 264 155 264 144 264 134 264 124 264 113 264 107 264 90 267 83 282 83 295 83 306 116 313 117 313 118 313 156 304 160 303 163 304 180 309 181 309 182 309 183 309 184 309 184 308 189 303 191 301 219 301 222 291 219 266 188 264 186 264"/></Shape>
-	    <String CONTENT="Quare li."
+	    <String CONTENT="Quare li¬"
                     HPOS="83.0"
                     VPOS="264.0"
                     WIDTH="139.0"
-                    HEIGHT="49.0"
-                    WC="0.9982447425524393"></String>
+                    HEIGHT="49.0"></String>
           </TextLine>
           <TextLine ID="line_24"
                     TAGREFS="LT8"
@@ -626,29 +648,6 @@
                     WIDTH="90.0"
                     HEIGHT="66.0"
                     WC="0.9999719262123108"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="949.0"
-                   VPOS="1571.0"
-                   WIDTH="143.0"
-                   HEIGHT="59.0"
-                   ID="block_3"
-                   TAGREFS="BT17">
-          <Shape><Polygon POINTS="1092 1571 1092 1630 949 1630 949 1571"/></Shape>
-          <TextLine ID="line_37"
-                    TAGREFS="LT8"
-                    BASELINE="949 1610 1088 1608" 
-                    HPOS="948.0"
-                    VPOS="1567.0"
-                    WIDTH="140.0"
-                    HEIGHT="63.0">
-            <Shape><Polygon POINTS="949 1610 949 1621 973 1630 974 1630 975 1630 976 1630 997 1622 999 1622 1001 1622 1027 1628 1028 1628 1088 1623 1088 1608 1086 1572 1043 1567 1042 1567 1041 1567 1040 1567 1028 1576 1024 1578 1008 1577 969 1575 968 1575 967 1575 948 1582 949 1610"/></Shape>
-	    <String CONTENT="cremfa¬"
-                    HPOS="948.0"
-                    VPOS="1567.0"
-                    WIDTH="140.0"
-                    HEIGHT="63.0"
-                    WC="0.9994378771100726"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
