@@ -1979,14 +1979,6 @@
                     WC="0.9999214112758636"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="1431"
-                   VPOS="2932"
-                   WIDTH="341"
-                   HEIGHT="63"
-                   ID="eSc_textblock_25fe8ac1"
-                   >
-          <Shape><Polygon POINTS="1431 2995 1431 2932 1772 2932 1772 2995"/></Shape>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>
