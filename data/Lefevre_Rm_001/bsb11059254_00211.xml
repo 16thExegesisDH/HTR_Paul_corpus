@@ -21,65 +21,6 @@
                   VPOS="0"
                   WIDTH="2203"
                   HEIGHT="3645">
-        <TextBlock HPOS="829"
-                   VPOS="156"
-                   WIDTH="51"
-                   HEIGHT="69"
-                   ID="block_5"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="880 156 880 225 829 225 829 156"/></Shape>
-          <TextLine ID="line_0"
-                    TAGREFS="LT10"
-                    BASELINE="839 208 875 204" 
-                    HPOS="830"
-                    VPOS="145"
-                    WIDTH="45"
-                    HEIGHT="79">
-            <Shape><Polygon POINTS="839 224 875 222 875 204 867 145 830 145 839 208"/></Shape>
-	    <String CONTENT="I"
-                    HPOS="830"
-                    VPOS="145"
-                    WIDTH="45"
-                    HEIGHT="79"
-                    WC="0.9999741315841675"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="17"
-                   VPOS="1270"
-                   WIDTH="1632"
-                   HEIGHT="1650"
-                   ID="eSc_textblock_fa24cd2e"
-                   TAGREFS="BT993">
-          <Shape><Polygon POINTS="17 1281 25 2920 1649 2867 1636 1270"/></Shape>
-          <TextLine ID="eSc_line_2feef45d"
-                    TAGREFS="LT8"
-                    BASELINE="29 1528 59 1528" 
-                    HPOS="27"
-                    VPOS="1467"
-                    WIDTH="30"
-                    HEIGHT="76">
-            <Shape><Polygon POINTS="27 1527 27 1543 57 1543 57 1527 57 1470 27 1467 27 1527"/></Shape>
-	    <String CONTENT=""
-                    HPOS="27"
-                    VPOS="1467"
-                    WIDTH="30"
-                    HEIGHT="76"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_a2a89e70"
-                    TAGREFS="LT8"
-                    BASELINE="20 1815 33 1815 49 1818" 
-                    HPOS="12"
-                    VPOS="1734"
-                    WIDTH="42"
-                    HEIGHT="131">
-            <Shape><Polygon POINTS="18 1813 12 1852 36 1865 48 1816 54 1746 24 1734 18 1813"/></Shape>
-	    <String CONTENT=""
-                    HPOS="12"
-                    VPOS="1734"
-                    WIDTH="42"
-                    HEIGHT="131"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="1754"
                    VPOS="128"
                    WIDTH="91"
@@ -103,26 +44,40 @@
                     WC="0.9999578396479288"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="8"
-                   VPOS="2182"
-                   WIDTH="56"
-                   HEIGHT="58"
-                   ID="eSc_textblock_c535aa96"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="8 2182 8 2240 64 2240 64 2182"/></Shape>
-          <TextLine ID="eSc_line_bfe14ebf"
+        <TextBlock HPOS="17"
+                   VPOS="1270"
+                   WIDTH="1632"
+                   HEIGHT="1650"
+                   ID="eSc_textblock_fa24cd2e"
+                   TAGREFS="BT993">
+          <Shape><Polygon POINTS="17 1281 25 2920 1649 2867 1636 1270"/></Shape>
+          <TextLine ID="eSc_line_a2a89e70"
                     TAGREFS="LT8"
-                    BASELINE="21 2219 45 2219" 
-                    HPOS="18"
-                    VPOS="2214"
-                    WIDTH="24"
-                    HEIGHT="36">
-            <Shape><Polygon POINTS="18 2217 18 2250 42 2250 42 2217 18 2214 18 2217"/></Shape>
+                    BASELINE="20 1815 33 1815 49 1818" 
+                    HPOS="12"
+                    VPOS="1734"
+                    WIDTH="42"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="18 1813 12 1852 36 1865 48 1816 54 1746 24 1734 18 1813"/></Shape>
 	    <String CONTENT=""
-                    HPOS="18"
-                    VPOS="2214"
-                    WIDTH="24"
-                    HEIGHT="36"></String>
+                    HPOS="12"
+                    VPOS="1734"
+                    WIDTH="42"
+                    HEIGHT="131"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2feef45d"
+                    TAGREFS="LT8"
+                    BASELINE="29 1528 59 1528" 
+                    HPOS="27"
+                    VPOS="1467"
+                    WIDTH="30"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="27 1527 27 1543 57 1543 57 1527 57 1470 27 1467 27 1527"/></Shape>
+	    <String CONTENT=""
+                    HPOS="27"
+                    VPOS="1467"
+                    WIDTH="30"
+                    HEIGHT="76"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1656"
@@ -176,6 +131,51 @@
                     WIDTH="278.0"
                     HEIGHT="118.0"
                     WC="0.9954920187592506"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="829"
+                   VPOS="156"
+                   WIDTH="51"
+                   HEIGHT="69"
+                   ID="block_5"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="880 156 880 225 829 225 829 156"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT10"
+                    BASELINE="839 208 875 204" 
+                    HPOS="830"
+                    VPOS="145"
+                    WIDTH="45"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="839 224 875 222 875 204 867 145 830 145 839 208"/></Shape>
+	    <String CONTENT="I"
+                    HPOS="830"
+                    VPOS="145"
+                    WIDTH="45"
+                    HEIGHT="79"
+                    WC="0.9999741315841675"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="8"
+                   VPOS="2182"
+                   WIDTH="56"
+                   HEIGHT="58"
+                   ID="eSc_textblock_c535aa96"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="8 2182 8 2240 64 2240 64 2182"/></Shape>
+          <TextLine ID="eSc_line_bfe14ebf"
+                    TAGREFS="LT8"
+                    BASELINE="21 2219 45 2219" 
+                    HPOS="18"
+                    VPOS="2214"
+                    WIDTH="24"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="18 2217 18 2250 42 2250 42 2217 18 2214 18 2217"/></Shape>
+	    <String CONTENT=""
+                    HPOS="18"
+                    VPOS="2214"
+                    WIDTH="24"
+                    HEIGHT="36"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1462"
@@ -773,21 +773,6 @@
                     HEIGHT="62.0"
                     WC="0.9944023846126184"></String>
           </TextLine>
-          <TextLine ID="line_37"
-                    TAGREFS="LT8"
-                    BASELINE="38 1863 1619 1863" 
-                    HPOS="36"
-                    VPOS="1822"
-                    WIDTH="1580"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="36 1861 36 1889 1616 1889 1616 1861 1616 1828 36 1822 36 1861"/></Shape>
-	    <String CONTENT="agunt. putas vero hoc O homo qui iudicas eos qui talia agunti &amp; eadem agis:ꝓ tu ef¬"
-                    HPOS="36"
-                    VPOS="1822"
-                    WIDTH="1580"
-                    HEIGHT="67"
-                    WC="0.9928546181644302"></String>
-          </TextLine>
           <TextLine ID="line_38"
                     TAGREFS="LT8"
                     BASELINE="41 1905 1615 1909" 
@@ -1117,6 +1102,21 @@
                     WIDTH="1573.0"
                     HEIGHT="81.0"
                     WC="0.9783402160666455"></String>
+          </TextLine>
+          <TextLine ID="line_37"
+                    TAGREFS="LT8"
+                    BASELINE="38 1863 1619 1863" 
+                    HPOS="36"
+                    VPOS="1822"
+                    WIDTH="1580"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="36 1861 36 1889 1616 1889 1616 1861 1616 1828 36 1822 36 1861"/></Shape>
+	    <String CONTENT="agunt. putas vero hoc O homo qui iudicas eos qui talia agunti &amp; eadem agis:ꝓ tu ef¬"
+                    HPOS="36"
+                    VPOS="1822"
+                    WIDTH="1580"
+                    HEIGHT="67"
+                    WC="0.9928546181644302"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

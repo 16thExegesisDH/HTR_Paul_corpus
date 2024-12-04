@@ -21,6 +21,29 @@
                   VPOS="0"
                   WIDTH="2217"
                   HEIGHT="3614">
+        <TextBlock HPOS="328"
+                   VPOS="147"
+                   WIDTH="46"
+                   HEIGHT="46"
+                   ID="eSc_textblock_cb927df7"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="328 147 328 193 374 193 374 147"/></Shape>
+          <TextLine ID="eSc_line_77866fa3"
+                    TAGREFS="LT8"
+                    BASELINE="332 181 344 181 365 189" 
+                    HPOS="322"
+                    VPOS="60"
+                    WIDTH="63"
+                    HEIGHT="162">
+            <Shape><Polygon POINTS="322 222 355 222 364 186 385 60 352 60 331 180"/></Shape>
+	    <String CONTENT="4"
+                    HPOS="322"
+                    VPOS="60"
+                    WIDTH="63"
+                    HEIGHT="162"
+                    WC="0.9141781330108643"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="527"
                    VPOS="262"
                    WIDTH="1616"
@@ -1092,29 +1115,6 @@
                     WIDTH="29"
                     HEIGHT="158"
                     WC="0.9998353719711304"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="328"
-                   VPOS="147"
-                   WIDTH="46"
-                   HEIGHT="46"
-                   ID="eSc_textblock_cb927df7"
-                   TAGREFS="BT15">
-          <Shape><Polygon POINTS="328 147 328 193 374 193 374 147"/></Shape>
-          <TextLine ID="eSc_line_77866fa3"
-                    TAGREFS="LT8"
-                    BASELINE="332 181 344 181 365 189" 
-                    HPOS="322"
-                    VPOS="60"
-                    WIDTH="63"
-                    HEIGHT="162">
-            <Shape><Polygon POINTS="322 222 355 222 364 186 385 60 352 60 331 180"/></Shape>
-	    <String CONTENT="4"
-                    HPOS="322"
-                    VPOS="60"
-                    WIDTH="63"
-                    HEIGHT="162"
-                    WC="0.9141781330108643"></String>
           </TextLine>
         </TextBlock>
         <TextBlock ID="eSc_dummyblock_">

@@ -576,7 +576,7 @@
                     WIDTH="1606.0"
                     HEIGHT="56.0">
             <Shape><Polygon POINTS="545 1849 545 1871 2151 1865 2151 1849 2151 1815 545 1815 545 1849"/></Shape>
-	    <String CONTENT=",flamma. Sed nunc ad Paulum. Subdit enim Paulus. ¶Cum enim gentes quæ legem"
+	    <String CONTENT="* flamma. Sed nunc ad Paulum. Subdit enim Paulus. ¶Cum enim gentes quæ legem"
                     HPOS="545.0"
                     VPOS="1815.0"
                     WIDTH="1606.0"
@@ -591,7 +591,7 @@
                     WIDTH="1608.0"
                     HEIGHT="60.0">
             <Shape><Polygon POINTS="543 1893 543 1915 2147 1909 2149 1889 2143 1855 541 1859 543 1893"/></Shape>
-	    <String CONTENT=", non habent! natura ea quæ legis ſunt faciãt: ipſæ legeni nõ habentes ſibiipſis ſunt lex,"
+	    <String CONTENT="* non habent! natura ea quæ legis ſunt faciãt: ipſæ legeni nõ habentes ſibiipſis ſunt lex,"
                     HPOS="541.0"
                     VPOS="1855.0"
                     WIDTH="1608.0"
@@ -606,7 +606,7 @@
                     WIDTH="1602.0"
                     HEIGHT="54.0">
             <Shape><Polygon POINTS="545 1937 545 1957 2145 1955 2145 1933 2139 1903 543 1905 545 1937"/></Shape>
-	    <String CONTENT=",quæ oſtendunt opus legis ſcriptum in cordibus ſuis! teſtimonium reddente cõſcien¬"
+	    <String CONTENT="* quæ oſtendunt opus legis ſcriptum in cordibus ſuis! teſtimonium reddente cõſcien¬"
                     HPOS="543.0"
                     VPOS="1903.0"
                     WIDTH="1602.0"
@@ -621,7 +621,7 @@
                     WIDTH="1600.0"
                     HEIGHT="58.0">
             <Shape><Polygon POINTS="549 1981 549 2005 2145 1995 2147 1977 2141 1947 547 1949 549 1981"/></Shape>
-	    <String CONTENT=",tia earum! &amp; cogitationibus inter ſe inuicem accuſantibus aut etiam defendẽtibus in"
+	    <String CONTENT="* tia earum! &amp; cogitationibus inter ſe inuicem accuſantibus aut etiam defendẽtibus in"
                     HPOS="547.0"
                     VPOS="1947.0"
                     WIDTH="1600.0"
@@ -636,7 +636,7 @@
                     WIDTH="1596.0"
                     HEIGHT="64.0">
             <Shape><Polygon POINTS="551 2025 551 2047 2147 2041 2147 2025 2145 1983 551 1989 551 2025"/></Shape>
-	    <String CONTENT=".diem dum iudicabit deus occulta hominũ! ſecundum euãgelium meũ per IHESVM"
+	    <String CONTENT="* diem dum iudicabit deus occulta hominũ! ſecundum euãgelium meũ per IHESVM"
                     HPOS="551.0"
                     VPOS="1983.0"
                     WIDTH="1596.0"
