@@ -87,7 +87,7 @@
                     WIDTH="344"
                     HEIGHT="108">
             <Shape><Polygon POINTS="76 1139 417 1142 420 1081 419 1055 234 1038 233 1038 193 1039 192 1039 190 1039 190 1041 189 1041 178 1050 120 1050 81 1034 79 1075 76 1139"/></Shape>
-	    <String CONTENT="E"
+	    <String CONTENT="P"
                     HPOS="76"
                     VPOS="1034"
                     WIDTH="344"
@@ -339,9 +339,10 @@
                    WIDTH="153"
                    HEIGHT="244"
                    ID="eSc_textblock_16779377"
-                   TAGREFS="BT990">
+                   >
           <Shape><Polygon POINTS="886 1319 884 1561 1037 1563 1037 1324"/></Shape>
           <TextLine ID="eSc_line_810d2045"
+                    TAGREFS="LT8"
                     BASELINE="896 1373 1038 1375" 
                     HPOS="893"
                     VPOS="1327"
@@ -356,12 +357,13 @@
                     WC="0.9655269980430603"></String>
           </TextLine>
           <TextLine ID="eSc_line_34f35a3a"
+                    TAGREFS="LT8"
                     BASELINE="888 1424 1026 1424" 
                     HPOS="887"
                     VPOS="1381"
                     WIDTH="137"
                     HEIGHT="63">
-            <Shape><Polygon POINTS="887 1422 887 1438 985 1444 987 1444 1024 1435 1024 1422 1023 1383 930 1391 887 1381 887 1422"/></Shape>
+            <Shape><Polygon POINTS="887 1438 985 1444 987 1444 1024 1435 1024 1422 1023 1383 930 1391 887 1381 887 1422"/></Shape>
 	    <String CONTENT="lus apud"
                     HPOS="887"
                     VPOS="1381"
@@ -369,6 +371,7 @@
                     HEIGHT="63"></String>
           </TextLine>
           <TextLine ID="eSc_line_d48412ee"
+                    TAGREFS="LT8"
                     BASELINE="886 1477 1031 1474" 
                     HPOS="883"
                     VPOS="1428"
@@ -383,12 +386,13 @@
                     WC="0.9999604906354632"></String>
           </TextLine>
           <TextLine ID="eSc_line_731d09ca"
+                    TAGREFS="LT8"
                     BASELINE="886 1525 1018 1524" 
                     HPOS="883"
                     VPOS="1478"
                     WIDTH="133"
                     HEIGHT="90">
-            <Shape><Polygon POINTS="885 1524 885 1568 934 1568 935 1568 937 1568 963 1552 1013 1568 1016 1522 1012 1491 948 1491 940 1483 935 1480 935 1478 934 1478 932 1478 883 1478 885 1524"/></Shape>
+            <Shape><Polygon POINTS="885 1568 934 1568 935 1568 937 1568 963 1552 1013 1568 1016 1522 1012 1491 948 1491 940 1483 935 1480 935 1478 934 1478 932 1478 883 1478 885 1524"/></Shape>
 	    <String CONTENT="effeceris"
                     HPOS="883"
                     VPOS="1478"
