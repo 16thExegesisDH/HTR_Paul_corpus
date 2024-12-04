@@ -285,24 +285,24 @@
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="936"
-                   VPOS="686"
-                   WIDTH="49"
-                   HEIGHT="72"
+                   VPOS="683"
+                   WIDTH="82"
+                   HEIGHT="88"
                    ID="eSc_textblock_4c3d5116"
                    TAGREFS="BT15">
-          <Shape><Polygon POINTS="936 686 936 758 985 758 985 686"/></Shape>
-          <TextLine ID="eSc_line_32f76a42"
-                    BASELINE="945 730 981 727" 
-                    HPOS="943"
-                    VPOS="686"
-                    WIDTH="37"
-                    HEIGHT="61">
-            <Shape><Polygon POINTS="968 686 943 690 946 728 946 747 979 741 980 726 976 686 974 686"/></Shape>
-	    <String CONTENT="10"
-                    HPOS="943"
-                    VPOS="686"
-                    WIDTH="37"
-                    HEIGHT="61"></String>
+          <Shape><Polygon POINTS="936 686 936 758 1008 771 1018 683"/></Shape>
+          <TextLine ID="eSc_line_f54da159"
+                    BASELINE="942 725 1001 732" 
+                    HPOS="938"
+                    VPOS="692"
+                    WIDTH="64"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="941 723 938 742 996 744 999 731 1002 697 944 692 941 723"/></Shape>
+	    <String CONTENT="10."
+                    HPOS="938"
+                    VPOS="692"
+                    WIDTH="64"
+                    HEIGHT="52"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="44"
