@@ -21,12 +21,12 @@
                   VPOS="0"
                   WIDTH="1128"
                   HEIGHT="1876">
-        <TextBlock HPOS="241.0"
-                   VPOS="179.0"
-                   WIDTH="851.0"
-                   HEIGHT="1003.0"
+        <TextBlock HPOS="241"
+                   VPOS="179"
+                   WIDTH="851"
+                   HEIGHT="1003"
                    ID="block_4"
-                   TAGREFS="BT989">
+                   >
           <Shape><Polygon POINTS="1092 179 1092 1182 241 1182 241 179"/></Shape>
           <TextLine ID="line_1"
                     TAGREFS="LT8"
@@ -103,21 +103,6 @@
                     HEIGHT="61.0"
                     WC="0.9920569596619442"></String>
           </TextLine>
-          <TextLine ID="line_6"
-                    TAGREFS="LT8"
-                    BASELINE="96 457 232 456 232 456" 
-                    HPOS="93.0"
-                    VPOS="398.0"
-                    WIDTH="138.0"
-                    HEIGHT="75.0">
-            <Shape><Polygon POINTS="95 456 95 473 229 473 231 454 228 409 111 398 109 398 107 398 93 403 95 456"/></Shape>
-	    <String CONTENT="Quo stu¬"
-                    HPOS="93.0"
-                    VPOS="398.0"
-                    WIDTH="138.0"
-                    HEIGHT="75.0"
-                    WC="0.9889221861958504"></String>
-          </TextLine>
           <TextLine ID="eSc_line_1adf37e2"
                     TAGREFS="LT8"
                     BASELINE="252 460 265 463 324 464 1082 464" 
@@ -133,21 +118,6 @@
                     HEIGHT="53.0"
                     WC="0.9892938952696951"></String>
           </TextLine>
-          <TextLine ID="line_7"
-                    TAGREFS="LT8"
-                    BASELINE="83 504 219 504 232 506" 
-                    HPOS="81.0"
-                    VPOS="459.0"
-                    WIDTH="150.0"
-                    HEIGHT="60.0">
-            <Shape><Polygon POINTS="82 503 81 517 228 519 231 504 229 467 159 459 158 459 120 467 101 459 100 459 98 459 96 459 82 465 82 503"/></Shape>
-	    <String CONTENT="dio obuiai"
-                    HPOS="81.0"
-                    VPOS="459.0"
-                    WIDTH="150.0"
-                    HEIGHT="60.0"
-                    WC="0.9985279738903046"></String>
-          </TextLine>
           <TextLine ID="eSc_line_28ac7bef"
                     TAGREFS="LT8"
                     BASELINE="252 509 271 512 320 513 1082 513" 
@@ -162,21 +132,6 @@
                     WIDTH="831.0"
                     HEIGHT="65.0"
                     WC="0.979999462426719"></String>
-          </TextLine>
-          <TextLine ID="line_8"
-                    TAGREFS="LT8"
-                    BASELINE="82 554 198 554 232 557" 
-                    HPOS="79.0"
-                    VPOS="509.0"
-                    WIDTH="152.0"
-                    HEIGHT="75.0">
-            <Shape><Polygon POINTS="81 553 79 570 228 584 231 556 228 511 139 519 129 517 101 509 100 509 98 509 96 509 95 509 81 517 81 553"/></Shape>
-	    <String CONTENT="dũ errdri"
-                    HPOS="79.0"
-                    VPOS="509.0"
-                    WIDTH="152.0"
-                    HEIGHT="75.0"
-                    WC="0.9990088880062103"></String>
           </TextLine>
           <TextLine ID="eSc_line_22697e0b"
                     TAGREFS="LT8"
@@ -374,26 +329,71 @@
                     WC="0.9893281719623468"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="86.0"
-                   VPOS="418.0"
-                   WIDTH="160.0"
-                   HEIGHT="200.0"
+        <TextBlock HPOS="50"
+                   VPOS="415"
+                   WIDTH="187"
+                   HEIGHT="203"
                    ID="block_1"
                    TAGREFS="BT990">
-          <Shape><Polygon POINTS="246 418 246 618 86 618 86 418"/></Shape>
+          <Shape><Polygon POINTS="236 415 237 608 50 618 86 418"/></Shape>
+          <TextLine ID="line_6"
+                    TAGREFS="LT8"
+                    BASELINE="96 457 232 456" 
+                    HPOS="93"
+                    VPOS="398"
+                    WIDTH="138"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="95 456 95 473 229 473 231 454 228 409 111 398 109 398 107 398 93 403 95 456"/></Shape>
+	    <String CONTENT="Quo stu¬"
+                    HPOS="93"
+                    VPOS="398"
+                    WIDTH="138"
+                    HEIGHT="75"
+                    WC="0.9889221861958504"></String>
+          </TextLine>
+          <TextLine ID="line_7"
+                    TAGREFS="LT8"
+                    BASELINE="83 504 219 504 232 506" 
+                    HPOS="81"
+                    VPOS="459"
+                    WIDTH="150"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="81 517 228 519 231 504 229 467 159 459 158 459 120 467 101 459 100 459 98 459 96 459 82 465 82 503"/></Shape>
+	    <String CONTENT="dio obuiai"
+                    HPOS="81"
+                    VPOS="459"
+                    WIDTH="150"
+                    HEIGHT="60"
+                    WC="0.9985279738903046"></String>
+          </TextLine>
+          <TextLine ID="line_8"
+                    TAGREFS="LT8"
+                    BASELINE="82 554 198 554 232 557" 
+                    HPOS="79"
+                    VPOS="509"
+                    WIDTH="152"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="79 570 228 584 231 556 228 511 139 519 129 517 101 509 100 509 98 509 96 509 95 509 81 517 81 553"/></Shape>
+	    <String CONTENT="dũ errdri"
+                    HPOS="79"
+                    VPOS="509"
+                    WIDTH="152"
+                    HEIGHT="75"
+                    WC="0.9990088880062103"></String>
+          </TextLine>
           <TextLine ID="line_21"
                     TAGREFS="LT8"
                     BASELINE="82 604 169 604" 
-                    HPOS="82.0"
-                    VPOS="565.0"
-                    WIDTH="87.0"
-                    HEIGHT="83.0">
-            <Shape><Polygon POINTS="82 604 82 648 119 648 119 647 120 647 143 634 153 630 169 630 169 604 169 578 120 575 116 572 107 565 106 565 105 565 104 565 82 568 82 604"/></Shape>
+                    HPOS="82"
+                    VPOS="565"
+                    WIDTH="87"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="82 648 119 648 119 647 120 647 143 634 153 630 169 630 169 604 169 578 120 575 116 572 107 565 106 565 105 565 104 565 82 568 82 604"/></Shape>
 	    <String CONTENT="bus."
-                    HPOS="82.0"
-                    VPOS="565.0"
-                    WIDTH="87.0"
-                    HEIGHT="83.0"
+                    HPOS="82"
+                    VPOS="565"
+                    WIDTH="87"
+                    HEIGHT="83"
                     WC="0.999973326921463"></String>
           </TextLine>
         </TextBlock>
@@ -430,16 +430,16 @@
           <TextLine ID="line_24"
                     TAGREFS="LT8"
                     BASELINE="61 1320 218 1315" 
-                    HPOS="57.0"
-                    VPOS="1274.0"
-                    WIDTH="160.0"
-                    HEIGHT="67.0">
-            <Shape><Polygon POINTS="59 1319 59 1335 109 1341 111 1341 112 1341 168 1327 170 1327 201 1338 203 1338 204 1338 206 1338 208 1338 208 1336 217 1325 217 1314 212 1274 57 1278 59 1319"/></Shape>
+                    HPOS="57"
+                    VPOS="1274"
+                    WIDTH="160"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="59 1335 109 1341 111 1341 112 1341 168 1327 170 1327 201 1338 203 1338 204 1338 206 1338 208 1338 208 1336 217 1325 217 1314 212 1274 57 1278 59 1319"/></Shape>
 	    <String CONTENT="Quib-ar¬"
-                    HPOS="57.0"
-                    VPOS="1274.0"
-                    WIDTH="160.0"
-                    HEIGHT="67.0"
+                    HPOS="57"
+                    VPOS="1274"
+                    WIDTH="160"
+                    HEIGHT="67"
                     WC="0.9651666507124901"></String>
           </TextLine>
           <TextLine ID="line_25"
