@@ -25,102 +25,102 @@ characters:
   - ̃
   - b
   - .
+  - ','
   - q
   - g
-  - ','
   - f
   - h
   - '&'
   - æ
-  - ':'
   - ¬
+  - ':'
   - v
   - x
   - I
   - E
   - P
-  - α
   - A
+  - C
+  - α
+  - D
   - ι
   - '!'
-  - C
+  - S
   - ο
   - τ
-  - D
   - ́
-  - S
-  - μ
+  - V
   - 
-  - ε
+  - μ
   - ̀
+  - ε
   - σ
   - υ
-  - V
-  - N
   - j
+  - N
   - ¶
   - R
-  - ρ
-  - ̓
-  - '?'
-  - ;
-  - Q
   - T
   - H
+  - Q
+  - ρ
+  - '?'
+  - O
+  - ;
+  - ̓
   - M
   - ̨
-  - O
   - λ
   - ͂
+  - ·
   - (
-  - ω
-  - κ
-  - y
   - L
+  - ω
+  - y
+  - κ
   - ꝙ
   - ς
   - η
-  - '*'
-  - ·
-  - θ
   - '1'
+  - '*'
+  - θ
   - œ
+  - '2'
   - ν
   - )
-  - '2'
   - /
   - B
-  - ß
   - '4'
+  - ß
   - z
   - '9'
-  - π
   - '3'
+  - π
+  - '5'
   - φ
+  - '0'
   - G
   - ꝗ
-  - '5'
-  - »
-  - Κ
-  - '0'
   - '7'
+  - '6'
+  - »
+  - 
+  - Κ
   - χ
   - X
-  - '6'
+  - '8'
   - '|'
   - ̔
-  - '8'
+  - „
   - ꝰ
   - ']'
+  - F
   - δ
-  - γ
-  - „
   - '-'
+  - γ
   - ꝓ
   - k
   - ͅ
-  - F
-  - 
   - ̈
   - ꝵ
   - ζ
@@ -143,6 +143,7 @@ characters:
   - Α
   - ̶
   - ̄
+  - $
   - –
   - ꝯ
   - β
@@ -174,11 +175,11 @@ title: Lambertus
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/16thExegesisDH/HTR_Paul_corpus
 volume:
-- count: 125826
+- count: 135082
   metric: characters
-- count: 50
+- count: 60
   metric: files
-- count: 2717
+- count: 3050
   metric: lines
-- count: 394
+- count: 515
   metric: regions
