@@ -242,17 +242,17 @@
           <Shape><Polygon POINTS="1090 721 1090 873 245 873 245 721"/></Shape>
           <TextLine ID="line_14"
                     TAGREFS="LT8"
-                    BASELINE="260 756 461 754 1082 764" 
-                    HPOS="259"
-                    VPOS="751"
+                    BASELINE="260 756 468 757 1082 764" 
+                    HPOS="258"
+                    VPOS="722"
                     WIDTH="823"
-                    HEIGHT="31">
-            <Shape><Polygon POINTS="1073 751 1063 751 1052 751 1042 751 1032 751 1021 751 1011 751 1000 751 990 751 979 751 969 751 959 751 948 751 938 751 927 751 917 751 906 751 896 751 886 751 875 751 865 751 854 751 844 751 834 751 823 751 813 751 802 751 792 751 781 751 771 751 761 751 750 751 740 751 729 751 719 751 708 751 698 751 688 751 677 751 667 751 656 751 646 751 635 751 625 751 615 751 604 751 594 751 583 751 573 751 562 751 552 751 542 751 531 751 521 751 510 751 500 751 489 751 479 751 469 751 458 751 448 751 437 751 427 751 417 751 406 751 396 751 385 751 375 751 364 751 354 751 344 751 333 751 323 751 312 751 302 751 291 751 281 751 271 751 260 751 260 756 259 764 319 772 320 772 321 772 340 767 351 764 415 764 440 769 464 773 466 773 467 773 475 770 484 766 517 770 549 775 550 775 567 771 582 768 598 772 602 773 603 773 604 773 620 773 688 769 706 774 716 777 717 777 718 777 738 775 776 770 885 778 935 781 936 781 952 779 990 774 1015 780 1022 782 1023 782 1024 782 1081 781 1082 764 1081 751 1073 751"/></Shape>
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="916 722 259 722 258 766 281 766 295 776 427 767 463 778 469 778 480 769 517 778 589 769 1077 783 1081 762 1079 728 929 728 924 722 916 722"/></Shape>
 	    <String CONTENT="emuiruauenue, Minoidetar, miagiadero"
-                    HPOS="259"
-                    VPOS="751"
+                    HPOS="258"
+                    VPOS="722"
                     WIDTH="823"
-                    HEIGHT="31"
+                    HEIGHT="61"
                     WC="0.9694722957081265"></String>
           </TextLine>
           <TextLine ID="line_15"
@@ -551,12 +551,11 @@
                     WIDTH="39"
                     HEIGHT="61">
             <Shape><Polygon POINTS="131 634 170 630 170 615 170 579 131 573 131 615"/></Shape>
-	    <String CONTENT="6¬"
+	    <String CONTENT="9·"
                     HPOS="131"
                     VPOS="573"
                     WIDTH="39"
-                    HEIGHT="61"
-                    WC="0.9999833106994629"></String>
+                    HEIGHT="61"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="128"
@@ -574,12 +573,11 @@
                     WIDTH="57"
                     HEIGHT="62">
             <Shape><Polygon POINTS="133 780 187 777 187 758 184 718 152 718 151 718 150 718 130 726 132 761"/></Shape>
-	    <String CONTENT="10."
+	    <String CONTENT="10·"
                     HPOS="130"
                     VPOS="718"
                     WIDTH="57"
-                    HEIGHT="62"
-                    WC="0.9999920924504598"></String>
+                    HEIGHT="62"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="122"
@@ -597,12 +595,11 @@
                     WIDTH="39"
                     HEIGHT="55">
             <Shape><Polygon POINTS="134 930 169 925 169 911 166 879 130 875 133 914"/></Shape>
-	    <String CONTENT="31."
+	    <String CONTENT="11·"
                     HPOS="130"
                     VPOS="875"
                     WIDTH="39"
-                    HEIGHT="55"
-                    WC="0.7962314585844675"></String>
+                    HEIGHT="55"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="122"
@@ -620,12 +617,11 @@
                     WIDTH="41"
                     HEIGHT="58">
             <Shape><Polygon POINTS="129 1188 168 1185 170 1170 170 1133 132 1130 131 1167"/></Shape>
-	    <String CONTENT="22"
+	    <String CONTENT="12·"
                     HPOS="129"
                     VPOS="1130"
                     WIDTH="41"
-                    HEIGHT="58"
-                    WC="0.999116986989975"></String>
+                    HEIGHT="58"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="139"
@@ -643,12 +639,11 @@
                     WIDTH="50"
                     HEIGHT="74">
             <Shape><Polygon POINTS="137 1402 187 1396 187 1377 187 1336 137 1328 137 1377"/></Shape>
-	    <String CONTENT="1·"
+	    <String CONTENT="13·"
                     HPOS="137"
                     VPOS="1328"
                     WIDTH="50"
-                    HEIGHT="74"
-                    WC="0.9982336461544037"></String>
+                    HEIGHT="74"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
