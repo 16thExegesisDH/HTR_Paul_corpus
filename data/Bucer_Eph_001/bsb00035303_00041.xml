@@ -43,60 +43,6 @@
                     HEIGHT="66"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="886.0"
-                   VPOS="250.0"
-                   WIDTH="145.0"
-                   HEIGHT="131.0"
-                   ID="eSc_textblock_1e10b236"
-                   TAGREFS="BT1792">
-          <Shape><Polygon POINTS="886 250 886 381 1031 381 1031 250"/></Shape>
-          <TextLine ID="eSc_line_5b041a27"
-                    TAGREFS="LT8"
-                    BASELINE="883 308 1036 303" 
-                    HPOS="882"
-                    VPOS="264"
-                    WIDTH="154"
-                    HEIGHT="60">
-            <Shape><Polygon POINTS="884 321 952 315 964 323 965 324 966 324 967 324 968 324 1036 323 1036 303 1034 274 1026 274 1016 273 1006 272 995 270 985 269 974 268 970 268 961 270 959 270 958 270 947 266 943 266 933 265 932 264 882 273"/></Shape>
-	    <String CONTENT="Maior his"
-                    HPOS="882"
-                    VPOS="264"
-                    WIDTH="154"
-                    HEIGHT="60"
-                    WC="0.999589913421207"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_3eeaac57"
-                    TAGREFS="LT8"
-                    BASELINE="885 358 914 354 1004 354" 
-                    HPOS="884"
-                    VPOS="314"
-                    WIDTH="120"
-                    HEIGHT="61">
-            <Shape><Polygon POINTS="885 358 885 373 1003 375 1004 354 1003 323 884 314 885 358"/></Shape>
-	    <String CONTENT="dilectio."
-                    HPOS="884"
-                    VPOS="314"
-                    WIDTH="120"
-                    HEIGHT="61"
-                    WC="0.9915812346670363"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="545.0"
-                   VPOS="1493.0"
-                   WIDTH="381.0"
-                   HEIGHT="59.0"
-                   ID="eSc_textblock_bb3dbc39"
-                   TAGREFS="BT17">
-          <Shape><Polygon POINTS="552 1493 545 1552 926 1552 926 1496"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="24.0"
-                   VPOS="184.0"
-                   WIDTH="876.0"
-                   HEIGHT="1305.0"
-                   ID="eSc_textblock_1f919e5e"
-                   TAGREFS="BT1791">
-          <Shape><Polygon POINTS="24 184 24 1489 900 1489 880 191"/></Shape>
-        </TextBlock>
         <TextBlock HPOS="811.0"
                    VPOS="119.0"
                    WIDTH="82.0"
@@ -104,8 +50,6 @@
                    ID="eSc_textblock_14c1b293"
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="811 119 811 178 893 178 893 119"/></Shape>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_1d4b0196"
                     TAGREFS="LT8"
                     BASELINE="834 161 883 161" 
@@ -120,6 +64,14 @@
                     WIDTH="49"
                     HEIGHT="50"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="24.0"
+                   VPOS="184.0"
+                   WIDTH="876.0"
+                   HEIGHT="1305.0"
+                   ID="eSc_textblock_1f919e5e"
+                   TAGREFS="BT1791">
+          <Shape><Polygon POINTS="24 184 24 1489 900 1489 880 191"/></Shape>
           <TextLine ID="eSc_line_d59c6515"
                     TAGREFS="LT8"
                     BASELINE="36 232 316 226 871 223" 
@@ -187,7 +139,7 @@
                     VPOS="385"
                     WIDTH="836"
                     HEIGHT="61">
-            <Shape><Polygon POINTS="40 429 40 442 152 439 176 441 227 446 228 446 229 446 249 440 252 439 254 440 262 443 263 443 264 443 316 439 331 438 333 439 347 445 348 445 349 445 419 437 428 437 431 437 454 443 455 443 456 443 457 443 473 437 475 436 477 437 494 442 495 442 496 442 497 442 520 436 522 436 531 436 646 441 647 441 648 441 649 441 658 435 674 440 675 440 676 441 743 441 743 440 744 440 745 440 751 435 762 440 763 440 764 440 765 440 778 434 836 439 837 439 875 431 875 421 872 389 775 391 765 390 737 385 736 385 734 385 717 390 709 393 658 393 654 391 647 386 646 386 645 386 590 386 589 386 587 386 569 392 560 395 518 392 436 389 435 389 434 389 424 393 422 395 413 395 356 388 355 388 303 396 291 397 288 396 275 389 274 389 273 389 230 397 218 399 197 399 194 397 186 390 185 390 184 390 183 390 158 396 130 391 129 391 128 391 127 391 118 398 105 391 104 391 58 391 57 391 56 391 39 398 40 429"/></Shape>
+            <Shape><Polygon POINTS="40 442 152 439 176 441 227 446 228 446 229 446 249 440 252 439 254 440 262 443 263 443 264 443 316 439 331 438 333 439 347 445 348 445 349 445 419 437 428 437 431 437 454 443 455 443 456 443 457 443 473 437 475 436 477 437 494 442 495 442 496 442 497 442 520 436 522 436 531 436 646 441 647 441 648 441 649 441 658 435 674 440 675 440 676 441 743 441 743 440 744 440 745 440 751 435 762 440 763 440 764 440 765 440 778 434 836 439 837 439 875 431 875 421 872 389 775 391 765 390 737 385 736 385 734 385 717 390 709 393 658 393 654 391 647 386 646 386 645 386 590 386 589 386 587 386 569 392 560 395 518 392 436 389 435 389 434 389 424 393 422 395 413 395 356 388 355 388 303 396 291 397 288 396 275 389 274 389 273 389 230 397 218 399 197 399 194 397 186 390 185 390 184 390 183 390 158 396 130 391 129 391 128 391 127 391 118 398 105 391 104 391 58 391 57 391 56 391 39 398 40 429"/></Shape>
 	    <String CONTENT="diuinitatis portionem perceperunt, &amp; ſpe conſumman¬"
                     HPOS="39"
                     VPOS="385"
@@ -507,6 +459,52 @@
                     HEIGHT="83"
                     WC="0.9989448032881084"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="886.0"
+                   VPOS="250.0"
+                   WIDTH="145.0"
+                   HEIGHT="131.0"
+                   ID="eSc_textblock_1e10b236"
+                   TAGREFS="BT1792">
+          <Shape><Polygon POINTS="886 250 886 381 1031 381 1031 250"/></Shape>
+          <TextLine ID="eSc_line_5b041a27"
+                    TAGREFS="LT8"
+                    BASELINE="883 308 1036 303" 
+                    HPOS="882"
+                    VPOS="264"
+                    WIDTH="154"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="884 321 952 315 964 323 965 324 966 324 967 324 968 324 1036 323 1036 303 1034 274 1026 274 1016 273 1006 272 995 270 985 269 974 268 970 268 961 270 959 270 958 270 947 266 943 266 933 265 932 264 882 273"/></Shape>
+	    <String CONTENT="Maior his"
+                    HPOS="882"
+                    VPOS="264"
+                    WIDTH="154"
+                    HEIGHT="60"
+                    WC="0.999589913421207"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3eeaac57"
+                    TAGREFS="LT8"
+                    BASELINE="885 358 914 354 1004 354" 
+                    HPOS="884"
+                    VPOS="314"
+                    WIDTH="120"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="885 358 885 373 1003 375 1004 354 1003 323 884 314 885 358"/></Shape>
+	    <String CONTENT="dilectio."
+                    HPOS="884"
+                    VPOS="314"
+                    WIDTH="120"
+                    HEIGHT="61"
+                    WC="0.9915812346670363"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="545.0"
+                   VPOS="1493.0"
+                   WIDTH="381.0"
+                   HEIGHT="59.0"
+                   ID="eSc_textblock_bb3dbc39"
+                   TAGREFS="BT17">
+          <Shape><Polygon POINTS="552 1493 545 1552 926 1552 926 1496"/></Shape>
           <TextLine ID="eSc_line_d3de7254"
                     TAGREFS="LT8"
                     BASELINE="577 1522 665 1524" 
