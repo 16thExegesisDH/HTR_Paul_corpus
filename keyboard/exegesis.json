@@ -106,6 +106,12 @@
             "character": "t̃",
             "legend": "tilde horizontal combining with t",
             "keyboard_code": "Junicode (000303) + t Unicode"
-        }
+        },
+        { "row": 1,
+            "column": 4,
+            "character": " ꝶ",
+            "legend": "r with a stroke",
+            "keyboard_code": "Junicode (A776) "
+       },    
     ]
 }
