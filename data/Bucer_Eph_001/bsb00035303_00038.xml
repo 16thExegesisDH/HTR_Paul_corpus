@@ -165,16 +165,16 @@
           <TextLine ID="line_10"
                     TAGREFS="LT8"
                     BASELINE="277 594 1094 605" 
-                    HPOS="275.0"
-                    VPOS="551.0"
-                    WIDTH="818.0"
-                    HEIGHT="74.0">
-            <Shape><Polygon POINTS="276 592 275 605 317 615 387 609 402 619 492 619 508 609 519 617 580 611 614 619 622 611 788 622 855 614 901 623 974 615 1090 625 1093 572 1007 572 977 561 971 561 963 570 898 570 888 561 815 567 805 558 779 567 678 567 671 558 635 565 621 554 574 562 531 554 527 554 519 561 510 553 391 551 276 559 276 592"/></Shape>
+                    HPOS="275"
+                    VPOS="551"
+                    WIDTH="818"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="275 605 317 615 387 609 402 619 492 619 508 609 519 617 580 611 614 619 622 611 788 622 855 614 901 623 974 615 1090 625 1093 572 1007 572 977 561 971 561 963 570 898 570 888 561 815 567 805 558 779 567 678 567 671 558 635 565 621 554 574 562 531 554 527 554 519 561 510 553 391 551 276 559 276 592"/></Shape>
 	    <String CONTENT="ut ipſum ſuſpiciamus &amp; adoremus ſeruatorem. Nam de"
-                    HPOS="275.0"
-                    VPOS="551.0"
-                    WIDTH="818.0"
-                    HEIGHT="74.0"
+                    HPOS="275"
+                    VPOS="551"
+                    WIDTH="818"
+                    HEIGHT="74"
                     WC="0.994666154384613"></String>
           </TextLine>
           <TextLine ID="eSc_line_1b36d1b6"
@@ -184,12 +184,11 @@
                     WIDTH="818.0"
                     HEIGHT="70.0">
             <Shape><Polygon POINTS="276 637 275 662 411 658 472 667 664 661 716 670 724 669 733 662 888 673 905 665 980 665 988 675 993 675 1092 670 1093 653 1092 622 1021 612 1001 620 988 611 887 619 871 609 863 609 855 617 833 609 782 617 705 608 680 615 669 606 600 614 560 605 533 612 524 605 276 606 276 637"/></Shape>
-	    <String CONTENT="ſe prædicat, qui in ſe crediderit, eum æternam uitam habe£"
+	    <String CONTENT="ſe prædicat, qui in ſe crediderit, eum æternam uitam habe¬"
                     HPOS="275.0"
                     VPOS="605.0"
                     WIDTH="818.0"
-                    HEIGHT="70.0"
-                    WC="0.979728692564471"></String>
+                    HEIGHT="70.0"></String>
           </TextLine>
           <TextLine ID="line_12"
                     TAGREFS="LT8"
