@@ -28,19 +28,19 @@
                    ID="eSc_textblock_5d4be315"
                    TAGREFS="BT15">
           <Shape><Polygon POINTS="307 133 307 191 374 191 374 133"/></Shape>
-          <TextLine ID="eSc_line_6cf325bb"
+          <TextLine ID="eSc_line_226b2e05"
                     TAGREFS="LT8"
-                    BASELINE="311 174 357 174" 
-                    HPOS="309"
-                    VPOS="111"
-                    WIDTH="45"
-                    HEIGHT="150">
-            <Shape><Polygon POINTS="309 261 354 261 354 171 354 111 309 111 309 171"/></Shape>
+                    BASELINE="315 170 336 170" 
+                    HPOS="312"
+                    VPOS="135"
+                    WIDTH="21"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="312 168 312 225 333 225 333 168 333 135 312 135"/></Shape>
 	    <String CONTENT="1"
-                    HPOS="309"
-                    VPOS="111"
-                    WIDTH="45"
-                    HEIGHT="150"></String>
+                    HPOS="312"
+                    VPOS="135"
+                    WIDTH="21"
+                    HEIGHT="90"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1195.0"
