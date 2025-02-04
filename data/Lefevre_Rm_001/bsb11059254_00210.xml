@@ -26,10 +26,10 @@
                    WIDTH="96"
                    HEIGHT="91"
                    ID="eSc_textblock_8eaef150"
-                   TAGREFS="BT18">
+                   TAGREFS="BT15">
           <Shape><Polygon POINTS="318 99 320 190 414 188 414 99"/></Shape>
           <TextLine ID="eSc_line_00c79b78"
-                    TAGREFS="LT10"
+                    TAGREFS="LT8"
                     BASELINE="346 156 389 156" 
                     HPOS="343"
                     VPOS="99"
