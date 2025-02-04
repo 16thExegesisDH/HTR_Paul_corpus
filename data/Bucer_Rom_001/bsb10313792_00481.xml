@@ -1088,16 +1088,16 @@
           <TextLine ID="line_27"
                     TAGREFS="LT8"
                     BASELINE="965 493 1729 497" 
-                    HPOS="964.0"
-                    VPOS="454.0"
-                    WIDTH="765.0"
-                    HEIGHT="59.0">
-            <Shape><Polygon POINTS="965 493 964 513 1727 513 1729 497 1725 454 965 454 965 493"/></Shape>
+                    HPOS="964"
+                    VPOS="454"
+                    WIDTH="765"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="964 513 1727 513 1729 497 1725 454 965 454 965 493"/></Shape>
 	    <String CONTENT="gnificanter ſuam ſolius eſſe ultionem malorũ"
-                    HPOS="964.0"
-                    VPOS="454.0"
-                    WIDTH="765.0"
-                    HEIGHT="59.0"
+                    HPOS="964"
+                    VPOS="454"
+                    WIDTH="765"
+                    HEIGHT="59"
                     WC="0.9959614687495761"></String>
           </TextLine>
           <TextLine ID="line_28"
@@ -2050,27 +2050,35 @@
                     HEIGHT="71.0"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="1419.0"
-                   VPOS="2922.0"
-                   WIDTH="339.0"
-                   HEIGHT="70.0"
-                   ID="eSc_textblock_58119137"
+        <TextBlock HPOS="1461"
+                   VPOS="2916"
+                   WIDTH="56"
+                   HEIGHT="53"
+                   ID="eSc_textblock_2547f8e4"
                    TAGREFS="BT17">
-          <Shape><Polygon POINTS="1419 2992 1419 2922 1758 2922 1758 2992"/></Shape>
+          <Shape><Polygon POINTS="1517 2916 1517 2969 1461 2969 1461 2916"/></Shape>
           <TextLine ID="line_121"
                     TAGREFS="LT8"
-                    BASELINE="1473 2943 1539 2947" 
-                    HPOS="1470"
-                    VPOS="2902"
-                    WIDTH="69"
-                    HEIGHT="84">
-            <Shape><Polygon POINTS="1473 2943 1470 2986 1536 2986 1539 2947 1539 2914 1473 2902 1473 2943"/></Shape>
+                    BASELINE="1473 2943 1502 2947" 
+                    HPOS="1466"
+                    VPOS="2899"
+                    WIDTH="34"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="1471 2942 1466 2982 1492 2988 1500 2945 1498 2899 1474 2899"/></Shape>
 	    <String CONTENT="T"
-                    HPOS="1470"
-                    VPOS="2902"
-                    WIDTH="69"
-                    HEIGHT="84"></String>
+                    HPOS="1466"
+                    VPOS="2899"
+                    WIDTH="34"
+                    HEIGHT="89"></String>
           </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1587"
+                   VPOS="2922"
+                   WIDTH="171"
+                   HEIGHT="70"
+                   ID="eSc_textblock_7c31aebf"
+                   TAGREFS="BT17">
+          <Shape><Polygon POINTS="1589 2989 1587 2925 1758 2922 1758 2992"/></Shape>
           <TextLine ID="line_120"
                     TAGREFS="LT8"
                     BASELINE="1600 2947 1743 2941" 
@@ -2078,7 +2086,7 @@
                     VPOS="2900"
                     WIDTH="146"
                     HEIGHT="75">
-            <Shape><Polygon POINTS="1600 2947 1600 2975 1743 2972 1743 2941 1740 2911 1691 2900 1690 2900 1597 2914 1600 2947"/></Shape>
+            <Shape><Polygon POINTS="1600 2975 1743 2972 1743 2941 1740 2911 1691 2900 1690 2900 1597 2914 1600 2947"/></Shape>
 	    <String CONTENT="trario."
                     HPOS="1597"
                     VPOS="2900"
@@ -2086,14 +2094,6 @@
                     HEIGHT="75"
                     WC="0.9995649371828351"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="1461.0"
-                   VPOS="2916.0"
-                   WIDTH="56.0"
-                   HEIGHT="53.0"
-                   ID="block_10"
-                   TAGREFS="BT17">
-          <Shape><Polygon POINTS="1517 2916 1517 2969 1461 2969 1461 2916"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
