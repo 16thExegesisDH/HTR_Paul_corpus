@@ -29,18 +29,41 @@
                    TAGREFS="BT18">
           <Shape><Polygon POINTS="307 133 307 191 374 191 374 133"/></Shape>
           <TextLine ID="eSc_line_6cf325bb"
-                    TAGREFS="LT8"
+                    TAGREFS="LT10"
                     BASELINE="311 174 357 174" 
-                    HPOS="309.0"
-                    VPOS="111.0"
-                    WIDTH="45.0"
-                    HEIGHT="150.0">
-            <Shape><Polygon POINTS="309 171 309 261 354 261 354 171 354 111 309 111 309 171"/></Shape>
+                    HPOS="309"
+                    VPOS="111"
+                    WIDTH="45"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="309 261 354 261 354 171 354 111 309 111 309 171"/></Shape>
 	    <String CONTENT="I"
-                    HPOS="309.0"
-                    VPOS="111.0"
-                    WIDTH="45.0"
-                    HEIGHT="150.0"></String>
+                    HPOS="309"
+                    VPOS="111"
+                    WIDTH="45"
+                    HEIGHT="150"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1195.0"
+                   VPOS="167.0"
+                   WIDTH="197.0"
+                   HEIGHT="72.0"
+                   ID="block_2"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="1392 167 1392 239 1195 239 1195 173"/></Shape>
+          <TextLine ID="line_0"
+                    TAGREFS="LT10"
+                    BASELINE="1191 218 1393 218" 
+                    HPOS="1191"
+                    VPOS="142"
+                    WIDTH="202"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="1191 236 1391 244 1393 218 1393 150 1359 142 1357 142 1355 142 1333 152 1325 156 1311 154 1261 142 1259 142 1191 158 1191 218"/></Shape>
+	    <String CONTENT="COM."
+                    HPOS="1191"
+                    VPOS="142"
+                    WIDTH="202"
+                    HEIGHT="102"
+                    WC="0.9999682009220123"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="483.0"
@@ -897,6 +920,21 @@
                     HEIGHT="64.0"
                     WC="0.9899209301646162"></String>
           </TextLine>
+          <TextLine ID="line_58"
+                    TAGREFS="LT8"
+                    BASELINE="516 2805 1467 2813" 
+                    HPOS="514"
+                    VPOS="2767"
+                    WIDTH="953"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="516 2805 514 2825 1463 2839 1467 2813 1465 2781 516 2767 516 2805"/></Shape>
+	    <String CONTENT="Et Crocodylus idem quod Iuno! Lauerna! Priapus."
+                    HPOS="514"
+                    VPOS="2767"
+                    WIDTH="953"
+                    HEIGHT="72"
+                    WC="0.9873130334184524"></String>
+          </TextLine>
           <TextLine ID="eSc_line_616886fc"
                     TAGREFS="LT8"
                     BASELINE="510 2865 1379 2870" 
@@ -911,29 +949,6 @@
                     WIDTH="874.0"
                     HEIGHT="129.0"
                     WC="0.9385078925461996"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="1195.0"
-                   VPOS="167.0"
-                   WIDTH="197.0"
-                   HEIGHT="72.0"
-                   ID="block_2"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="1392 167 1392 239 1195 239 1195 173"/></Shape>
-          <TextLine ID="line_0"
-                    TAGREFS="LT10"
-                    BASELINE="1191 218 1393 218" 
-                    HPOS="1191.0"
-                    VPOS="142.0"
-                    WIDTH="202.0"
-                    HEIGHT="102.0">
-            <Shape><Polygon POINTS="1191 236 1391 244 1393 218 1393 150 1359 142 1357 142 1355 142 1333 152 1325 156 1311 154 1261 142 1259 142 1191 158 1191 218"/></Shape>
-	    <String CONTENT="COM."
-                    HPOS="1191.0"
-                    VPOS="142.0"
-                    WIDTH="202.0"
-                    HEIGHT="102.0"
-                    WC="0.9999682009220123"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="2101.0"
@@ -1000,23 +1015,6 @@
                     VPOS="2131"
                     WIDTH="27"
                     HEIGHT="147"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="line_58"
-                    TAGREFS="LT8"
-                    BASELINE="516 2805 1467 2813" 
-                    HPOS="514.0"
-                    VPOS="2767.0"
-                    WIDTH="953.0"
-                    HEIGHT="72.0">
-            <Shape><Polygon POINTS="516 2805 514 2825 1463 2839 1467 2813 1465 2781 516 2767 516 2805"/></Shape>
-	    <String CONTENT="Et Crocodylus idem quod Iuno! Lauerna! Priapus."
-                    HPOS="514.0"
-                    VPOS="2767.0"
-                    WIDTH="953.0"
-                    HEIGHT="72.0"
-                    WC="0.9873130334184524"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
