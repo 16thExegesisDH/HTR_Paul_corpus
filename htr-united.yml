@@ -185,11 +185,11 @@ title: Lambertus
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/16thExegesisDH/HTR_Paul_corpus
 volume:
-- count: 189789
+- count: 189796
   metric: characters
 - count: 102
   metric: files
 - count: 5601
   metric: lines
-- count: 844
+- count: 843
   metric: regions
