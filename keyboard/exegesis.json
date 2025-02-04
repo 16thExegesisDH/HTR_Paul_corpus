@@ -113,5 +113,17 @@
             "legend": "r with a stroke",
             "keyboard_code": "Junicode (A776) "
        },    
+       { "row": 2,
+            "column": 4,
+            "character": "˒",
+            "legend": "modifier letter right half ring",
+            "keyboard_code": "MUFI UTF-16 (02D2) "
+       } ,
+        { "row": 3,
+            "column": 4,
+            "character": "¶",
+            "legend": "pied de mouche",
+            "keyboard_code": "? "
+       }  
     ]
 }
