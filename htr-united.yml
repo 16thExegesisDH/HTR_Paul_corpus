@@ -65,15 +65,15 @@ characters:
   - R
   - T
   - ;
+  - ˒
   - Q
   - ρ
   - ̨
-  - ˒
   - ̓
   - ¶
   - '?'
-  - λ
   - '1'
+  - λ
   - ͂
   - ς
   - y
@@ -86,9 +86,9 @@ characters:
   - η
   - œ
   - ꝙ
-  - (
-  - B
   - π
+  - B
+  - (
   - '4'
   - φ
   - 
@@ -98,8 +98,8 @@ characters:
   - /
   - 
   - '9'
-  - G
   - '5'
+  - G
   - '6'
   - ꝰ
   - γ
@@ -119,19 +119,17 @@ characters:
   - ͅ
   - '-'
   - ']'
+  - ̔
   - k
   - ꝵ
-  - ̔
   - ̈
-  - '*'
   - ח
   - Α
-  - »
   - U
+  - '*'
   - ו
-  - "'"
   - £
-  - „
+  - "'"
   - ꝑ
   - J
   - י
@@ -148,6 +146,7 @@ characters:
   - ̶
   - ̄
   - $
+  - „
   - ש
   - ל
   - ד
@@ -163,7 +162,6 @@ characters:
   - β
   - +
   - Ι
-  - '['
   mode: NFD
 description: Data for data for Paul’s exegesis.
 format: Alto-XML
@@ -189,11 +187,11 @@ title: Lambertus
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/16thExegesisDH/HTR_Paul_corpus
 volume:
-- count: 229979
+- count: 230011
   metric: characters
 - count: 101
   metric: files
-- count: 5571
+- count: 5572
   metric: lines
-- count: 816
+- count: 817
   metric: regions
