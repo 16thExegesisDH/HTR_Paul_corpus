@@ -30,17 +30,17 @@
           <Shape><Polygon POINTS="1920 151 1920 218 1819 218 1819 151"/></Shape>
           <TextLine ID="line_64"
                     TAGREFS="LT10"
-                    BASELINE="1816 190 1916 190" 
-                    HPOS="1816"
-                    VPOS="140"
-                    WIDTH="100"
-                    HEIGHT="109">
-            <Shape><Polygon POINTS="1816 231 1864 249 1866 249 1868 249 1916 237 1916 190 1916 142 1816 140 1816 190"/></Shape>
+                    BASELINE="1836 190 1916 190" 
+                    HPOS="1835"
+                    VPOS="153"
+                    WIDTH="78"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1895 153 1865 153 1835 153 1835 189 1835 235 1910 247 1913 189 1913 153 1895 153"/></Shape>
 	    <String CONTENT="Ro."
-                    HPOS="1816"
-                    VPOS="140"
-                    WIDTH="100"
-                    HEIGHT="109"
+                    HPOS="1835"
+                    VPOS="153"
+                    WIDTH="78"
+                    HEIGHT="94"
                     WC="0.9999371767044067"></String>
           </TextLine>
         </TextBlock>
@@ -115,16 +115,16 @@
           <TextLine ID="line_40"
                     TAGREFS="LT8"
                     BASELINE="90 351 1707 357" 
-                    HPOS="88.0"
-                    VPOS="321.0"
-                    WIDTH="1619.0"
-                    HEIGHT="58.0">
-            <Shape><Polygon POINTS="90 351 88 371 1703 379 1707 357 1705 327 90 321 90 351"/></Shape>
+                    HPOS="88"
+                    VPOS="321"
+                    WIDTH="1619"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="88 371 1703 379 1707 357 1705 327 90 321 90 351"/></Shape>
 	    <String CONTENT="&amp; domus Iuda. negauerunt dominũ: &amp; dixerunt non eſt ipſe. Cũ igitur luda &amp; iudæus"
-                    HPOS="88.0"
-                    VPOS="321.0"
-                    WIDTH="1619.0"
-                    HEIGHT="58.0"
+                    HPOS="88"
+                    VPOS="321"
+                    WIDTH="1619"
+                    HEIGHT="58"
                     WC="0.9833919958895948"></String>
           </TextLine>
           <TextLine ID="line_41"
@@ -1102,14 +1102,6 @@
                     WIDTH="45"
                     HEIGHT="150"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="1581.0"
-                   VPOS="2939.0"
-                   WIDTH="28.0"
-                   HEIGHT="23.0"
-                   ID="eSc_textblock_574b128b"
-                   >
-          <Shape><Polygon POINTS="1581 2939 1581 2962 1609 2962 1609 2939"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
