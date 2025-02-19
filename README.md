@@ -33,6 +33,18 @@ The main documentation  is here: [Annotation Guide on GitHub](https://github.com
 
 # II. Guideline for Transcription
 
+*
+*
+
+### Tools for building the transcription 
+
+* download the keyboard for special lettre : /
+  - if the lettre is not already in the keyboard, make a screenshot and stock the picture in picture/mysteria_litterae
+* greek
+  -the greek is transcript as  . issues to read ligatures : see 1. 2.
+  
+### Example 
+
 | **Sign**             | **Example**                                                                                          | **Source**                                  | **Transcription** | **Unicode/Junicode** |
 |----------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------|-------------------|-------------|
 | Pilcrow              | <img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/piedDeMouche_1.jpg" alt="Pillcrow" width="85" height="47"> | [e-rara, p.11](https://doi.org/10.3931/e-rara-6338) | ¶                 |     `U+00B6`        |
