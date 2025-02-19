@@ -2,9 +2,11 @@
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
-[Table of Contents](#i-guideline-for-segmentation)  
-[Table of Contents](#ii-guideline-for-transcription)  
-[Table of Contents](#iii-encoding-problem) 
+# Table of Contents
+
+[I. Guideline for Segmentation](#i-guideline-for-segmentation)  
+[II. Guideline for Transcription](#ii-guideline-for-transcription)  
+[ III. Encoding Problem](#iii-encoding-problem) 
 
 # I. Guideline for Segmentation
 
