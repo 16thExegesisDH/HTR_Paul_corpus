@@ -2,6 +2,10 @@
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
+[Table of Contents](#i-guideline-for-segmentation)  
+[Table of Contents](#ii-guideline-for-transcription)  
+[Table of Contents](#iii-encoding-problem) 
+
 # I. Guideline for Segmentation
 
 The main documentation  is here: [Annotation Guide on GitHub](https://github.com/DEFI-COLaF/LADaS/blob/main/AnnotationGuide.md).
