@@ -26,7 +26,7 @@ The main documentation  is here: [Annotation Guide on GitHub](https://github.com
 | **RunningTitleZone**: pink <br/> **DropCapitalZone**: dark viola <br/> **MainZone:Head**: yellow <br/> **MainZone:P**: dark green <br/> **MainZone:P#Continued**: light blue <br/> **NumberingZone**: rosa for "456", "II", "III" <br/> **QuireMarkZone**: viola | <img src="/pictures/segmentationGL/Bucer_Rm_1.png" width="300"/> |
 | **RunningTitleZone**: pink for "VII" (Epistle number) and "Col" (Epistle name) <br/> **MainZone:Head**: yellow <br/> **MainZone:P**: dark green <br/> **MainZone:P#Continued**: light blue <br/> **NumberingZone**: rosa for "7", "8", "184" | <img src="/pictures/segmentationGL/Lefevre_1.png" width="300"/> |
 | **RunningTitleZone**: pink for "COM" <br/> **DropCapitalZone**: dark viola <br/> **MainZone:Head**: yellow <br/> **MainZone:P**: dark green <br/> **MainZone:P#Continued**: light blue <br/> **NumberingZone**: rosa for "1", "C4", "D4", "5", "6" | <img src="/pictures/segmentationGL/Lefevre_2.png" width="300"/> |
-| **RunningTitleZone**: pink <br/> **MainZone-ListItem** brown <br> **MainZone:Head**: yellow <br/> **MainZone:P**: green <br> **NumberingZone**: rosa <br> **QuireMarkZone**: viola | <img src="/pictures/segmentationGL/ListItem.png" width="300"/> |
+| **RunningTitleZone**: pink <br/> **MainZone-ListItem** brown for "II ad liberalitatem [...]"<br> **MainZone:Head**: yellow <br/> **MainZone:P**: green <br> **NumberingZone**: rosa <br> **QuireMarkZone**: viola | <img src="/pictures/segmentationGL/ListItem.png" width="300"/> |
 | **TitlePageZone**: light light viola <br/> **MarginTextZone-ManuscriptAddendum**: red <br> _for the manuscript annotation around the text_ <br> | <img src="/pictures/segmentationGL/TitlePage.png" width="300"/> |
 
 
