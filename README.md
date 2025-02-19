@@ -1,9 +1,8 @@
 # HTR_Paul_corpus
-A
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
-# Guideline for Segmentation
+# I. Guideline for Segmentation
 
 The main documentation  is here: [Annotation Guide on GitHub](https://github.com/DEFI-COLaF/LADaS/blob/main/AnnotationGuide.md).
 
@@ -20,7 +19,7 @@ The main documentation  is here: [Annotation Guide on GitHub](https://github.com
 - **MainZone-ListItem**: brown
 - **MarginTextZone-ManuscriptAddendum**: red
 
-### 3. Examples
+### Examples
 
 | Description | Example |
 | -------- | ------- |
@@ -32,7 +31,7 @@ The main documentation  is here: [Annotation Guide on GitHub](https://github.com
 | **TitlePageZone**: light light viola <br/> **MarginTextZone-ManuscriptAddendum**: red <br> _for the manuscript annotation around the text_ <br> | <img src="/pictures/segmentationGL/TitlePage.png" width="300"/> |
 
 
-# Guideline for Transcription
+# II. Guideline for Transcription
 
 | **Sign**             | **Example**                                                                                          | **Source**                                  | **Transcription** | **Unicode/Junicode** |
 |----------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------|-------------------|-------------|
@@ -41,7 +40,7 @@ The main documentation  is here: [Annotation Guide on GitHub](https://github.com
 |cumque abreviation | <img src="pictures/mysteria_litterae/cumque_abreviation.png" alt="cumque" width="27" height="48"> | | <img src="pictures/mysteria_litterae/que_ligature.png" alt="cumque" width="76" height="45"> | Junicode (00E8BF)+tilde (000303)|
 |tur abreviation  | <img src="pictures/mysteria_litterae/tur_abreviation.png" alt="tur" width="27" height="48"> || <img src="pictures/mysteria_litterae/tur_online.png" alt="cumque" width="48" height="75">| Junicode(000303)  + t unicode|
 
-# Encoding Problem
+# III. Encoding Problem
 Some characters in eScriptorium use the Junicode font, and a suitable interface is needed for reading them.
 
 ### Reading Hidden Characters in Junicode on eScriptorium
