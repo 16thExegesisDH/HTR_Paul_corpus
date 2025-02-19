@@ -63,7 +63,7 @@
             "column": 1,
             "character": "q́",
             "legend": "latin small letter Q ligated with final and accute accent",
-            "keyboard_code": "MUFI 00E8BF",
+            "keyboard_code": "MUFI 00E8BF"
         },
         {
             "row": 2,
@@ -130,13 +130,13 @@
             "column": 4,
             "character": "¶",
             "legend": "pied de mouche",
-            "keyboard_code": "? ",
-       }  
+            "keyboard_code": "? "
+       },  
        { "row": 4,
             "column": 4,
             "character": "",
             "legend": " latin small lettre Q with stroke through descender and tilde ＆qbardestilde; abreviation quam/quan",
-            "keyboard_code": "00E68B",
+            "keyboard_code": "00E68B"
        }  
 
     ]
