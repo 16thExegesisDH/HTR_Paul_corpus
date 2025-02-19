@@ -37,6 +37,13 @@
             "legend": "fleuron",
             "keyboard_code": "U+2767"
         },
+          {
+            "row": 0,
+            "column": 5,
+            "character": "́",
+            "legend": "fleuron",
+            "keyboard_code": "U+2767"
+        },
         {
             "row": 1,
             "column": 2,
@@ -55,8 +62,8 @@
             "row": 2,
             "column": 1,
             "character": "q́",
-            "legend": "acute accent on q with shapped semi-colon",
-            "keyboard_code": "U+0071 + U+0301 + Junicode"
+            "legend": "latin small letter Q ligated with final and accute accent",
+            "keyboard_code": "MUFI 00E8BF"
         },
         {
             "row": 2,
@@ -134,3 +141,5 @@
 
     ]
 }
+
+ 
