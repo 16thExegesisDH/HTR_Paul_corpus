@@ -26,7 +26,7 @@ The main documentation  is here: [Annotation Guide on GitHub](https://github.com
 | **RunningTitleZone**: pink for "VII" (Epistle number) and "Col" (Epistle name) <br/> **MainZone:Head**: yellow <br/> **MainZone:P**: dark green <br/> **MainZone:P#Continued**: light blue <br/> **NumberingZone**: rosa for "7", "8", "184" | <img src="/pictures/Lefevre_1.png" width="300"/> |
 | **RunningTitleZone**: pink for "COM" <br/> **DropCapitalZone**: dark viola <br/> **MainZone:Head**: yellow <br/> **MainZone:P**: dark green <br/> **MainZone:P#Continued**: light blue <br/> **NumberingZone**: rosa for "1", "C4", "D4", "5", "6" | <img src="/pictures/Lefevre_2.png" width="300"/> |
 | **RunningTitleZone**: viola <br/> **MainZone-ListItem**:green <br> **MainZone:Head**: red <br/> **MainZone:P**: orange <br> **NumberingZone**: blue <br> **QuireMarkZone**: dark blue | <img src="/pictures/entry.png" width="300"/> |
-| **TitlePageZone**: pink <br/> **MarginTextZone-ManuscriptAddendum**:green" for the manuscript annotation around the text <br> | <img src="/pictures/margin_cursive.png" width="300"/> |
+| **TitlePageZone**: pink <br/> **MarginTextZone-ManuscriptAddendum**: green _for the manuscript annotation around the text_ <br> | <img src="/pictures/margin_cursive.png" width="300"/> |
 
 
 # Guideline for Transcription
