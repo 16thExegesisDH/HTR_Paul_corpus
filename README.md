@@ -33,24 +33,35 @@ The main documentation  is here: [Annotation Guide on GitHub](https://github.com
 
 # II. Guideline for Transcription
 
-*
-*
+We follow, as much as possible, the transcription standards proposed by [Catmus standard](https://catmus-guidelines.github.io):
 
-### Tools for building the transcription 
+**Citation:**
+Ariane Pinche, Thibault Clérice, Alix Chagué, Jean-Baptiste Camps, Malamatenia Vlachou-Efstathiou, et al., *CATMuS-Medieval: Consistent Approaches to Transcribing ManuScripts: A generalized set of guidelines and models for Latin scripts from Middle Ages (8th–16th century)*. 2023. [hal-04346939](https://hal.archives-ouvertes.fr/hal-04346939).
 
-* download the keyboard for special lettre : /
-  - if the lettre is not already in the keyboard, make a screenshot and stock the picture in picture/mysteria_litterae
-* greek
-  -the greek is transcript as  . issues to read ligatures : see 1. 2.
-  
-### Example 
+## Special Cases
+
+* Special cases are documented in the examples below. The relevant letters or signs are encoded in **Junicode** and added to the _exegesis_ keyboard.
+* Greek text is fully transcribed and edited without preserving any abbreviations or ligatures.
+* Hebrew letters may appear in the data but are not corrected as of now (19.02.2025).
+
+## Tools for Building the Transcription
+
+* **Download the keyboard for special letters:** /
+  - If a letter is not already included in the keyboard, take a screenshot and store the image in `pictures/mysteria_litterae`.
+* **Greek Transcription:**
+  - Greek is transcribed fully.
+  - Issues related to transcribing ligatures can be resolved using:
+    - [Greek_Abbreviations.pdf](Greek_Abbreviations.pdf)
+    - [_Alphabetum Graecum_ by Theodore de Bèze](https://doi.org/10.3931/e-rara-6065), see vignettes 27-39.
+
+## Examples of Special Cases
 
 | **Sign**             | **Example**                                                                                          | **Source**                                  | **Transcription** | **Unicode/Junicode** |
-|----------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------|-------------------|-------------|
-| Pilcrow              | <img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/piedDeMouche_1.jpg" alt="Pillcrow" width="85" height="47"> | [e-rara, p.11](https://doi.org/10.3931/e-rara-6338) | ¶                 |     `U+00B6`        |
-| Semicolon (shaped)   | <img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/semi-colon%20shapped.png" alt="semi-colon" width="27" height="48"> |                                       | <img src="pictures/mysteria_litterae/que_acute_semicolon2.png" alt="que accentue" width="60" height="67">               | q `U+0071` + acute `U+0301` <br>  `Junicode (F1AC)`             |
-|cumque abreviation | <img src="pictures/mysteria_litterae/cumque_abreviation.png" alt="cumque" width="27" height="48"> | | <img src="pictures/mysteria_litterae/que_ligature.png" alt="cumque" width="76" height="45"> | Junicode (00E8BF)+tilde (000303)|
-|tur abreviation  | <img src="pictures/mysteria_litterae/tur_abreviation.png" alt="tur" width="27" height="48"> || <img src="pictures/mysteria_litterae/tur_online.png" alt="cumque" width="48" height="75">| Junicode(000303)  + t unicode|
+|----------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------|-------------------|----------------|
+| Pilcrow              | <img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/piedDeMouche_1.jpg" alt="Pillcrow" width="85" height="47"> | [e-rara, p.11](https://doi.org/10.3931/e-rara-6338) | ¶                 | `U+00B6` |
+| Semicolon (shaped)   | <img src="https://github.com/FourbeFlo/Lambertus/blob/main/images/semi-colon%20shapped.png" alt="semi-colon" width="27" height="48"> | | <img src="pictures/mysteria_litterae/que_acute_semicolon2.png" alt="que accentue" width="60" height="67"> | q `U+0071` + acute `U+0301` <br> Junicode (`F1AC`) |
+| Cumque Abbreviation | <img src="pictures/mysteria_litterae/cumque_abreviation.png" alt="cumque" width="27" height="48"> | | <img src="pictures/mysteria_litterae/que_ligature.png" alt="cumque" width="76" height="45"> | Junicode (`00E8BF`) + tilde (`000303`) |
+| Tur Abbreviation  | <img src="pictures/mysteria_litterae/tur_abreviation.png" alt="tur" width="27" height="48"> | | <img src="pictures/mysteria_litterae/tur_online.png" alt="tur" width="48" height="75"> | Junicode (`000303`) + t Unicode |
 
 # III. Encoding Problem
 Some characters in eScriptorium use the Junicode font, and a suitable interface is needed for reading them.
