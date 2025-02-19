@@ -36,11 +36,12 @@ The main documentation  is here: [Annotation Guide on GitHub](https://github.com
 We follow, as much as possible, the transcription standards proposed by [Catmus standard](https://catmus-guidelines.github.io):
 
 **Citation:**
+
 Ariane Pinche, Thibault Clérice, Alix Chagué, Jean-Baptiste Camps, Malamatenia Vlachou-Efstathiou, et al., *CATMuS-Medieval: Consistent Approaches to Transcribing ManuScripts: A generalized set of guidelines and models for Latin scripts from Middle Ages (8th–16th century)*. 2023. [hal-04346939](https://hal.archives-ouvertes.fr/hal-04346939).
 
 ## Special Cases
 
-* Special cases are documented in the examples below. The relevant letters or signs are encoded in **Junicode** and added to the _exegesis_ keyboard.
+* Special cases are documented in the examples below. The relevant letters or signs are encoded in **Junicode** and added to the [_exegesis_ keyboard] (keyboard/exegesis.json).
 * Greek text is fully transcribed and edited without preserving any abbreviations or ligatures.
 * Hebrew letters may appear in the data but are not corrected as of now (19.02.2025).
 
