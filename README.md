@@ -22,12 +22,12 @@ The main documentation  is here: [Annotation Guide on GitHub](https://github.com
 
 | Description | Example |
 | -------- | ------- |
-| **RunningTitleZone**: pink <br/> **MainZone:Head**: yellow <br/> **MainZone:P**: dark green <br/> **MainZone:P#Continued**: light blue <br/> **NumberingZone**: rosa for "section 12" and "102" <br/> **QuireMarkZone**: viola | <img src="/pictures/Bucer_Eph_1.png" width="300"/> |
-| **RunningTitleZone**: pink <br/> **DropCapitalZone**: dark viola <br/> **MainZone:Head**: yellow <br/> **MainZone:P**: dark green <br/> **MainZone:P#Continued**: light blue <br/> **NumberingZone**: rosa for "456", "II", "III" <br/> **QuireMarkZone**: viola | <img src="/pictures/Bucer_Rm_1.png" width="300"/> |
-| **RunningTitleZone**: pink for "VII" (Epistle number) and "Col" (Epistle name) <br/> **MainZone:Head**: yellow <br/> **MainZone:P**: dark green <br/> **MainZone:P#Continued**: light blue <br/> **NumberingZone**: rosa for "7", "8", "184" | <img src="/pictures/Lefevre_1.png" width="300"/> |
-| **RunningTitleZone**: pink for "COM" <br/> **DropCapitalZone**: dark viola <br/> **MainZone:Head**: yellow <br/> **MainZone:P**: dark green <br/> **MainZone:P#Continued**: light blue <br/> **NumberingZone**: rosa for "1", "C4", "D4", "5", "6" | <img src="/pictures/Lefevre_2.png" width="300"/> |
-| **RunningTitleZone**: viola <br/> **MainZone-ListItem**:green <br> **MainZone:Head**: red <br/> **MainZone:P**: orange <br> **NumberingZone**: blue <br> **QuireMarkZone**: dark blue | <img src="/pictures/entry.png" width="300"/> |
-| **TitlePageZone**: light viola <br/> **MarginTextZone-ManuscriptAddendum**: red <br> _for the manuscript annotation around the text_ <br> | <img src="/pictures/TitlePage.png" width="300"/> |
+| **RunningTitleZone**: pink <br/> **MainZone:Head**: yellow <br/> **MainZone:P**: dark green <br/> **MainZone:P#Continued**: light blue <br/> **NumberingZone**: rosa for "section 12" and "102" <br/> **QuireMarkZone**: viola | <img src="/pictures/segmentationGL/Bucer_Eph_1.png" width="300"/> |
+| **RunningTitleZone**: pink <br/> **DropCapitalZone**: dark viola <br/> **MainZone:Head**: yellow <br/> **MainZone:P**: dark green <br/> **MainZone:P#Continued**: light blue <br/> **NumberingZone**: rosa for "456", "II", "III" <br/> **QuireMarkZone**: viola | <img src="/pictures/segmentationGL/Bucer_Rm_1.png" width="300"/> |
+| **RunningTitleZone**: pink for "VII" (Epistle number) and "Col" (Epistle name) <br/> **MainZone:Head**: yellow <br/> **MainZone:P**: dark green <br/> **MainZone:P#Continued**: light blue <br/> **NumberingZone**: rosa for "7", "8", "184" | <img src="/pictures/segmentationGL/Lefevre_1.png" width="300"/> |
+| **RunningTitleZone**: pink for "COM" <br/> **DropCapitalZone**: dark viola <br/> **MainZone:Head**: yellow <br/> **MainZone:P**: dark green <br/> **MainZone:P#Continued**: light blue <br/> **NumberingZone**: rosa for "1", "C4", "D4", "5", "6" | <img src="/pictures/segmentationGL/Lefevre_2.png" width="300"/> |
+| **RunningTitleZone**: pink <br/> **MainZone-ListItem** brown <br> **MainZone:Head**: red <br/> **MainZone:P**: green <br> **NumberingZone**: rosa <br> **QuireMarkZone**: viola | <img src="/pictures/segmentationGL/ListItem.png" width="300"/> |
+| **TitlePageZone**: light light viola <br/> **MarginTextZone-ManuscriptAddendum**: red <br> _for the manuscript annotation around the text_ <br> | <img src="/pictures/segmentationGL/TitlePage.png" width="300"/> |
 
 
 # Guideline for Transcription
