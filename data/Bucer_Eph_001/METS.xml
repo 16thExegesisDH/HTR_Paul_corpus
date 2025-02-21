@@ -123,6 +123,14 @@
           <FLocat xlink:href="bsb00035303_00030.xml"/>
         </file>
       
+        <file ID="export31">
+          <FLocat xlink:href="bsb00035303_00031.xml"/>
+        </file>
+      
+        <file ID="export32">
+          <FLocat xlink:href="bsb00035303_00032.xml"/>
+        </file>
+      
     </fileGrp>
   </fileSec>
   <structMap TYPE="physical">
@@ -276,6 +284,16 @@
       <div TYPE="page">
         
         <fptr FILEID="export30"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export31"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export32"/>
       </div>
       
     </div>
