@@ -9,8 +9,8 @@
     </sourceImageInformation>
   </Description>
   <Tags>
-    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1796" LABEL="MainZone-Head" DESCRIPTION="block type MainZone-Head"/><OtherTag ID="BT1797" LABEL="MainZone-P" DESCRIPTION="block type MainZone-P"/><OtherTag ID="BT1798" LABEL="MainZone-P-Continued" DESCRIPTION="block type MainZone-P-Continued"/><OtherTag ID="BT1799" LABEL="MarginTextZone-Notes" DESCRIPTION="block type MarginTextZone-Notes"/>
-    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT847" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT978" LABEL="MainZone-Head" DESCRIPTION="block type MainZone-Head"/><OtherTag ID="BT979" LABEL="MainZone-P" DESCRIPTION="block type MainZone-P"/><OtherTag ID="BT980" LABEL="MainZone-Entry-Continued" DESCRIPTION="block type MainZone-Entry-Continued"/><OtherTag ID="BT981" LABEL="MainZone-P-Continued" DESCRIPTION="block type MainZone-P-Continued"/><OtherTag ID="BT982" LABEL="MainZone-Entry" DESCRIPTION="block type MainZone-Entry"/><OtherTag ID="BT983" LABEL="MarginTextZone-Notes" DESCRIPTION="block type MarginTextZone-Notes"/><OtherTag ID="BT984" LABEL="MainZone-Sp" DESCRIPTION="block type MainZone-Sp"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT431" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
     <Page WIDTH="2132"
@@ -31,16 +31,16 @@
           <TextLine ID="line_0"
                     TAGREFS="LT10"
                     BASELINE="448 155 1433 159" 
-                    HPOS="446"
-                    VPOS="96"
-                    WIDTH="987"
-                    HEIGHT="84">
+                    HPOS="446.0"
+                    VPOS="96.0"
+                    WIDTH="987.0"
+                    HEIGHT="84.0">
             <Shape><Polygon POINTS="446 178 1429 180 1433 159 1426 98 1413 110 1377 110 1367 100 1367 98 1365 98 1363 98 1361 98 1359 98 1352 100 1313 108 1270 100 1265 100 1263 100 1234 100 1041 108 1022 101 1011 98 1009 98 1007 98 1006 98 993 101 970 108 856 103 782 100 780 100 779 100 768 103 759 107 748 103 723 96 721 96 720 96 661 105 641 107 636 105 620 96 618 96 616 96 448 105 448 155"/></Shape>
 	    <String CONTENT="D. PAVLI AD ROMANOS CAP: XII."
-                    HPOS="446"
-                    VPOS="96"
-                    WIDTH="987"
-                    HEIGHT="84"
+                    HPOS="446.0"
+                    VPOS="96.0"
+                    WIDTH="987.0"
+                    HEIGHT="84.0"
                     WC="0.9778502234097185"></String>
           </TextLine>
         </TextBlock>
@@ -71,22 +71,21 @@
                    WIDTH="781.0"
                    HEIGHT="1975.0"
                    ID="block_5"
-                   TAGREFS="BT1798">
+                   TAGREFS="BT981">
           <Shape><Polygon POINTS="927 174 927 2149 146 2149 146 174"/></Shape>
           <TextLine ID="line_67"
                     TAGREFS="LT8"
                     BASELINE="144 219 909 222" 
-                    HPOS="139"
-                    VPOS="158"
-                    WIDTH="767"
-                    HEIGHT="88">
+                    HPOS="139.0"
+                    VPOS="158.0"
+                    WIDTH="767.0"
+                    HEIGHT="88.0">
             <Shape><Polygon POINTS="139 238 901 246 906 219 903 176 632 160 630 160 549 166 455 174 410 163 396 160 394 160 391 160 388 160 378 163 329 174 270 160 268 160 265 160 262 160 222 174 142 158 142 217"/></Shape>
-	    <String CONTENT="Ermaretur, nun̃ fieri poſſe, utulla facultate"
-                    HPOS="139"
-                    VPOS="158"
-                    WIDTH="767"
-                    HEIGHT="88"
-                    WC="0.9678979166176008"></String>
+	    <String CONTENT="firmaretur, nun̃ fieri poſſe, ut ulla facultate"
+                    HPOS="139.0"
+                    VPOS="158.0"
+                    WIDTH="767.0"
+                    HEIGHT="88.0"></String>
           </TextLine>
           <TextLine ID="line_1"
                     TAGREFS="LT8"
@@ -96,12 +95,11 @@
                     WIDTH="767.0"
                     HEIGHT="60.0">
             <Shape><Polygon POINTS="144 264 142 291 906 294 909 268 907 235 144 234 144 264"/></Shape>
-	    <String CONTENT="bene &amp; fœliciter uiuendi agendi deſtituan¬"
+	    <String CONTENT="bene &amp; fœliciter uiuendi agendi́ deſtituan¬"
                     HPOS="142.0"
                     VPOS="234.0"
                     WIDTH="767.0"
-                    HEIGHT="60.0"
-                    WC="0.9868264031964679"></String>
+                    HEIGHT="60.0"></String>
           </TextLine>
           <TextLine ID="line_2"
                     TAGREFS="LT8"
@@ -111,12 +109,11 @@
                     WIDTH="771.0"
                     HEIGHT="52.0">
             <Shape><Polygon POINTS="911 310 893 310 875 310 857 310 839 310 822 310 804 310 786 310 768 310 750 310 732 310 714 310 696 310 679 310 661 310 643 310 625 310 607 310 589 310 571 310 553 310 536 310 518 310 500 310 482 310 464 310 446 307 428 307 411 307 393 307 375 307 357 307 339 307 321 307 303 307 285 307 268 307 259 287 144 280 144 310 142 332 911 332 913 314 911 310 911 310"/></Shape>
-	    <String CONTENT="tur, qui ieucie comedant Ohio. Ilac lanc"
+	    <String CONTENT="tur, qui ſe vere conſecrant Chriſto. Hac ſanè"
                     HPOS="142.0"
                     VPOS="280.0"
                     WIDTH="771.0"
-                    HEIGHT="52.0"
-                    WC="0.9266094617545605"></String>
+                    HEIGHT="52.0"></String>
           </TextLine>
           <TextLine ID="line_3"
                     TAGREFS="LT8"
@@ -171,12 +168,11 @@
                     WIDTH="771.0"
                     HEIGHT="56.0">
             <Shape><Polygon POINTS="144 491 142 516 911 516 913 496 911 464 144 460 144 491"/></Shape>
-	    <String CONTENT="idiotas, ignobiles, inopes, eos expoſuit"
+	    <String CONTENT="idiotas, ignobiles, inopes, eos́ expoſuit"
                     HPOS="142.0"
                     VPOS="460.0"
                     WIDTH="771.0"
-                    HEIGHT="56.0"
-                    WC="0.9915601872816319"></String>
+                    HEIGHT="56.0"></String>
           </TextLine>
           <TextLine ID="line_7"
                     TAGREFS="LT8"
@@ -216,12 +212,11 @@
                     WIDTH="774.0"
                     HEIGHT="66.0">
             <Shape><Polygon POINTS="144 625 142 643 402 655 403 655 914 648 916 630 916 600 144 589 144 625"/></Shape>
-	    <String CONTENT="illis ſola ui arcana ſpiritꝰ ſui ſic uiuere, ſicres"
+	    <String CONTENT="illis ſola ui arcana ſpiritꝰ ſui ſic uiuere, ſic res"
                     HPOS="142.0"
                     VPOS="589.0"
                     WIDTH="774.0"
-                    HEIGHT="66.0"
-                    WC="0.9951726022888633"></String>
+                    HEIGHT="66.0"></String>
           </TextLine>
           <TextLine ID="line_10"
                     TAGREFS="LT8"
@@ -276,12 +271,11 @@
                     WIDTH="769.0"
                     HEIGHT="61.0">
             <Shape><Polygon POINTS="144 807 142 825 201 836 203 836 253 829 266 837 268 837 269 837 271 837 545 830 573 839 575 839 577 839 579 839 612 830 634 839 636 839 637 839 909 829 911 811 909 782 144 778 144 807"/></Shape>
-	    <String CONTENT="raretur. Ex piſcatoribus quidem &amp; alijs ruc"
+	    <String CONTENT="raretur. Ex piſcatoribus quidem &amp; alijs ru¬"
                     HPOS="142.0"
                     VPOS="778.0"
                     WIDTH="769.0"
-                    HEIGHT="61.0"
-                    WC="0.9970982740091723"></String>
+                    HEIGHT="61.0"></String>
           </TextLine>
           <TextLine ID="line_14"
                     TAGREFS="LT8"
@@ -411,12 +405,11 @@
                     WIDTH="772.0"
                     HEIGHT="60.0">
             <Shape><Polygon POINTS="146 1220 146 1239 914 1236 916 1216 913 1189 805 1189 791 1179 789 1179 788 1179 786 1179 784 1179 782 1179 782 1180 773 1189 593 1189 570 1179 568 1179 566 1179 516 1189 239 1180 237 1180 144 1191 146 1220"/></Shape>
-	    <String CONTENT="ram &amp; abſolutiſſimam docuerunt:utq́; illam"
+	    <String CONTENT="ram &amp; abſolutiſſimam docuerunt:ut́ illam"
                     HPOS="144.0"
                     VPOS="1179.0"
                     WIDTH="772.0"
-                    HEIGHT="60.0"
-                    WC="0.9862104214373089"></String>
+                    HEIGHT="60.0"></String>
           </TextLine>
           <TextLine ID="line_23"
                     TAGREFS="LT8"
@@ -471,12 +464,11 @@
                     WIDTH="772.0"
                     HEIGHT="55.0">
             <Shape><Polygon POINTS="148 1400 148 1422 914 1423 918 1395 914 1370 146 1368 148 1400"/></Shape>
-	    <String CONTENT="ſingulis quãtum opus erat. Cumf́p uariæ ar¬"
+	    <String CONTENT="ſingulis quãtum opus erat. Cum́ uariæ ar¬"
                     HPOS="146.0"
                     VPOS="1368.0"
                     WIDTH="772.0"
-                    HEIGHT="55.0"
-                    WC="0.9972620768980547"></String>
+                    HEIGHT="55.0"></String>
           </TextLine>
           <TextLine ID="line_27"
                     TAGREFS="LT8"
@@ -531,12 +523,11 @@
                     WIDTH="770.0"
                     HEIGHT="58.0">
             <Shape><Polygon POINTS="148 1584 148 1608 914 1597 916 1575 913 1550 146 1550 148 1584"/></Shape>
-	    <String CONTENT="litatem rectam uitam turbaret, in eum ani¬"
+	    <String CONTENT="litatem rectam́ uitam turbaret, in eum ani¬"
                     HPOS="146.0"
                     VPOS="1550.0"
                     WIDTH="770.0"
-                    HEIGHT="58.0"
-                    WC="0.9961533421693847"></String>
+                    HEIGHT="58.0"></String>
           </TextLine>
           <TextLine ID="line_31"
                     TAGREFS="LT8"
@@ -561,12 +552,11 @@
                     WIDTH="772.0"
                     HEIGHT="73.0">
             <Shape><Polygon POINTS="150 1674 150 1693 293 1702 294 1702 296 1702 298 1702 309 1693 319 1693 525 1700 527 1700 528 1700 553 1691 561 1690 587 1691 689 1699 691 1699 918 1688 920 1666 916 1641 859 1631 857 1631 856 1631 854 1631 854 1633 845 1641 761 1641 750 1631 750 1629 748 1629 747 1629 745 1629 743 1629 741 1629 720 1643 632 1643 609 1631 607 1631 605 1631 604 1631 570 1641 534 1631 532 1631 530 1631 439 1643 428 1634 428 1633 427 1633 425 1633 339 1633 337 1633 273 1634 271 1634 269 1634 255 1645 159 1636 157 1636 155 1636 153 1636 153 1638 151 1638 148 1641 150 1674"/></Shape>
-	    <String CONTENT="bant etiã illũ. Morbi ſi inciderent, q̂s præſta¬"
+	    <String CONTENT="bant etiã illũ. Morbi ſi inciderent, qͦs præſta¬"
                     HPOS="148.0"
                     VPOS="1629.0"
                     WIDTH="772.0"
-                    HEIGHT="73.0"
-                    WC="0.9974239850044251"></String>
+                    HEIGHT="73.0"></String>
           </TextLine>
           <TextLine ID="line_33"
                     TAGREFS="LT8"
@@ -636,12 +626,11 @@
                     WIDTH="770.0"
                     HEIGHT="61.0">
             <Shape><Polygon POINTS="151 1902 151 1922 920 1922 920 1893 916 1863 303 1861 302 1861 300 1861 253 1872 182 1863 180 1863 178 1863 150 1874 151 1902"/></Shape>
-	    <String CONTENT="phetiæ. Poſcunt denires interdum, ut agen¬"
+	    <String CONTENT="phetiæ. Poſcunt deni res interdum, ut agen¬"
                     HPOS="150.0"
                     VPOS="1861.0"
                     WIDTH="770.0"
-                    HEIGHT="61.0"
-                    WC="0.987609957539758"></String>
+                    HEIGHT="61.0"></String>
           </TextLine>
           <TextLine ID="line_38"
                     TAGREFS="LT8"
@@ -724,7 +713,7 @@
                    WIDTH="767.0"
                    HEIGHT="787.0"
                    ID="block_2"
-                   TAGREFS="BT1797">
+                   TAGREFS="BT979">
           <Shape><Polygon POINTS="926 2139 926 2926 159 2926 159 2139"/></Shape>
           <TextLine ID="line_70"
                     TAGREFS="LT8"
@@ -744,31 +733,31 @@
           <TextLine ID="eSc_line_e0f059df"
                     TAGREFS="LT8"
                     BASELINE="166 2221 316 2215 916 2211" 
-                    HPOS="160"
-                    VPOS="2170"
-                    WIDTH="754"
-                    HEIGHT="78">
+                    HPOS="160.0"
+                    VPOS="2170.0"
+                    WIDTH="754.0"
+                    HEIGHT="78.0">
             <Shape><Polygon POINTS="163 2248 911 2235 914 2211 906 2170 160 2181 163 2219"/></Shape>
 	    <String CONTENT="pora deſierunt exiſtere in Eccleſia ratione illa"
-                    HPOS="160"
-                    VPOS="2170"
-                    WIDTH="754"
-                    HEIGHT="78"
+                    HPOS="160.0"
+                    VPOS="2170.0"
+                    WIDTH="754.0"
+                    HEIGHT="78.0"
                     WC="0.9919100925326347"></String>
           </TextLine>
           <TextLine ID="eSc_line_d6be24f5"
                     TAGREFS="LT8"
                     BASELINE="166 2261 920 2258" 
-                    HPOS="160"
-                    VPOS="2221"
-                    WIDTH="759"
-                    HEIGHT="70">
+                    HPOS="160.0"
+                    VPOS="2221.0"
+                    WIDTH="759.0"
+                    HEIGHT="70.0">
             <Shape><Polygon POINTS="163 2259 163 2291 917 2280 919 2256 911 2221 160 2227 163 2259"/></Shape>
 	    <String CONTENT="inſolenti, nam data erant iſto modo, ad ex¬"
-                    HPOS="160"
-                    VPOS="2221"
-                    WIDTH="759"
-                    HEIGHT="70"
+                    HPOS="160.0"
+                    VPOS="2221.0"
+                    WIDTH="759.0"
+                    HEIGHT="70.0"
                     WC="0.9992246004038079"></String>
           </TextLine>
           <TextLine ID="line_73"
@@ -854,12 +843,11 @@
                     WIDTH="765.0"
                     HEIGHT="73.0">
             <Shape><Polygon POINTS="155 2538 155 2567 284 2565 285 2565 287 2563 307 2554 323 2563 325 2563 327 2563 328 2563 330 2563 332 2563 348 2554 419 2560 457 2563 459 2563 461 2563 478 2560 503 2553 511 2558 514 2562 516 2562 518 2562 520 2563 611 2563 611 2562 718 2553 764 2549 791 2551 898 2558 900 2558 902 2558 904 2558 918 2547 918 2529 914 2501 618 2494 616 2494 614 2494 612 2494 612 2495 611 2495 605 2503 500 2495 498 2495 153 2508 155 2538"/></Shape>
-	    <String CONTENT="mundi, ita nulla un facultate nos deſtituet,"
+	    <String CONTENT="mundi, ita nulla un̃ facultate nos deſtituet,"
                     HPOS="153.0"
                     VPOS="2494.0"
                     WIDTH="765.0"
-                    HEIGHT="73.0"
-                    WC="0.9734075612492031"></String>
+                    HEIGHT="73.0"></String>
           </TextLine>
           <TextLine ID="line_79"
                     TAGREFS="LT8"
@@ -884,12 +872,11 @@
                     WIDTH="776.0"
                     HEIGHT="73.0">
             <Shape><Polygon POINTS="153 2629 157 2660 173 2649 244 2658 248 2658 250 2658 251 2658 253 2658 268 2647 296 2654 298 2654 300 2654 373 2646 387 2654 389 2654 391 2654 393 2654 548 2653 550 2653 552 2653 552 2651 561 2644 698 2651 702 2651 704 2651 705 2651 743 2640 789 2649 791 2649 793 2649 818 2638 923 2647 927 2617 922 2587 151 2596 153 2629"/></Shape>
-	    <String CONTENT="cam pie &amp; beate inſtituendã, conſeruandamip"
+	    <String CONTENT="tam pie &amp; beate inſtituendã, conſeruandam́"
                     HPOS="151.0"
                     VPOS="2587.0"
                     WIDTH="776.0"
-                    HEIGHT="73.0"
-                    WC="0.9985802485184236"></String>
+                    HEIGHT="73.0"></String>
           </TextLine>
           <TextLine ID="line_81"
                     TAGREFS="LT8"
@@ -929,12 +916,11 @@
                     WIDTH="772.0"
                     HEIGHT="79.0">
             <Shape><Polygon POINTS="157 2769 157 2794 925 2774 927 2755 923 2721 829 2715 827 2715 825 2715 823 2715 823 2717 816 2722 813 2728 772 2728 761 2724 734 2717 732 2717 730 2717 729 2717 700 2726 691 2728 688 2726 673 2719 671 2719 670 2719 623 2728 611 2730 607 2728 593 2721 591 2721 589 2721 587 2721 555 2730 552 2730 543 2721 541 2721 539 2721 537 2721 486 2731 482 2731 470 2722 468 2722 466 2722 464 2722 462 2722 443 2731 439 2733 427 2733 348 2724 346 2724 344 2724 327 2733 228 2728 226 2728 155 2738 157 2769"/></Shape>
-	    <String CONTENT="gatép nobiſcum abſ miraculo. Fit quidem"
+	    <String CONTENT="gat́ nobiſcum abſ miraculo. Fit quidem"
                     HPOS="155.0"
                     VPOS="2715.0"
                     WIDTH="772.0"
-                    HEIGHT="79.0"
-                    WC="0.9720747558082022"></String>
+                    HEIGHT="79.0"></String>
           </TextLine>
           <TextLine ID="line_84"
                     TAGREFS="LT8"
@@ -974,12 +960,11 @@
                     WIDTH="781.0"
                     HEIGHT="105.0">
             <Shape><Polygon POINTS="155 2903 155 2967 362 2965 364 2965 366 2965 377 2958 393 2949 443 2951 444 2951 446 2951 487 2933 518 2944 520 2944 521 2944 671 2931 691 2942 696 2948 698 2948 700 2948 702 2948 704 2948 705 2948 705 2946 711 2942 721 2931 772 2939 822 2946 823 2946 934 2930 934 2894 931 2865 330 2862 328 2862 153 2872 155 2903"/></Shape>
-	    <String CONTENT="deanur plæriſ impijs, atamen ſarcit lem"
+	    <String CONTENT="deantur plæriſ impijs, attamen ſarcit ſem¬"
                     HPOS="153.0"
                     VPOS="2862.0"
                     WIDTH="781.0"
-                    HEIGHT="105.0"
-                    WC="0.9859896406531334"></String>
+                    HEIGHT="105.0"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="946.0"
@@ -987,21 +972,21 @@
                    WIDTH="781.0"
                    HEIGHT="1095.0"
                    ID="block_6"
-                   TAGREFS="BT1798">
+                   TAGREFS="BT981">
           <Shape><Polygon POINTS="1727 188 1727 1283 946 1283 946 188"/></Shape>
           <TextLine ID="eSc_line_34dd9b93"
                     TAGREFS="LT8"
                     BASELINE="951 223 1715 226" 
-                    HPOS="946"
-                    VPOS="171"
-                    WIDTH="767"
-                    HEIGHT="80">
+                    HPOS="946.0"
+                    VPOS="171.0"
+                    WIDTH="767.0"
+                    HEIGHT="80.0">
             <Shape><Polygon POINTS="949 222 946 249 1708 251 1713 225 1710 182 949 171 949 222"/></Shape>
 	    <String CONTENT="per ſpiritus Chriſti illis, quicquid ueram eis"
-                    HPOS="946"
-                    VPOS="171"
-                    WIDTH="767"
-                    HEIGHT="80"
+                    HPOS="946.0"
+                    VPOS="171.0"
+                    WIDTH="767.0"
+                    HEIGHT="80.0"
                     WC="0.9754696397677712"></String>
           </TextLine>
           <TextLine ID="line_44"
@@ -1027,12 +1012,11 @@
                     WIDTH="769.0"
                     HEIGHT="50.0">
             <Shape><Polygon POINTS="1640 310 1622 310 1604 310 1586 310 1569 310 1551 310 1533 310 1515 310 1497 310 1479 310 1461 310 1443 310 1426 310 1408 310 1390 310 1372 310 1354 310 1336 310 1318 310 1301 310 1283 310 1265 310 1247 310 1229 310 1211 310 1193 310 1175 310 1158 310 1140 310 1122 310 1104 310 1086 310 1068 310 1050 310 1032 310 1015 310 997 310 979 310 961 310 945 310 945 316 943 332 1708 343 1712 319 1710 294 1645 293 1640 310"/></Shape>
-	    <String CONTENT="tuioutom. Quaig min non præcipuum"
+	    <String CONTENT="culo ut olim. Quan̃ nihil non præcipuum"
                     HPOS="943.0"
                     VPOS="293.0"
                     WIDTH="769.0"
-                    HEIGHT="50.0"
-                    WC="0.9857801018339215"></String>
+                    HEIGHT="50.0"></String>
           </TextLine>
           <TextLine ID="line_46"
                     TAGREFS="LT8"
@@ -1072,12 +1056,11 @@
                     WIDTH="771.0"
                     HEIGHT="59.0">
             <Shape><Polygon POINTS="943 450 941 466 988 477 990 477 1710 475 1712 453 1710 418 943 418 943 450"/></Shape>
-	    <String CONTENT="dotibus ſuos iuuat, quas confertimpijs. Ve"
+	    <String CONTENT="dotibus ſuos iuuat, quas confert impijs. Vt"
                     HPOS="941.0"
                     VPOS="418.0"
                     WIDTH="771.0"
-                    HEIGHT="59.0"
-                    WC="0.9831176840123677"></String>
+                    HEIGHT="59.0"></String>
           </TextLine>
           <TextLine ID="line_49"
                     TAGREFS="LT8"
@@ -1087,12 +1070,11 @@
                     WIDTH="769.0"
                     HEIGHT="57.0">
             <Shape><Polygon POINTS="943 493 941 510 1706 519 1710 500 1708 469 943 462 943 493"/></Shape>
-	    <String CONTENT="enim oſtendar fide &amp; dilectione beatã uitam"
+	    <String CONTENT="enim oſtendat fide &amp; dilectione beatã uitam"
                     HPOS="941.0"
                     VPOS="462.0"
                     WIDTH="769.0"
-                    HEIGHT="57.0"
-                    WC="0.9761631841009314"></String>
+                    HEIGHT="57.0"></String>
           </TextLine>
           <TextLine ID="line_50"
                     TAGREFS="LT8"
@@ -1222,12 +1204,11 @@
                     WIDTH="764.0"
                     HEIGHT="50.0">
             <Shape><Polygon POINTS="948 904 948 923 1710 925 1712 904 1712 875 948 875 948 904"/></Shape>
-	    <String CONTENT="uiuunt hi inſua ſimplicitate &amp; ruditate ſœli¬"
+	    <String CONTENT="uiuunt hi in ſua ſimplicitate &amp; ruditate ſœli¬"
                     HPOS="948.0"
                     VPOS="875.0"
                     WIDTH="764.0"
-                    HEIGHT="50.0"
-                    WC="0.9813814838727315"></String>
+                    HEIGHT="50.0"></String>
           </TextLine>
           <TextLine ID="line_59"
                     TAGREFS="LT8"
@@ -1312,12 +1293,11 @@
                     WIDTH="758.0"
                     HEIGHT="52.0">
             <Shape><Polygon POINTS="952 1175 952 1195 1708 1197 1710 1175 1708 1145 952 1145 952 1175"/></Shape>
-	    <String CONTENT="phetiæ * Primo loco illud poſitum eſt, ſic er¬"
+	    <String CONTENT="phetiæ? Primo loco illud poſitum eſt, ſic er¬"
                     HPOS="952.0"
                     VPOS="1145.0"
                     WIDTH="758.0"
-                    HEIGHT="52.0"
-                    WC="0.9950543344020844"></String>
+                    HEIGHT="52.0"></String>
           </TextLine>
           <TextLine ID="line_65"
                     TAGREFS="LT8"
@@ -1327,12 +1307,11 @@
                     WIDTH="757.0"
                     HEIGHT="55.0">
             <Shape><Polygon POINTS="956 1220 956 1243 1713 1243 1713 1220 1712 1188 956 1189 956 1220"/></Shape>
-	    <String CONTENT="go adiectũ uidetur, ut illud αωὸ κοινο̃ intel¬"
+	    <String CONTENT="go adiectũ uidetur, ut illud ἀπὸ κοινοῦ intel¬"
                     HPOS="956.0"
                     VPOS="1188.0"
                     WIDTH="757.0"
-                    HEIGHT="55.0"
-                    WC="0.9667343832552433"></String>
+                    HEIGHT="55.0"></String>
           </TextLine>
           <TextLine ID="line_66"
                     TAGREFS="LT8"
@@ -1355,7 +1334,7 @@
                    WIDTH="772.0"
                    HEIGHT="1035.0"
                    ID="block_3"
-                   TAGREFS="BT1797">
+                   TAGREFS="BT979">
           <Shape><Polygon POINTS="1729 1279 1729 2314 957 2314 957 1279"/></Shape>
           <TextLine ID="line_87"
                     TAGREFS="LT8"
@@ -1365,12 +1344,11 @@
                     WIDTH="724.0"
                     HEIGHT="53.0">
             <Shape><Polygon POINTS="993 1309 993 1331 1715 1334 1717 1309 1715 1281 993 1281 993 1309"/></Shape>
-	    <String CONTENT="Noſtra tempeſtate cœpit κατὰ ἀναλογίλ"
+	    <String CONTENT="Noſtra tempeſtate cœpit κατὰ ἀναλογί¬"
                     HPOS="993.0"
                     VPOS="1281.0"
                     WIDTH="724.0"
-                    HEIGHT="53.0"
-                    WC="0.9865916162729264"></String>
+                    HEIGHT="53.0"></String>
           </TextLine>
           <TextLine ID="line_88"
                     TAGREFS="LT8"
@@ -1380,12 +1358,11 @@
                     WIDTH="768.0"
                     HEIGHT="55.0">
             <Shape><Polygon POINTS="954 1352 952 1377 1719 1375 1720 1356 1717 1322 954 1322 954 1352"/></Shape>
-	    <String CONTENT="αy, id eſt, ſecundum rationem fidei, exponi"
+	    <String CONTENT="αν, id eſt, ſecundum rationem fidei, exponi"
                     HPOS="952.0"
                     VPOS="1322.0"
                     WIDTH="768.0"
-                    HEIGHT="55.0"
-                    WC="0.9964447797730912"></String>
+                    HEIGHT="55.0"></String>
           </TextLine>
           <TextLine ID="line_89"
                     TAGREFS="LT8"
@@ -1575,12 +1552,11 @@
                     WIDTH="758.0"
                     HEIGHT="66.0">
             <Shape><Polygon POINTS="961 1940 961 1967 1719 1958 1719 1940 1719 1911 1672 1901 1670 1901 1669 1901 1647 1909 1263 1901 1261 1901 1215 1909 1202 1901 1200 1901 1199 1901 1197 1901 1195 1901 1193 1901 1181 1909 1113 1901 1111 1901 1068 1909 1038 1901 1036 1901 1034 1901 961 1909 961 1940"/></Shape>
-	    <String CONTENT="cunt, qui facultate diuinandi p̃diti ſunt exſpi¬"
+	    <String CONTENT="cunt̃, qui facultate diuinandi p̃diti ſunt ex ſpi¬"
                     HPOS="961.0"
                     VPOS="1901.0"
                     WIDTH="758.0"
-                    HEIGHT="66.0"
-                    WC="0.9938380035261313"></String>
+                    HEIGHT="66.0"></String>
           </TextLine>
           <TextLine ID="line_102"
                     TAGREFS="LT8"
@@ -1605,12 +1581,11 @@
                     WIDTH="763.0"
                     HEIGHT="63.0">
             <Shape><Polygon POINTS="959 2027 957 2043 1040 2054 1041 2054 1211 2047 1229 2056 1231 2056 1233 2056 1463 2049 1476 2058 1477 2058 1479 2058 1481 2058 1719 2049 1720 2033 1717 1995 959 1997 959 2027"/></Shape>
-	    <String CONTENT="&amp; ſimplicem enarrationem ſcripturæ uerbi"
+	    <String CONTENT="&amp; ſimplicem enarrationem ſcripturæ uerbi́"
                     HPOS="957.0"
                     VPOS="1995.0"
                     WIDTH="763.0"
-                    HEIGHT="63.0"
-                    WC="0.996753685358094"></String>
+                    HEIGHT="63.0"></String>
           </TextLine>
           <TextLine ID="line_104"
                     TAGREFS="LT8"
@@ -1650,12 +1625,11 @@
                     WIDTH="764.0"
                     HEIGHT="68.0">
             <Shape><Polygon POINTS="957 2167 957 2185 1027 2195 1029 2195 1031 2195 1032 2195 1045 2186 1090 2195 1091 2195 1093 2195 1109 2186 1113 2185 1231 2185 1236 2188 1243 2194 1245 2194 1247 2194 1249 2194 1250 2194 1270 2188 1279 2185 1286 2188 1299 2194 1301 2194 1302 2194 1304 2194 1306 2194 1315 2188 1320 2185 1324 2188 1333 2194 1334 2194 1336 2194 1338 2195 1465 2195 1465 2194 1486 2190 1515 2183 1719 2190 1720 2161 1717 2136 1220 2127 1218 2127 1217 2127 1190 2138 972 2129 970 2129 968 2129 966 2129 956 2136 957 2167"/></Shape>
-	    <String CONTENT="ſit abſ certa ui ſpiritus, nec enã rite admini¬"
+	    <String CONTENT="ſit abſ certa ui ſpiritus, nec etiã rite admini¬"
                     HPOS="956.0"
                     VPOS="2127.0"
                     WIDTH="764.0"
-                    HEIGHT="68.0"
-                    WC="0.9898015126890066"></String>
+                    HEIGHT="68.0"></String>
           </TextLine>
           <TextLine ID="line_107"
                     TAGREFS="LT8"
@@ -1665,12 +1639,11 @@
                     WIDTH="762.0"
                     HEIGHT="54.0">
             <Shape><Polygon POINTS="959 2210 957 2229 1715 2233 1719 2213 1719 2183 959 2179 959 2210"/></Shape>
-	    <String CONTENT="ſtrari, eandẽ faciunt, haud qua̃; ſequi Apo¬"
+	    <String CONTENT="ſtrari, eandẽ faciunt, haud qua̃ ſequi Apo¬"
                     HPOS="957.0"
                     VPOS="2179.0"
                     WIDTH="762.0"
-                    HEIGHT="54.0"
-                    WC="0.9929651540258656"></String>
+                    HEIGHT="54.0"></String>
           </TextLine>
           <TextLine ID="line_108"
                     TAGREFS="LT8"
@@ -1680,12 +1653,11 @@
                     WIDTH="763.0"
                     HEIGHT="68.0">
             <Shape><Polygon POINTS="957 2258 957 2288 1717 2283 1719 2252 1715 2224 973 2220 972 2220 970 2220 968 2220 956 2226 957 2258"/></Shape>
-	    <String CONTENT="ſtolum, &amp; dona quo primæ Ecdeſiæ con¬"
+	    <String CONTENT="ſtolum, &amp; dona quo primæ Eccleſiæ con¬"
                     HPOS="956.0"
                     VPOS="2220.0"
                     WIDTH="763.0"
-                    HEIGHT="68.0"
-                    WC="0.9945074806087896"></String>
+                    HEIGHT="68.0"></String>
           </TextLine>
           <TextLine ID="line_109"
                     TAGREFS="LT8"
@@ -1708,7 +1680,7 @@
                    WIDTH="760.0"
                    HEIGHT="597.0"
                    ID="block_4"
-                   TAGREFS="BT1797">
+                   TAGREFS="BT979">
           <Shape><Polygon POINTS="1724 2315 1724 2912 964 2912 964 2315"/></Shape>
           <TextLine ID="line_110"
                     TAGREFS="LT8"
@@ -1748,12 +1720,11 @@
                     WIDTH="763.0"
                     HEIGHT="60.0">
             <Shape><Polygon POINTS="961 2438 961 2454 1308 2463 1309 2463 1311 2463 1340 2454 1342 2454 1722 2454 1722 2435 1717 2403 959 2408 961 2438"/></Shape>
-	    <String CONTENT="tionem uerbi Dei, quæ quidem uera ſir, eoq"
+	    <String CONTENT="tionem uerbi Dei, quæ quidem uera ſit, eo́"
                     HPOS="959.0"
                     VPOS="2403.0"
                     WIDTH="763.0"
-                    HEIGHT="60.0"
-                    WC="0.9967285962331862"></String>
+                    HEIGHT="60.0"></String>
           </TextLine>
           <TextLine ID="line_113"
                     TAGREFS="LT8"
@@ -1778,12 +1749,11 @@
                     WIDTH="763.0"
                     HEIGHT="70.0">
             <Shape><Polygon POINTS="959 2529 959 2558 1018 2558 1018 2556 1020 2556 1022 2556 1022 2554 1024 2554 1029 2547 1184 2556 1211 2556 1213 2556 1215 2556 1218 2554 1240 2546 1719 2551 1720 2524 1717 2497 1474 2488 1472 2488 1470 2488 1443 2497 1295 2490 1293 2490 957 2501 959 2529"/></Shape>
-	    <String CONTENT="non uiderur qua ratione A poſtolus præcepe"
+	    <String CONTENT="non uidetur qua ratione Apoſtolus præcepe"
                     HPOS="957.0"
                     VPOS="2488.0"
                     WIDTH="763.0"
-                    HEIGHT="70.0"
-                    WC="0.9830546308131445"></String>
+                    HEIGHT="70.0"></String>
           </TextLine>
           <TextLine ID="line_115"
                     TAGREFS="LT8"
@@ -1868,12 +1838,11 @@
                     WIDTH="763.0"
                     HEIGHT="68.0">
             <Shape><Polygon POINTS="961 2801 961 2830 1024 2821 1231 2826 1320 2828 1322 2828 1720 2817 1722 2797 1717 2762 959 2771 961 2801"/></Shape>
-	    <String CONTENT="gruens, quantum quidem ad id auinet quod"
+	    <String CONTENT="gruens, quantum quidem ad id attinet quod"
                     HPOS="959.0"
                     VPOS="2762.0"
                     WIDTH="763.0"
-                    HEIGHT="68.0"
-                    WC="0.9915903657674789"></String>
+                    HEIGHT="68.0"></String>
           </TextLine>
           <TextLine ID="line_121"
                     TAGREFS="LT8"
@@ -1911,7 +1880,7 @@
                    WIDTH="147.0"
                    HEIGHT="125.0"
                    ID="block_0"
-                   TAGREFS="BT1799">
+                   TAGREFS="BT983">
           <Shape><Polygon POINTS="147 772 147 897 0 897 0 772"/></Shape>
           <TextLine ID="line_68"
                     TAGREFS="LT8"
@@ -1930,30 +1899,30 @@
           <TextLine ID="eSc_line_f3a60959"
                     TAGREFS="LT8"
                     BASELINE="3 845 12 845 34 845 127 839" 
-                    HPOS="2"
-                    VPOS="812"
-                    WIDTH="124"
-                    HEIGHT="50">
+                    HPOS="2.0"
+                    VPOS="812.0"
+                    WIDTH="124.0"
+                    HEIGHT="50.0">
             <Shape><Polygon POINTS="107 812 80 812 53 812 26 812 2 844 2 857 120 862 126 838 120 812 107 812"/></Shape>
 	    <String CONTENT="inſtruxit olim"
-                    HPOS="2"
-                    VPOS="812"
-                    WIDTH="124"
-                    HEIGHT="50"></String>
+                    HPOS="2.0"
+                    VPOS="812.0"
+                    WIDTH="124.0"
+                    HEIGHT="50.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_9453087a"
                     TAGREFS="LT8"
                     BASELINE="3 876 28 876 96 873" 
-                    HPOS="2"
-                    VPOS="841"
-                    WIDTH="91"
-                    HEIGHT="75">
+                    HPOS="2.0"
+                    VPOS="841.0"
+                    WIDTH="91.0"
+                    HEIGHT="75.0">
             <Shape><Polygon POINTS="80 841 53 844 26 846 2 873 2 916 91 913 93 871 88 841 80 841"/></Shape>
 	    <String CONTENT="Eccleſiam"
-                    HPOS="2"
-                    VPOS="841"
-                    WIDTH="91"
-                    HEIGHT="75"></String>
+                    HPOS="2.0"
+                    VPOS="841.0"
+                    WIDTH="91.0"
+                    HEIGHT="75.0"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="0.0"
@@ -1961,92 +1930,92 @@
                    WIDTH="155.0"
                    HEIGHT="229.0"
                    ID="block_1"
-                   TAGREFS="BT1799">
+                   TAGREFS="BT983">
           <Shape><Polygon POINTS="155 2166 155 2395 0 2395 0 2166"/></Shape>
           <TextLine ID="line_69"
                     TAGREFS="LT8"
                     BASELINE="5 2205 146 2188" 
-                    HPOS="2"
-                    VPOS="2168"
-                    WIDTH="142"
-                    HEIGHT="51">
+                    HPOS="2.0"
+                    VPOS="2168.0"
+                    WIDTH="142.0"
+                    HEIGHT="51.0">
             <Shape><Polygon POINTS="104 2168 77 2168 50 2168 24 2168 2 2202 2 2219 144 2208 144 2186 139 2168 131 2168"/></Shape>
 	    <String CONTENT="hodie ni¬"
-                    HPOS="2"
-                    VPOS="2168"
-                    WIDTH="142"
-                    HEIGHT="51"
+                    HPOS="2.0"
+                    VPOS="2168.0"
+                    WIDTH="142.0"
+                    HEIGHT="51.0"
                     WC="0.9877805047565036"></String>
           </TextLine>
           <TextLine ID="line_71"
                     TAGREFS="LT8"
                     BASELINE="5 2240 149 2222" 
-                    HPOS="0"
-                    VPOS="2192"
-                    WIDTH="147"
-                    HEIGHT="56">
+                    HPOS="0.0"
+                    VPOS="2192.0"
+                    WIDTH="147.0"
+                    HEIGHT="56.0">
             <Shape><Polygon POINTS="0 2200 2 2237 2 2248 147 2243 147 2221 139 2192 0 2197 0 2200"/></Shape>
-	    <String CONTENT="anctis de¬"
-                    HPOS="0"
-                    VPOS="2192"
-                    WIDTH="147"
-                    HEIGHT="56"></String>
+	    <String CONTENT="ſanctis de¬"
+                    HPOS="0.0"
+                    VPOS="2192.0"
+                    WIDTH="147.0"
+                    HEIGHT="56.0"></String>
           </TextLine>
           <TextLine ID="line_72"
                     TAGREFS="LT8"
                     BASELINE="13 2270 149 2261" 
-                    HPOS="8"
-                    VPOS="2227"
-                    WIDTH="139"
-                    HEIGHT="59">
+                    HPOS="8.0"
+                    VPOS="2227.0"
+                    WIDTH="139.0"
+                    HEIGHT="59.0">
             <Shape><Polygon POINTS="34 2235 8 2237 10 2269 10 2286 147 2280 147 2259 139 2227 75 2229 61 2232"/></Shape>
 	    <String CONTENT="id bene be"
-                    HPOS="8"
-                    VPOS="2227"
-                    WIDTH="139"
-                    HEIGHT="59"></String>
+                    HPOS="8.0"
+                    VPOS="2227.0"
+                    WIDTH="139.0"
+                    HEIGHT="59.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_e7d510c9"
                     TAGREFS="LT8"
                     BASELINE="10 2311 132 2305" 
-                    HPOS="2"
-                    VPOS="2264"
-                    WIDTH="129"
-                    HEIGHT="62">
+                    HPOS="2.0"
+                    VPOS="2264.0"
+                    WIDTH="129.0"
+                    HEIGHT="62.0">
             <Shape><Polygon POINTS="85 2264 58 2267 32 2269 26 2264 2 2264 8 2310 8 2326 131 2318 131 2304 126 2264 112 2264 85 2264"/></Shape>
 	    <String CONTENT="p uiuen¬"
-                    HPOS="2"
-                    VPOS="2264"
-                    WIDTH="129"
-                    HEIGHT="62"></String>
+                    HPOS="2.0"
+                    VPOS="2264.0"
+                    WIDTH="129.0"
+                    HEIGHT="62.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_9f7cc6ef"
                     TAGREFS="LT8"
                     BASELINE="10 2343 149 2340" 
-                    HPOS="5"
-                    VPOS="2299"
-                    WIDTH="142"
-                    HEIGHT="67">
+                    HPOS="5.0"
+                    VPOS="2299.0"
+                    WIDTH="142.0"
+                    HEIGHT="67.0">
             <Shape><Polygon POINTS="112 2307 85 2307 58 2310 32 2310 5 2310 8 2342 8 2366 144 2366 147 2339 139 2299 115 2299 112 2307"/></Shape>
 	    <String CONTENT="priuatim"
-                    HPOS="5"
-                    VPOS="2299"
-                    WIDTH="142"
-                    HEIGHT="67"></String>
+                    HPOS="5.0"
+                    VPOS="2299.0"
+                    WIDTH="142.0"
+                    HEIGHT="67.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_7d06d5fc"
                     TAGREFS="LT8"
                     BASELINE="9 2378 113 2376" 
-                    HPOS="5"
-                    VPOS="2342"
-                    WIDTH="107"
-                    HEIGHT="83">
+                    HPOS="5.0"
+                    VPOS="2342.0"
+                    WIDTH="107.0"
+                    HEIGHT="83.0">
             <Shape><Polygon POINTS="85 2342 58 2342 32 2342 5 2342 8 2377 8 2401 109 2425 112 2374 104 2342 85 2342"/></Shape>
 	    <String CONTENT="publice."
-                    HPOS="5"
-                    VPOS="2342"
-                    WIDTH="107"
-                    HEIGHT="83"></String>
+                    HPOS="5.0"
+                    VPOS="2342.0"
+                    WIDTH="107.0"
+                    HEIGHT="83.0"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="1403.0"
@@ -2059,16 +2028,16 @@
           <TextLine ID="line_123"
                     TAGREFS="LT8"
                     BASELINE="1418 2939 1722 2931" 
-                    HPOS="1417"
-                    VPOS="2894"
-                    WIDTH="305"
-                    HEIGHT="86">
+                    HPOS="1417.0"
+                    VPOS="2894.0"
+                    WIDTH="305.0"
+                    HEIGHT="86.0">
             <Shape><Polygon POINTS="1418 2939 1418 2969 1567 2980 1569 2980 1606 2973 1667 2962 1681 2974 1683 2974 1683 2976 1685 2976 1687 2976 1688 2976 1722 2974 1722 2931 1720 2908 1679 2894 1678 2894 1676 2894 1674 2894 1640 2908 1497 2910 1424 2899 1422 2899 1420 2899 1418 2899 1418 2901 1417 2901 1418 2939"/></Shape>
 	    <String CONTENT="S2 modo"
-                    HPOS="1417"
-                    VPOS="2894"
-                    WIDTH="305"
-                    HEIGHT="86"
+                    HPOS="1417.0"
+                    VPOS="2894.0"
+                    WIDTH="305.0"
+                    HEIGHT="86.0"
                     WC="0.9999014139175415"></String>
           </TextLine>
         </TextBlock>
