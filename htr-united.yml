@@ -195,5 +195,5 @@ volume:
   metric: files
 - count: 8181
   metric: lines
-- count: 1086
+- count: 1079
   metric: regions
