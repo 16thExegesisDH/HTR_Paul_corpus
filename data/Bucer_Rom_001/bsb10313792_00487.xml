@@ -718,19 +718,6 @@
                     WIDTH="766"
                     HEIGHT="66"></String>
           </TextLine>
-          <TextLine ID="eSc_line_6f8ccecf"
-                    BASELINE="999 223 1738 231" 
-                    HPOS="996"
-                    VPOS="155"
-                    WIDTH="741"
-                    HEIGHT="94">
-            <Shape><Polygon POINTS="998 222 996 235 1731 249 1737 230 1737 176 1490 155 1487 155 1366 174 1358 176 1275 176 1272 174 1248 158 1245 158 1243 158 1240 158 1087 171 1020 155 1017 155 1014 155 1012 155 1009 155 998 163 998 222"/></Shape>
-	    <String CONTENT=""
-                    HPOS="996"
-                    VPOS="155"
-                    WIDTH="741"
-                    HEIGHT="94"></String>
-          </TextLine>
           <TextLine ID="line_3"
                     TAGREFS="LT8"
                     BASELINE="989 307 1749 320" 
