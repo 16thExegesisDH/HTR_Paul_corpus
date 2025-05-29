@@ -130,14 +130,20 @@
             "column": 4,
             "character": "¶",
             "legend": "pied de mouche",
-            "keyboard_code": "? "
+            "keyboard_code": "U+00B6 "
        },  
        { "row": 4,
             "column": 4,
             "character": "",
             "legend": " latin small lettre Q with stroke through descender and tilde ＆qbardestilde; abreviation quam/quan",
             "keyboard_code": "00E68B"
-       }  
+       },
+       { "row": 1,
+            "column": 5,
+            "character": "⁋",
+            "legend": "reverse pied de mouche",
+            "keyboard_code": "U+204B "
+        }  
 
     ]
 }
