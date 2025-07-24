@@ -138,13 +138,24 @@
             "legend": " latin small lettre Q with stroke through descender and tilde ＆qbardestilde; abreviation quam/quan",
             "keyboard_code": "00E68B"
        },
+       { "row": 4,
+            "column": 6,
+            "character": "ᛘ",
+            "legend": "runic lettre use for hyphen that does not extist on the page but necessary to the xml",
+            "keyboard_code": "0016D8"
+       },
        { "row": 1,
             "column": 5,
             "character": "⁋",
-            "legend": "reverse pied de mouche",
+            "legend": "reversed pilcrow",
             "keyboard_code": "U+204B "
+        } , 
+         { "row": 2,
+            "column": 5,
+            "character": "",
+            "legend": "paragraphus mark",
+            "keyboard_code": "Junicode : 00F1E1"
         }  
-
     ]
 }
 
