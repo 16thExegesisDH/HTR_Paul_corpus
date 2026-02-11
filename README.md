@@ -14,27 +14,27 @@ The main documentation  is here: [Annotation Guide on GitHub](https://github.com
 
 ## Examples of Specific Cases in Our Corpus
 
-### Legend
-- **RunningTitleZone**: pink
-- **MainZone:Head**: yellow
-- **MainZone:P**: dark green
-- **MainZone:Continued**: light blue
-- **NumberingZone**: rosa 
-- **DropCapitalZone**: dark viola
-- **QuireMarkZone**: viola
-- **MarginTextZone-Note**: pink
+### Ontology
+- **RunningTitleZone** for the running header at the top of the page
+- **GraphicZone** for all decorations (illustrations, ornamentation, etc)
+- **MainZone:Head** for intermediate headings and biblical verses when they are emphasized by the layout
+- **MainZone:P** for a paragraph
+- **MainZone:Continued** for the continuation of an interrupted paragraph
+- **NumberingZone** for numbering (pagination or foliation)
+- **DropCapitalZone** for drop capitals at the beginning of a section
+- **QuireMarkZone** or the organization of quires
+- **MarginTextZone-Note** for marginal comments
 
 ### Examples
 
 | Description | Example |
 | -------- | ------- |
-| **RunningTitleZone**: pink <br/> **MainZone:Head**: yellow <br/> **MainZone:P**: dark green <br/> **MainZone:Continued**: light blue <br/> **NumberingZone**: rosa for "section 12" and "102" <br/> **QuireMarkZone**: viola <br/>**MarginTextZone-Note**: pink | <img src="/pictures/segmentationGL/Bucer_Eph_1.png" width="300"/> |
+| **RunningTitleZone**: viola <br/> **MainZone:Head**: orange <br/> **MainZone:P**: yellow <br/> **MainZone:Continued**: red <br/> **NumberingZone**: light blue <br/> **QuireMarkZone**: dark blue <br/>**MarginTextZone-Note**: green | <img src="/pictures/segmentationGL/bugenhagen_rm.png" width="300"/> |
 | **RunningTitleZone**: pink <br/> **DropCapitalZone**: dark viola <br/> **MainZone:Head**: yellow <br/> **MainZone:P**: dark green <br/> **MainZone:Continued**: light blue <br/> **NumberingZone**: rosa for "456", "II", "III" <br/> **QuireMarkZone**: viola <br/> **MarginTextZone-Note**: pink | <img src="/pictures/segmentationGL/Bucer_Rm_1.png" width="300"/> |
 | **RunningTitleZone**: pink for "VII" (Epistle number) and "Col" (Epistle name) <br/> **MainZone:Head**: yellow <br/> **MainZone:P**: dark green <br/> **MainZone:Continued**: light blue <br/> **NumberingZone**: rosa for "7", "8", "184" | <img src="/pictures/segmentationGL/Lefevre_1.png" width="300"/> |
 | **RunningTitleZone**: pink for "COM" <br/> **DropCapitalZone**: dark viola <br/> **MainZone:Head**: yellow <br/> **MainZone:P**: dark green <br/> **MainZone:Continued**: light blue <br/> **NumberingZone**: rosa for "1", "C4", "D4", "5", "6" | <img src="/pictures/segmentationGL/Lefevre_2.png" width="300"/> |
 | **RunningTitleZone**: pink <br/> **MainZone:Head**: yellow <br/> **MainZone:P**: green <br> **NumberingZone**: rosa <br> **QuireMarkZone**: viola | <img src="/pictures/segmentationGL/ListItem.png" width="300"/> |
 | **TitlePageZone**: light light viola <br/> **MarginTextZone-ManuscriptAddendum**: red <br> _for the manuscript annotation around the text_ <br> | <img src="/pictures/segmentationGL/TitlePage.png" width="300"/> |
-
 
 # II. Guideline for Transcription
 
